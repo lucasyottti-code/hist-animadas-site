@@ -5,7 +5,7 @@
   "formato": "longo+cortes"
  },
  "lote": "LOTE-02",
- "gerado": "2026-10-23T15:53:35",
+ "gerado": "2026-10-23T16:28:35",
  "videos": [
   {
    "id": "V01",
@@ -26,9 +26,42 @@
    "capa": "previa/V01-v1.jpg",
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V01-v1.mp4",
    "v": {
-    "video": "v1"
+    "video": "v1",
+    "titulo": "349de44d",
+    "thumbs": "c40316ce",
+    "descricao": "db235ed4"
    },
-   "numero": 1
+   "numero": 1,
+   "titulos": [
+    "SHOKUNIN | An Animated Short Film",
+    "He Started Everything. He Finished Nothing.",
+    "Why You Lose Interest After 3 Days"
+   ],
+   "titulo_escolhido": "SHOKUNIN | An Animated Short Film",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V01-1-4fa8275f.jpg",
+     "modelo": "A",
+     "texto": "TOO MANY HOBBIES"
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V01-2-a6d12a6f.jpg",
+     "modelo": "B",
+     "texto": "50 YEARS. ONE CRAFT."
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V01-3-78d39092.jpg",
+     "modelo": "C",
+     "texto": "QUIT 20. KEEP 1."
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "Shokunin (職人): why you start everything and finish nothing, and what an old knife sharpener knew about staying with one craft.\n\nKenji opens his closet and gets buried by everything he ever started: a guitar, dumbbells, running shoes, a sketchbook with one page drawn.\nEvery new thing feels like magic. On day three, it goes into the closet.\nThen something in the closet starts whispering, and it always brings a shiny new box.\nA year later, even his only kitchen knife won't cut. So he walks it down the street, to a tiny shop where an old man sits sharpening.\n\nSHOKUNIN (職人, shokunin): craftsman, artisan; a person whose own manual craft is their life's work.\nShokunin katagi (職人気質): the spirit of a true craftsman, pride in one's craft.\n\nSources for the word: Daijisen and Nipponica on Kotobank (kotobank.jp/word/職人) · Jisho (jisho.org/search/職人).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#shokunin #discipline #japan #animation #selfimprovement",
+   "tags": "shokunin,\"shokunin meaning\",\"shokunin spirit\",discipline,\"animated short film\",\"how to stop quitting\",\"shiny object syndrome\",\"finish what you start\",\"japanese craftsman\",tamagoyaki,\"kenji films\"",
+   "comentario": "Be honest: what's sitting in your closet right now that you quit on day three?\nNext film: the hand that reaches for the phone at night before you even decide to."
   },
   {
    "id": "V02",
@@ -49,9 +82,42 @@
    "capa": "previa/V02-v1.jpg",
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V02-v1.mp4",
    "v": {
-    "video": "v1"
+    "video": "v1",
+    "titulo": "aea4b211",
+    "thumbs": "36361238",
+    "descricao": "2819b89d"
    },
-   "numero": 2
+   "numero": 2,
+   "titulos": [
+    "MA | An Animated Short Film",
+    "His Hand Moved Before He Did. | An Animated Short Film",
+    "Can't Stop Scrolling at Night? | An Animated Short Film"
+   ],
+   "titulo_escolhido": "MA | An Animated Short Film",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V02-1-98cd15ba.jpg",
+     "modelo": "A",
+     "texto": "2 AM. AGAIN."
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V02-2-2e7b89e7.jpg",
+     "modelo": "B",
+     "texto": "DRIP. DRIP. CLACK."
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V02-3-98fa7ea6.jpg",
+     "modelo": "C",
+     "texto": "URGE: FAST YOU: SLOW"
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "Phone addiction at night: why your hand grabs the phone before you even decide, and what one pause can change.\n\nBy day, Kenji is fine. He works. He smiles. But at 2:00 AM the phone lights up, and his thumb does the rest.\nSomething climbs out of the screen. Night after night, the Oni gets bigger and Kenji gets smaller.\nThen, one sleepless night, a sound comes from the old man's garden next door: drip, drip, clack.\n\nMA (間): the pause, the space between. In Japanese, ma is the interval of space and time between two things; in the arts (Noh, music) it is the empty beat between one sound and the next. The film uses the word as an image, not as a medical method.\n\nSources: Kotobank, 間 (Daijisen, Nihon Kokugo Daijiten) · Jisho, 間 (ま): \"time; pause; space\" · Kotobank, 鹿威し (shishi-odoshi, the bamboo water pipe of Japanese gardens).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#phoneaddiction #ma #animatedshortfilm #selfimprovement",
+   "tags": "\"phone addiction\",\"phone addiction at night\",\"how to stop scrolling\",\"ma japanese concept\",\"ma meaning\",\"shishi odoshi\",\"animated short film\",\"self improvement\",\"japanese philosophy\",\"phone adiction\"",
+   "comentario": "Be honest: what does your hand reach for before you even decide? And how long can you wait before you touch it?\nNext film: every night, Kenji waits for the spark. It never comes."
   },
   {
    "id": "V03",
@@ -72,9 +138,42 @@
    "capa": "previa/V03-v1.jpg",
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V03-v1.mp4",
    "v": {
-    "video": "v1"
+    "video": "v1",
+    "titulo": "226559d2",
+    "thumbs": "27c8f02f",
+    "descricao": "480a0a59"
    },
-   "numero": 3
+   "numero": 3,
+   "titulos": [
+    "IKIGAI | An Animated Short Film",
+    "When Motivation Never Comes: The Japanese Word Ikigai",
+    "He Waited 120 Days for the Spark. It Never Came."
+   ],
+   "titulo_escolhido": "IKIGAI | An Animated Short Film",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V03-1-66552f9a.jpg",
+     "modelo": "A",
+     "texto": "JUST A CAT?"
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V03-2-088784fe.jpg",
+     "modelo": "B",
+     "texto": "NOT YET."
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V03-3-9cfe4c0f.jpg",
+     "modelo": "C",
+     "texto": "NO FIRE NEEDED"
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "What do you do when motivation never comes? This animated short film answers with one Japanese word: ikigai.\n\nEvery night, Kenji lights a candle by the window and waits for the spark. At night he makes big plans: run, learn, build something, be someone. Every morning at 7:00 the flame is gone, and the Oni of laziness pulls the blanket back up.\nDay 9. Day 30. Day 70. The candles get bigger, the flames get shorter.\nThen, one rainy morning at 6:00, there is a small sound at the door.\n\nIKIGAI (生き甲斐): a reason for living, what makes life worth living. In everyday Japanese it is not a grand life plan, just the reason you get up in the morning.\nFind a reason. Not a spark.\n\nMeaning of the word: Daijisen dictionary (kotobank.jp/word/生き甲斐) · \"Ikigai\", Wikipedia (en.wikipedia.org/wiki/Ikigai).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#ikigai #motivation #japan #animation #selfimprovement",
+   "tags": "ikigai,\"ikigai meaning\",\"what is ikigai\",ikagai,motivation,\"no motivation\",\"how to get motivated\",\"animated short film\",\"japanese philosophy\",\"self improvement\"",
+   "comentario": "What's the small reason that gets you out of bed when you feel nothing: a pet, a person, someone who counts on you?\nNext film: HARA HACHI BU. He takes everything to 100%, and nothing tastes like anything anymore."
   },
   {
    "id": "V04",
@@ -95,9 +194,42 @@
    "capa": "previa/V04-v1.jpg",
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V04-v1.mp4",
    "v": {
-    "video": "v1"
+    "video": "v1",
+    "titulo": "f1ac4afa",
+    "thumbs": "f707edde",
+    "descricao": "db82d9eb"
    },
-   "numero": 4
+   "numero": 4,
+   "titulos": [
+    "HARA HACHI BU | An Animated Short Film",
+    "Why You Never Feel Satisfied | An Animated Short Film",
+    "Bowl 20. Still Empty. | An Animated Short Film"
+   ],
+   "titulo_escolhido": "HARA HACHI BU | An Animated Short Film",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V04-1-1c4284db.jpg",
+     "modelo": "A",
+     "texto": "ENDLESS RAMEN"
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V04-2-98f98a14.jpg",
+     "modelo": "B",
+     "texto": "STOP AT 80%"
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V04-3-0b85912b.jpg",
+     "modelo": "C",
+     "texto": "TOO MUCH ENOUGH"
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "Hara Hachi Bu: why do you never feel satisfied, even when you have everything? An old Japanese saying has a quiet answer.\n\nKenji never stops at enough. His ramen bowl fills itself back up, every episode rolls into the next, and the game runs until sunrise. He is always full, but nothing tastes like anything anymore.\nAnd someone keeps the bowl full: a smiling Oni with a ladle.\nThen one evening a neighbor's grocery bag breaks, and Kenji stays for dinner.\n\nHARA HACHI BU (腹八分, \"eight parts of ten\") is an old Japanese saying about eating: stop when your stomach is about eight parts of ten full, before you are stuffed. In this film it becomes a way to look at everything we binge.\n\"Leave room. Joy lives there.\"\n\nSources for the saying: Daijisen dictionary on Kotobank (kotobank.jp/word/腹八分) · Jisho (jisho.org/search/腹八分).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#harahachibu #dopamine #japanesephilosophy #animation",
+   "tags": "\"hara hachi bu\",harahachibu,\"hara hachi bu meaning\",\"hara hachibunme\",\"eat until 80% full\",\"japanese philosophy\",\"japanese saying\",dopamine,\"never satisfied\",\"binge watching\",\"animated short film\",\"kenji films\"",
+   "comentario": "What do you always finish to 100%, even after it stopped tasting good? Food, shows, games, the feed? Tell us below. Next film: another Japanese word for an everyday trap."
   }
  ]
 }
