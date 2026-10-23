@@ -298,7 +298,7 @@
    "versao": "v1",
    "duracao": 226.0,
    "revisao": "aprovado",
-   "titulo": "HARA HACHI BU | An Animated Short Film",
+   "titulo": "Never Feel Satisfied? Try the Japanese Rule of Stopping at 80%",
    "legenda": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.",
    "legenda_tiktok": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.\n\n#harahachibu #dopamine #japan #animation #selfimprovement",
    "legenda_instagram": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.\n\n#harahachibu #dopamine #japan #animation #selfimprovement",
@@ -310,41 +310,78 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V04-v1.mp4",
    "v": {
     "video": "v1",
-    "titulo": "f1ac4afa",
-    "thumbs": "f707edde",
-    "descricao": "db82d9eb"
+    "titulo": "b38ef043",
+    "thumbs": "2cee6ffd",
+    "descricao": "8b6bed6e"
    },
    "numero": 4,
    "titulos": [
-    "HARA HACHI BU | An Animated Short Film",
-    "Why You Never Feel Satisfied | An Animated Short Film",
-    "Bowl 20. Still Empty. | An Animated Short Film"
+    "Never Feel Satisfied? Try the Japanese Rule of Stopping at 80%",
+    "He Ate 20 Bowls a Night and Still Felt Empty (Animated Story)",
+    "Why More Never Feels Like Enough: An Animated Story About Stopping",
+    "Binge Everything? An Animated Film About Stopping at 80%",
+    "An Animated Story for Anyone Who Can't Stop at Enough",
+    "Leave Room, Joy Lives There: An Animated Film About Enough"
    ],
-   "titulo_escolhido": "HARA HACHI BU | An Animated Short Film",
+   "titulo_escolhido": "Never Feel Satisfied? Try the Japanese Rule of Stopping at 80%",
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V04-1-1c4284db.jpg",
-     "modelo": "A",
-     "texto": "ENDLESS RAMEN"
+     "arquivo": "thumbs/V04-1-263c5daf.jpg",
+     "modelo": "R",
+     "texto": "BOWL 20."
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V04-2-98f98a14.jpg",
-     "modelo": "B",
-     "texto": "STOP AT 80%"
+     "arquivo": "thumbs/V04-2-be2fdfc4.jpg",
+     "modelo": "R",
+     "texto": "STOP AT 80%."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V04-3-0b85912b.jpg",
-     "modelo": "C",
-     "texto": "TOO MUCH ENOUGH"
+     "arquivo": "thumbs/V04-3-ff1b6c75.jpg",
+     "modelo": "R",
+     "texto": "ENOUGH."
     }
    ],
    "thumbs_escolhidas": [],
-   "descricao": "Hara Hachi Bu: why do you never feel satisfied, even when you have everything? An old Japanese saying has a quiet answer.\n\nKenji never stops at enough. His ramen bowl fills itself back up, every episode rolls into the next, and the game runs until sunrise. He is always full, but nothing tastes like anything anymore.\nAnd someone keeps the bowl full: a smiling Oni with a ladle.\nThen one evening a neighbor's grocery bag breaks, and Kenji stays for dinner.\n\nHARA HACHI BU (腹八分, \"eight parts of ten\") is an old Japanese saying about eating: stop when your stomach is about eight parts of ten full, before you are stuffed. In this film it becomes a way to look at everything we binge.\n\"Leave room. Joy lives there.\"\n\nSources for the saying: Daijisen dictionary on Kotobank (kotobank.jp/word/腹八分) · Jisho (jisho.org/search/腹八分).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#harahachibu #dopamine #japanesephilosophy #animation",
-   "tags": "\"hara hachi bu\",harahachibu,\"hara hachi bu meaning\",\"hara hachibunme\",\"eat until 80% full\",\"japanese philosophy\",\"japanese saying\",dopamine,\"never satisfied\",\"binge watching\",\"animated short film\",\"kenji films\"",
-   "comentario": "What do you always finish to 100%, even after it stopped tasting good? Food, shows, games, the feed? Tell us below. Next film: another Japanese word for an everyday trap."
+   "descricao": "Kenji finishes every bowl, every season and every game, and nothing tastes like anything anymore. Then an old neighbor puts down his chopsticks with rice still in the bowl and shows him the Japanese habit of stopping at 80%.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"hara hachi bu\",\"eat until 80 percent full\",\"never satisfied\",\"binge watching\",\"dopamine detox\",\"self control\",discipline,\"japanese philosophy\",\"japanese habits\",\"animated story\"",
+   "comentario": "What do you always finish to 100%, even after it stopped being good?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.0,
+     "fim": 61.5,
+     "gancho": "Kenji never stopped at enough.",
+     "ideia": "O Kenji termina todo prato, toda temporada numa noite, todo jogo até o sol nascer — e nunca se sente satisfeito. O Oni enche a tigela de novo: tigela 2, tigela 7, tigela 20."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F28",
+     "inicio": 61.5,
+     "fim": 127.5,
+     "gancho": "ONI: why stop now?",
+     "ideia": "Episódio atrás de episódio, fase atrás de fase, 3, 4, 5 da manhã. Quanto mais ele tem, menos sente: pesado, vazio, e nada mais tem gosto."
+    },
+    {
+     "n": 3,
+     "de": "F29",
+     "ate": "F48",
+     "inicio": 127.5,
+     "fim": 205.5,
+     "gancho": "One evening, a neighbor's bag broke.",
+     "ideia": "O velho vizinho come devagar e para com arroz ainda na tigela: oito partes de dez. O Kenji tenta — deixa duas mordidas, um episódio só —, o Oni murcha, a comida volta a ter gosto e ele finalmente baixa os hashis: chega."
+    }
+   ],
+   "embalagem_pendente": true,
+   "titulos_teste": [
+    2,
+    3
+   ]
   }
  ]
 }
