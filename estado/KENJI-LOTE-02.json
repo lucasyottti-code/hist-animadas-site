@@ -19,12 +19,12 @@
      "v": "383b0209"
     },
     "descricao": {
-     "acao": "pendente",
+     "acao": "aprovado",
      "pedido": "",
      "v": "6cef61e3"
     }
    },
-   "acao": "pendente",
+   "acao": "aprovado",
    "pedido": "",
    "titulo": 1,
    "titulos_teste": [
@@ -36,8 +36,8 @@
     2,
     3
    ],
-   "quando": "2026-10-23T21:10:36.085Z"
+   "quando": "2026-10-23T21:10:38.087Z"
   }
  },
- "atualizado": "2026-10-23T21:10:37.740Z"
+ "atualizado": "2026-10-23T21:10:39.773Z"
 }
