@@ -205,7 +205,7 @@
    "versao": "v1",
    "duracao": 228.0,
    "revisao": "aprovado",
-   "titulo": "IKIGAI | An Animated Short Film",
+   "titulo": "No Motivation in the Morning? The Japanese Reason to Get Up Anyway",
    "legenda": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.",
    "legenda_tiktok": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.\n\n#ikigai #motivation #japan #animation #selfimprovement",
    "legenda_instagram": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.\n\n#ikigai #motivation #japan #animation #selfimprovement",
@@ -217,41 +217,78 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V03-v1.mp4",
    "v": {
     "video": "v1",
-    "titulo": "226559d2",
-    "thumbs": "27c8f02f",
-    "descricao": "480a0a59"
+    "titulo": "b62e7e9e",
+    "thumbs": "98b22108",
+    "descricao": "f054fbe6"
    },
    "numero": 3,
    "titulos": [
-    "IKIGAI | An Animated Short Film",
-    "When Motivation Never Comes: The Japanese Word Ikigai",
-    "He Waited 120 Days for the Spark. It Never Came."
+    "No Motivation in the Morning? The Japanese Reason to Get Up Anyway",
+    "He Waited 120 Days for Motivation. A Wet Kitten Changed It All",
+    "Waiting for Motivation? An Animated Story About Finding a Reason",
+    "Stop Waiting for the Spark: An Animated Film About Motivation",
+    "An Animated Story for Anyone Who Can't Get Out of Bed",
+    "Find a Reason, Not a Spark (Animated Story)"
    ],
-   "titulo_escolhido": "IKIGAI | An Animated Short Film",
+   "titulo_escolhido": "No Motivation in the Morning? The Japanese Reason to Get Up Anyway",
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V03-1-66552f9a.jpg",
-     "modelo": "A",
-     "texto": "JUST A CAT?"
+     "arquivo": "thumbs/V03-1-498d8d41.jpg",
+     "modelo": "R",
+     "texto": "STILL WAITING?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V03-2-088784fe.jpg",
-     "modelo": "B",
-     "texto": "NOT YET."
+     "arquivo": "thumbs/V03-2-32175339.jpg",
+     "modelo": "R",
+     "texto": "6:00 AM."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V03-3-9cfe4c0f.jpg",
-     "modelo": "C",
-     "texto": "NO FIRE NEEDED"
+     "arquivo": "thumbs/V03-3-c74f25a6.jpg",
+     "modelo": "R",
+     "texto": "NO SPARK NEEDED."
     }
    ],
    "thumbs_escolhidas": [],
-   "descricao": "What do you do when motivation never comes? This animated short film answers with one Japanese word: ikigai.\n\nEvery night, Kenji lights a candle by the window and waits for the spark. At night he makes big plans: run, learn, build something, be someone. Every morning at 7:00 the flame is gone, and the Oni of laziness pulls the blanket back up.\nDay 9. Day 30. Day 70. The candles get bigger, the flames get shorter.\nThen, one rainy morning at 6:00, there is a small sound at the door.\n\nIKIGAI (生き甲斐): a reason for living, what makes life worth living. In everyday Japanese it is not a grand life plan, just the reason you get up in the morning.\nFind a reason. Not a spark.\n\nMeaning of the word: Daijisen dictionary (kotobank.jp/word/生き甲斐) · \"Ikigai\", Wikipedia (en.wikipedia.org/wiki/Ikigai).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#ikigai #motivation #japan #animation #selfimprovement",
-   "tags": "ikigai,\"ikigai meaning\",\"what is ikigai\",ikagai,motivation,\"no motivation\",\"how to get motivated\",\"animated short film\",\"japanese philosophy\",\"self improvement\"",
-   "comentario": "What's the small reason that gets you out of bed when you feel nothing: a pet, a person, someone who counts on you?\nNext film: HARA HACHI BU. He takes everything to 100%, and nothing tastes like anything anymore."
+   "descricao": "Every night Kenji makes big plans and waits for the spark of motivation that never comes. Then, one rainy morning at 6:00, a small wet kitten knocks on his door and gives him a reason to get up.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"no motivation\",\"how to get motivated\",ikigai,\"ikigai meaning\",\"reason to wake up\",discipline,\"self improvement\",\"japanese philosophy\",\"morning routine\",\"animated story\"",
+   "comentario": "What's the small reason that gets you out of bed when motivation doesn't show up?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.0,
+     "fim": 62.5,
+     "gancho": "Every night, he waited for the spark.",
+     "ideia": "Toda noite o Kenji faz planos enormes e espera a faísca da motivação. De manhã, a vontade some junto com a chama da vela — e o Oni sussurra que é melhor esperar no quentinho."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F27",
+     "inicio": 62.5,
+     "fim": 129.5,
+     "gancho": "Day 30. Plans up to the ceiling.",
+     "ideia": "Dia 30, dia 70, dia 120: os planos crescem, as chamas encolhem e a faísca nunca vem. Numa manhã cinza de chuva, a vela já queimou até o fim."
+    },
+    {
+     "n": 3,
+     "de": "F28",
+     "ate": "F46",
+     "inicio": 129.5,
+     "fim": 208.0,
+     "gancho": "6:00. A small sound.",
+     "ideia": "Às 6:00, um barulhinho na porta: um gatinho molhado. Toalha, leite morno, sem pensar — o Kenji levantou sem faísca nenhuma. Dias depois, numa tempestade, o Oni diz que ninguém está esperando… e atrás da porta, um choro baixinho."
+    }
+   ],
+   "embalagem_pendente": true,
+   "titulos_teste": [
+    2,
+    3
+   ]
   },
   {
    "id": "V04",
