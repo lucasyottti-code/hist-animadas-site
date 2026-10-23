@@ -31,6 +31,7 @@
     return n;
   }
   const mmss = s => { s = Math.round(+s || 0); return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`; };
+  const cheia = a => (a && a.length ? a : null);     // lista vazia (ninguém escolheu ainda) = sem escolha, não "nenhuma"
   const b64 = { para: t => btoa(String.fromCharCode(...new TextEncoder().encode(t))),
                 de: t => new TextDecoder().decode(Uint8Array.from(atob(t.replace(/\n/g, '')), c => c.charCodeAt(0))) };
   function msg(t, erro) { const m = document.getElementById('msg'); if (m) { m.textContent = t; m.className = erro ? 'erro' : ''; } }
@@ -253,7 +254,7 @@
           const tits = v.titulos.map((tt, k) => el('label', { class: 'tit' },
             el('input', { type: 'radio', name: `t-${v._c.lote}-${v.id}`, value: k + 1, checked: esc === k + 1, onchange: registrar }), el('span', {}, tt, ' ', el('small', {}, `${tt.length} caracteres`))));
           card.append(parte('titulo', ['Título ', el('small', {}, 'escolha 1 — os outros vão para o Testar e comparar')], tits, 'O que mudar no título?'));
-          const marcadas = m.thumbs || v.thumbs_escolhidas || (v.thumbs || []).map(x => x.n);
+          const marcadas = m.thumbs || cheia(v.thumbs_escolhidas) || (v.thumbs || []).map(x => x.n);
           const ths = el('div', { class: 'thumbs' }, (v.thumbs || []).filter(x => x.arquivo).map(x => el('figure', {}, el('img', { src: v._c.base + x.arquivo, alt: `thumb ${x.n}`, loading: 'lazy' }),
             el('figcaption', {}, el('label', {}, el('input', { type: 'checkbox', value: x.n, checked: marcadas.includes(x.n), onchange: registrar }), ' no teste A/B'),
               `· ${x.texto || ''} · `, el('a', { href: v._c.base + x.arquivo, download: '' }, 'baixar')))));
@@ -278,7 +279,7 @@
         el('div', { class: 'botoes' }, v.download ? el('a', { class: 'botao primario', href: v.download, download: '' }, '⬇️ Baixar vídeo') : el('span', { class: 'selo' }, 'sem arquivo para baixar')),
         el('p', { class: 'post' }, 'No iPhone: Baixar → toque na setinha de downloads → abra o vídeo → Compartilhar → Salvar vídeo (vai para as Fotos).'));
       if (v.tipo === 'longo') {
-        const ths = m.thumbs || v.thumbs_escolhidas || (v.thumbs || []).map(x => x.n);
+        const ths = cheia(m.thumbs) || cheia(v.thumbs_escolhidas) || (v.thumbs || []).map(x => x.n);
         card.append(copiar('Título', tit || ''), copiar('Descrição', v.descricao || ''), copiar('Tags', v.tags || ''), copiar('Comentário fixado', v.comentario || ''),
           el('div', { class: 'thumbs' }, (v.thumbs || []).filter(x => x.arquivo && ths.includes(x.n)).map((x, k) => el('figure', {}, el('img', { src: v._c.base + x.arquivo, alt: '' }),
             el('figcaption', {}, el('a', { href: v._c.base + x.arquivo, download: '' }, k ? `baixar thumb do teste ${k + 1}` : 'baixar thumb principal'))))),
