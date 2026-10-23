@@ -141,7 +141,7 @@
       return el('div', { class: 'texto' }, el('div', { class: 'rotulo' }, el('span', {}, rotulo), b), el('pre', {}, texto));
     }
 
-    function player(v) { return v.previa ? el('video', { src: base + v.previa, controls: true, preload: 'metadata', playsinline: true }) : el('p', { class: 'vazio' }, 'sem vídeo ainda'); }
+    function player(v) { return v.previa ? el('video', { src: base + v.previa, poster: v.capa ? base + v.capa : null, controls: true, preload: 'metadata', playsinline: true }) : el('p', { class: 'vazio' }, 'sem vídeo ainda'); }
 
     // ---- aba Aprovar
     function cartaoAprovar(v) {
@@ -249,7 +249,7 @@
     }
 
     async function copiarPedido() {
-      const videos = (D.videos || []).map(v => [v, marcaDe(v)]).filter(([, x]) => ['aprovado', 'alterar'].includes(x.acao) && x.versao === v.versao)
+      const videos = (D.videos || []).map(v => [v, marcaDe(v)]).filter(([v, x]) => ['aprovado', 'alterar'].includes(x.acao) && x.versao === v.versao)
         .map(([v, x]) => ({ id: v.id, acao: x.acao, ...(x.acao === 'alterar' ? { pedido: x.pedido } : {}),
           ...(Object.keys(x.partes || {}).length > 1 ? { partes: Object.fromEntries(Object.entries(x.partes).filter(([, y]) => y.acao === 'alterar').map(([k, y]) => [k, y.pedido])) } : {}),
           ...(x.titulo ? { titulo: x.titulo } : {}), ...(x.thumbs ? { thumbs: x.thumbs } : {}) }));
