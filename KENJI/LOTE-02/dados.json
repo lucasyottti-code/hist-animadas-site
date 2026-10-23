@@ -1,0 +1,103 @@
+{
+ "canal": {
+  "id": "KENJI",
+  "nome": "Kenji Films",
+  "formato": "longo+cortes"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-10-23T15:53:35",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 228.0,
+   "revisao": "aprovado",
+   "titulo": "SHOKUNIN | An Animated Short Film",
+   "legenda": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.",
+   "legenda_tiktok": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.\n\n#shokunin #discipline #japan #animation #selfimprovement",
+   "legenda_instagram": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.\n\n#shokunin #discipline #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 1
+  },
+  {
+   "id": "V02",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 226.0,
+   "revisao": "aprovado",
+   "titulo": "MA | An Animated Short Film",
+   "legenda": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.",
+   "legenda_tiktok": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.\n\n#ma #phoneaddiction #japan #animation #selfimprovement",
+   "legenda_instagram": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.\n\n#ma #phoneaddiction #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 2
+  },
+  {
+   "id": "V03",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 228.0,
+   "revisao": "aprovado",
+   "titulo": "IKIGAI | An Animated Short Film",
+   "legenda": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.",
+   "legenda_tiktok": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.\n\n#ikigai #motivation #japan #animation #selfimprovement",
+   "legenda_instagram": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.\n\n#ikigai #motivation #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 3
+  },
+  {
+   "id": "V04",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 226.0,
+   "revisao": "aprovado",
+   "titulo": "HARA HACHI BU | An Animated Short Film",
+   "legenda": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.",
+   "legenda_tiktok": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.\n\n#harahachibu #dopamine #japan #animation #selfimprovement",
+   "legenda_instagram": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.\n\n#harahachibu #dopamine #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 4
+  }
+ ]
+}

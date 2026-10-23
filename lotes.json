@@ -25,5 +25,14 @@
   "videos": 6,
   "postados": 0,
   "formato": "curtos"
+ },
+ {
+  "canal": "KENJI",
+  "nome": "Kenji Films",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-23T15:53:35",
+  "videos": 4,
+  "postados": 0,
+  "formato": "longo+cortes"
  }
 ]
