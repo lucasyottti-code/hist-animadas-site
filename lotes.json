@@ -2,14 +2,6 @@
  {
   "canal": "XABLAU",
   "nome": "Professor Xablau",
-  "lote": "LOTE-02",
-  "gerado": "2026-10-23T14:20:14",
-  "videos": 4,
-  "formato": "curtos"
- },
- {
-  "canal": "XABLAU",
-  "nome": "Professor Xablau",
   "lote": "LOTE-03",
   "gerado": "2026-10-23T14:20:23",
   "videos": 6,
@@ -21,6 +13,15 @@
   "lote": "LOTE-04",
   "gerado": "2026-10-23T14:20:34",
   "videos": 6,
+  "formato": "curtos"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-23T15:00:32",
+  "videos": 4,
+  "postados": 0,
   "formato": "curtos"
  }
 ]

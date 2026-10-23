@@ -203,7 +203,8 @@
       return v.previa ? el('video', { src: v._c.base + v.previa, poster: v.capa ? v._c.base + v.capa : null, controls: true, preload: 'metadata', playsinline: true })
                       : el('p', { class: 'vazio' }, 'sem vídeo ainda');
     }
-    const rotuloVideo = v => v.tipo === 'longo' ? `${v.id} · vídeo do YouTube` : v.tipo === 'corte' ? `${v.id} · corte ${v.corte} de ${v.de}` : v.id;
+    const numero = v => v.numero ? `nº ${String(v.numero).padStart(3, '0')} · ` : '';          // o mesmo do arquivo em PRONTOS/
+    const rotuloVideo = v => numero(v) + (v.tipo === 'longo' ? `${v.id} · vídeo do YouTube` : v.tipo === 'corte' ? `${v.id} · corte ${v.corte} de ${v.de}` : v.id);
 
     // ---- aba Aprovar
     function cartaoAprovar(v) {
