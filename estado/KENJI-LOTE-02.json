@@ -9,12 +9,12 @@
      "v": "v1"
     },
     "titulo": {
-     "acao": "pendente",
+     "acao": "aprovado",
      "pedido": "",
      "v": "efd378fb"
     },
     "thumbs": {
-     "acao": "pendente",
+     "acao": "aprovado",
      "pedido": "",
      "v": "383b0209"
     },
@@ -36,8 +36,8 @@
     2,
     3
    ],
-   "quando": "2026-10-23T21:10:32.919Z"
+   "quando": "2026-10-23T21:10:36.085Z"
   }
  },
- "atualizado": "2026-10-23T21:10:34.502Z"
+ "atualizado": "2026-10-23T21:10:36.387Z"
 }
