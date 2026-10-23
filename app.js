@@ -64,7 +64,7 @@
     const inp = el('input', { type: 'password', placeholder: 'github_pat_…', autocomplete: 'off' });
     const d = el('dialog', {},
       el('h3', {}, 'Entrar para marcar'),
-      el('p', {}, 'Com a chave, o que você marca (aprovar, alterar, postado) fica salvo no site para todo mundo ver. Ela fica só neste aparelho.'),
+      el('p', {}, 'Com a chave, o que você marca (aprovar, alterar, postado) fica salvo no site para todo mundo ver, e o vídeo postado sai do site. Ela fica só neste aparelho. Quem posta: peça a chave ao dono e cole aqui.'),
       el('ol', {},
         el('li', {}, 'Abra ', el('a', { href: 'https://github.com/settings/personal-access-tokens/new', target: '_blank', rel: 'noopener' }, 'github.com → criar chave'), ' (entre na sua conta).'),
         el('li', {}, `Repository access: Only select repositories → ${SITE.repo}.`),
@@ -303,7 +303,7 @@
         el('main', {},
           !chave() && el('div', { class: 'aviso-topo' }, aba === 'aprovar'
             ? 'Sem entrar, o que você marca fica só neste aparelho: depois toque em "Copiar pedido" e cole no chat do canal (/ajustes). Entrando, fica salvo no site na hora.'
-            : 'Sem entrar, o "postado" fica só neste aparelho.'),
+            : 'Sem entrar, o "postado" fica só neste aparelho e o vídeo não sai do site. Toque em Entrar (a chave o dono manda).'),
           aba === 'postar'
             ? [paraPostar.length ? paraPostar.map(cartaoPostar) : el('p', { class: 'vazio' }, jaPostados.length ? 'Tudo postado ✓' : 'Nenhum vídeo aprovado ainda.'),
                jaPostados.length ? el('div', { class: 'aviso-topo' }, el('b', {}, `Já postados (${jaPostados.length}) — saíram do site: `),
