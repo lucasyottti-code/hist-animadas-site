@@ -61,7 +61,11 @@
      "texto": "ONE THING."
     }
    ],
-   "thumbs_escolhidas": [],
+   "thumbs_escolhidas": [
+    1,
+    2,
+    3
+   ],
    "descricao": "Starting a new hobby feels like magic for three days, then it ends up in the closet. Kenji quits twenty of them in one year, until an old knife sharpener shows him what fifty years of one craft looks like.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
    "tags": "\"how to stop quitting\",\"shiny object syndrome\",\"finish what you start\",discipline,\"self improvement\",motivation,\"japanese craftsman\",shokunin,\"japanese philosophy\",\"animated story\"",
    "comentario": "Be honest: what's the last thing you quit on day three?",
@@ -94,7 +98,7 @@
      "ideia": "Numa lojinha da rua, um velho afiador usa a mesma pedra há cinquenta anos. Kenji escolhe uma coisa só — o mesmo omelete enrolado, todo dia —, fecha cada caixa nova do Oni e, no centésimo, acerta."
     }
    ],
-   "embalagem_pendente": true,
+   "embalagem_pendente": false,
    "titulos_teste": [
     2,
     3
