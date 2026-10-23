@@ -112,7 +112,7 @@
    "versao": "v1",
    "duracao": 226.0,
    "revisao": "aprovado",
-   "titulo": "MA | An Animated Short Film",
+   "titulo": "Can't Stop Scrolling at Night? The Japanese Pause That Breaks It",
    "legenda": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.",
    "legenda_tiktok": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.\n\n#ma #phoneaddiction #japan #animation #selfimprovement",
    "legenda_instagram": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.\n\n#ma #phoneaddiction #japan #animation #selfimprovement",
@@ -124,41 +124,78 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V02-v1.mp4",
    "v": {
     "video": "v1",
-    "titulo": "aea4b211",
-    "thumbs": "36361238",
-    "descricao": "2819b89d"
+    "titulo": "98db6d4a",
+    "thumbs": "2a1d7da2",
+    "descricao": "c7a70e95"
    },
    "numero": 2,
    "titulos": [
-    "MA | An Animated Short Film",
-    "His Hand Moved Before He Did. | An Animated Short Film",
-    "Can't Stop Scrolling at Night? | An Animated Short Film"
+    "Can't Stop Scrolling at Night? The Japanese Pause That Breaks It",
+    "His Hand Grabbed the Phone Before He Decided (Animated Story)",
+    "Up All Night on Your Phone? An Animated Story About the Pause",
+    "40 Nights of Scrolling, Then a Bamboo Pipe Taught Him to Wait",
+    "An Animated Story for Anyone Who Can't Put the Phone Down",
+    "The Urge Is Fast. Be Slow: An Animated Film About Phone Addiction"
    ],
-   "titulo_escolhido": "MA | An Animated Short Film",
+   "titulo_escolhido": "Can't Stop Scrolling at Night? The Japanese Pause That Breaks It",
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V02-1-98cd15ba.jpg",
-     "modelo": "A",
-     "texto": "2 AM. AGAIN."
+     "arquivo": "thumbs/V02-1-1edb4c48.jpg",
+     "modelo": "R",
+     "texto": "JUST ONE LOOK?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V02-2-2e7b89e7.jpg",
-     "modelo": "B",
-     "texto": "DRIP. DRIP. CLACK."
+     "arquivo": "thumbs/V02-2-918f8365.jpg",
+     "modelo": "R",
+     "texto": "JUST WAIT."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V02-3-98fa7ea6.jpg",
-     "modelo": "C",
-     "texto": "URGE: FAST YOU: SLOW"
+     "arquivo": "thumbs/V02-3-a05ce364.jpg",
+     "modelo": "R",
+     "texto": "DON'T TOUCH IT."
     }
    ],
    "thumbs_escolhidas": [],
-   "descricao": "Phone addiction at night: why your hand grabs the phone before you even decide, and what one pause can change.\n\nBy day, Kenji is fine. He works. He smiles. But at 2:00 AM the phone lights up, and his thumb does the rest.\nSomething climbs out of the screen. Night after night, the Oni gets bigger and Kenji gets smaller.\nThen, one sleepless night, a sound comes from the old man's garden next door: drip, drip, clack.\n\nMA (間): the pause, the space between. In Japanese, ma is the interval of space and time between two things; in the arts (Noh, music) it is the empty beat between one sound and the next. The film uses the word as an image, not as a medical method.\n\nSources: Kotobank, 間 (Daijisen, Nihon Kokugo Daijiten) · Jisho, 間 (ま): \"time; pause; space\" · Kotobank, 鹿威し (shishi-odoshi, the bamboo water pipe of Japanese gardens).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#phoneaddiction #ma #animatedshortfilm #selfimprovement",
-   "tags": "\"phone addiction\",\"phone addiction at night\",\"how to stop scrolling\",\"ma japanese concept\",\"ma meaning\",\"shishi odoshi\",\"animated short film\",\"self improvement\",\"japanese philosophy\",\"phone adiction\"",
-   "comentario": "Be honest: what does your hand reach for before you even decide? And how long can you wait before you touch it?\nNext film: every night, Kenji waits for the spark. It never comes."
+   "descricao": "His hand grabs the phone before he even decides, and one look turns into three hours, night after night. Then, on a sleepless walk, a bamboo pipe in an old man's garden teaches Kenji the pause between the urge and the hand.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"phone addiction\",\"how to stop scrolling\",doomscrolling,\"screen time at night\",\"can't sleep phone\",\"self control\",discipline,\"japanese philosophy\",\"ma japanese concept\",\"animated story\"",
+   "comentario": "Be honest: how long can you wait before you touch your phone?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.5,
+     "fim": 61.0,
+     "gancho": "His hand moved before he did.",
+     "ideia": "A mão do Kenji pega o celular antes de ele decidir. De dia ele está bem; à noite, o brilho da tela. O Oni sussurra \"rápido, antes de pensar\", e uma olhada vira três horas — até os pássaros acordarem antes dele."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F28",
+     "inicio": 61.0,
+     "fim": 132.0,
+     "gancho": "ONI: now. now. now.",
+     "ideia": "Noite após noite, a mão fica mais rápida e as manhãs, mais cinzas. O Oni cresce, o Kenji encolhe: quarenta noites sem uma única decisão. Sem conseguir dormir, ele sai na rua — e ouve um som vindo do vizinho."
+    },
+    {
+     "n": 3,
+     "de": "F31",
+     "ate": "F47",
+     "inicio": 140.5,
+     "fim": 217.0,
+     "gancho": "For one second, no urge.",
+     "ideia": "No jardim do velho vizinho, um bambu enche, vira e bate — e vem um segundo de silêncio sem vontade nenhuma. O Kenji aprende a esperar: 10, depois 30 respirações. O Oni volta gigante às 2 da manhã… e a mão dele fica parada."
+    }
+   ],
+   "embalagem_pendente": true,
+   "titulos_teste": [
+    2,
+    3
+   ]
   },
   {
    "id": "V03",
