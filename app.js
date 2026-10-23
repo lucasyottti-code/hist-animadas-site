@@ -118,18 +118,61 @@
       if (v.revisao === 'aprovado') return true;
       const ps = Object.keys(v.v); return ps.length > 0 && ps.every(p => (parteValida(v, p) || {}).acao === 'aprovado');
     }
-    function salvar(id, mudar) {
+    async function gravarPendentes() {
+      const ids = [...pendentes]; pendentes.clear();
+      if (!ids.length) return true;
+      try {
+        const novo = await gravarEstado(arqEstado, d => { for (const i of ids) d.videos[i] = E.videos[i]; });
+        E = novo; msg('salvo ✓'); return true;
+      } catch (e) { msg(`não salvou: ${e.message}`, true); ids.forEach(i => pendentes.add(i)); return false; }
+    }
+    function salvar(id, mudar, agora) {
       E.videos[id] = E.videos[id] || {}; mudar(E.videos[id]);
-      if (!chave()) { local.videos[id] = E.videos[id]; guarda.gravar(LOCAL, local); msg('marcado neste aparelho'); return; }
+      if (!chave()) { local.videos[id] = E.videos[id]; guarda.gravar(LOCAL, local); msg('marcado neste aparelho'); return Promise.resolve(false); }
       pendentes.add(id); msg('salvando…');
       clearTimeout(timer);
-      timer = setTimeout(async () => {
-        const ids = [...pendentes]; pendentes.clear();
-        try {
-          const novo = await gravarEstado(arqEstado, d => { for (const i of ids) d.videos[i] = E.videos[i]; });
-          E = novo; msg('salvo ✓');
-        } catch (e) { msg(`não salvou: ${e.message}`, true); ids.forEach(i => pendentes.add(i)); }
-      }, 1200);
+      if (agora) return gravarPendentes();
+      timer = setTimeout(gravarPendentes, 1200);
+      return Promise.resolve(true);
+    }
+
+    // ---- tirar do site o vídeo já postado (pedido do dono: não fica pesando). O original fica no computador de quem fez.
+    const H = () => ({ Authorization: `Bearer ${chave()}`, Accept: 'application/vnd.github+json' });
+    async function apagarArquivo(caminho) {
+      const r = await fetch(`${api(caminho)}?ref=${RAMO}`, { headers: H(), cache: 'no-store' });
+      if (!r.ok) return;
+      const { sha } = await r.json();
+      await fetch(api(caminho), { method: 'DELETE', headers: H(), body: JSON.stringify({ message: `postado: tira ${caminho}`, sha, branch: RAMO }) });
+    }
+    async function editarDados(mudar, tentativa = 1) {
+      const caminho = `${base}dados.json`;
+      const r = await fetch(`${api(caminho)}?ref=${RAMO}`, { headers: H(), cache: 'no-store' });
+      if (!r.ok) throw new Error(`não li ${caminho} (${r.status})`);
+      const j = await r.json(), d = JSON.parse(b64.de(j.content));
+      mudar(d);
+      const w = await fetch(api(caminho), { method: 'PUT', headers: H(), body: JSON.stringify({ message: `postado: ${D.lote}`, content: b64.para(JSON.stringify(d, null, 1)), sha: j.sha, branch: RAMO }) });
+      if ((w.status === 409 || w.status === 422) && tentativa < 3) return editarDados(mudar, tentativa + 1);
+      if (!w.ok) throw new Error(`o GitHub respondeu ${w.status}`);
+    }
+    async function tirarDoSite(v) {
+      if (!chave()) { msg('Para o vídeo sair do site, toque em Entrar (com a chave).', true); return; }
+      msg(`tirando ${v.id} do site…`);
+      try {
+        const tag = `${canalId}-${loteId}`;
+        const r = await fetch(`https://api.github.com/repos/${SITE.repo}/releases/tags/${tag}`, { headers: H() });
+        if (r.ok) {
+          const rel = await r.json();
+          const ativos = await (await fetch(`https://api.github.com/repos/${SITE.repo}/releases/${rel.id}/assets?per_page=100`, { headers: H() })).json();
+          for (const a of ativos) if (a.name.startsWith(`${tag}-${v.id}-`))
+            await fetch(`https://api.github.com/repos/${SITE.repo}/releases/assets/${a.id}`, { method: 'DELETE', headers: H() });
+        }
+        for (const arq of [v.previa, v.capa, ...(v.thumbs || []).map(x => x.arquivo)].filter(Boolean)) await apagarArquivo(base + arq);
+        const hoje = new Date().toISOString().slice(0, 10);
+        await editarDados(d => { const x = (d.videos || []).find(y => y.id === v.id);
+          if (x) { Object.assign(x, { removido: hoje, previa: null, capa: null, download: null }); (x.thumbs || []).forEach(y => { y.arquivo = null; }); } });
+        Object.assign(v, { removido: hoje, previa: null, capa: null, download: null });
+        msg(`${v.id} saiu do site ✓`); desenhar();
+      } catch (e) { msg(`não tirei do site: ${e.message} (o assistente tira depois)`, true); }
     }
 
     function copiar(rotulo, texto) {
@@ -141,7 +184,10 @@
       return el('div', { class: 'texto' }, el('div', { class: 'rotulo' }, el('span', {}, rotulo), b), el('pre', {}, texto));
     }
 
-    function player(v) { return v.previa ? el('video', { src: base + v.previa, poster: v.capa ? base + v.capa : null, controls: true, preload: 'metadata', playsinline: true }) : el('p', { class: 'vazio' }, 'sem vídeo ainda'); }
+    function player(v) {
+      if (v.removido) return el('p', { class: 'vazio' }, `postado — o vídeo saiu do site em ${String(v.removido).split('-').reverse().join('/')}`);
+      return v.previa ? el('video', { src: base + v.previa, poster: v.capa ? base + v.capa : null, controls: true, preload: 'metadata', playsinline: true }) : el('p', { class: 'vazio' }, 'sem vídeo ainda');
+    }
 
     // ---- aba Aprovar
     function cartaoAprovar(v) {
@@ -220,16 +266,29 @@
       } else {
         card.append(copiar('Título (YouTube Shorts)', tit || ''), copiar('Legenda (TikTok)', v.legenda_tiktok || ''), copiar('Legenda (Instagram)', v.legenda_instagram || ''));
       }
-      const plats = v.tipo === 'longo' ? ['youtube'] : (v.plataformas || ['tiktok', 'instagram', 'youtube']).map(p => p === 'shorts' ? 'youtube' : p);
+      const plats = v.tipo === 'longo' ? ['youtube'] : [...new Set((v.plataformas || ['tiktok', 'instagram', 'youtube']).map(p => p === 'shorts' ? 'youtube' : p))];
+      const marcar = async (p, sim) => {
+        const ok = await salvar(v.id, x => { x.postado = { ...(x.postado || {}), [p]: sim ? new Date().toISOString().slice(0, 10) : null }; }, true);
+        const tudo = plats.every(q => (marcaDe(v).postado || {})[q]);
+        if (tudo && ok) tirarDoSite(v);                                  // postado em todas as redes: sai do site
+      };
+      let confirmar = false;
+      const tudoBotao = el('button', { onclick: async () => {
+        if (!confirmar) { confirmar = true; tudoBotao.textContent = 'Toque de novo para tirar do site'; setTimeout(() => { confirmar = false; tudoBotao.textContent = '✅ Postei em tudo — tirar do site'; }, 4000); return; }
+        if (await salvar(v.id, x => { x.concluido = new Date().toISOString().slice(0, 10); }, true)) tirarDoSite(v);
+      } }, '✅ Postei em tudo — tirar do site');
       card.append(el('div', { class: 'postado' }, plats.map(p => el('label', {},
-        el('input', { type: 'checkbox', checked: !!postado[p], onchange: e => salvar(v.id, x => { x.postado = { ...(x.postado || {}), [p]: e.target.checked ? new Date().toISOString().slice(0, 10) : null }; }) }),
-        el('span', {}, `postado no ${PLATS[p] || p}`)))));
+        el('input', { type: 'checkbox', checked: !!postado[p], onchange: e => marcar(p, e.target.checked) }),
+        el('span', {}, `postado no ${PLATS[p] || p}`)))),
+        el('div', { class: 'botoes' }, tudoBotao),
+        el('p', { class: 'post' }, 'Marcou todas as redes (ou tocou em "Postei em tudo"): o vídeo sai do site sozinho, para não pesar. Os textos ficam.'));
       return card;
     }
 
     function desenhar() {
       const lista = D.videos || [];
       const ok = lista.filter(aprovado);
+      const paraPostar = ok.filter(v => !v.removido), jaPostados = ok.filter(v => v.removido);
       const botoesTopo = [];
       if (aba === 'aprovar' && !chave()) botoesTopo.push(el('button', { onclick: () => copiarPedido() }, 'Copiar pedido'));
       botoesTopo.push(chave() ? el('button', { onclick: () => { guarda.apagar('site-chave'); desenhar(); } }, 'Sair')
@@ -239,13 +298,17 @@
           el('h1', {}, el('a', { href: '#/' }, '‹ '), `${D.canal.nome} · ${D.lote} `, el('small', {}, `${ok.length}/${lista.length} aprovado(s)`)),
           el('div', { class: 'abas' },
             el('button', { 'aria-pressed': aba === 'aprovar', onclick: () => { location.hash = `#/${canalId}/${loteId}/aprovar`; } }, 'Aprovar'),
-            el('button', { 'aria-pressed': aba === 'postar', onclick: () => { location.hash = `#/${canalId}/${loteId}/postar`; } }, `Postar (${ok.length})`)),
+            el('button', { 'aria-pressed': aba === 'postar', onclick: () => { location.hash = `#/${canalId}/${loteId}/postar`; } }, `Postar (${paraPostar.length})`)),
           el('span', { id: 'msg' }), ...botoesTopo),
         el('main', {},
           !chave() && el('div', { class: 'aviso-topo' }, aba === 'aprovar'
             ? 'Sem entrar, o que você marca fica só neste aparelho: depois toque em "Copiar pedido" e cole no chat do canal (/ajustes). Entrando, fica salvo no site na hora.'
             : 'Sem entrar, o "postado" fica só neste aparelho.'),
-          aba === 'postar' ? (ok.length ? ok.map(cartaoPostar) : el('p', { class: 'vazio' }, 'Nenhum vídeo aprovado ainda.')) : lista.map(cartaoAprovar)));
+          aba === 'postar'
+            ? [paraPostar.length ? paraPostar.map(cartaoPostar) : el('p', { class: 'vazio' }, jaPostados.length ? 'Tudo postado ✓' : 'Nenhum vídeo aprovado ainda.'),
+               jaPostados.length ? el('div', { class: 'aviso-topo' }, el('b', {}, `Já postados (${jaPostados.length}) — saíram do site: `),
+                 jaPostados.map(v => `${v.id} ${v.titulo || ''}`).join(' · ')) : null]
+            : lista.map(cartaoAprovar)));
     }
 
     async function copiarPedido() {
