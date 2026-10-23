@@ -25,7 +25,7 @@
       else if (k === 'dataset') Object.assign(n.dataset, v);
       else n.setAttribute(k, v === true ? '' : v);
     }
-    for (const f of filhos.flat()) if (f != null && f !== false) n.append(f.nodeType ? f : document.createTextNode(String(f)));
+    for (const f of filhos.flat(Infinity)) if (f != null && f !== false) n.append(f.nodeType ? f : document.createTextNode(String(f)));
     return n;
   }
   const mmss = s => { s = Math.round(+s || 0); return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`; };
@@ -171,7 +171,7 @@
         await editarDados(d => { const x = (d.videos || []).find(y => y.id === v.id);
           if (x) { Object.assign(x, { removido: hoje, previa: null, capa: null, download: null }); (x.thumbs || []).forEach(y => { y.arquivo = null; }); } });
         Object.assign(v, { removido: hoje, previa: null, capa: null, download: null });
-        msg(`${v.id} saiu do site ✓`); desenhar();
+        desenhar(); msg(`${v.id} saiu do site ✓`);
       } catch (e) { msg(`não tirei do site: ${e.message} (o assistente tira depois)`, true); }
     }
 
