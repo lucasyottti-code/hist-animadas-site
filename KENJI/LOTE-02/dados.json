@@ -28,7 +28,7 @@
    "v": {
     "video": "v1",
     "titulo": "efd378fb",
-    "thumbs": "976828be",
+    "thumbs": "383b0209",
     "descricao": "6cef61e3"
    },
    "numero": 1,
@@ -44,21 +44,21 @@
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V01-1-2f883048.jpg",
-     "modelo": "A",
+     "arquivo": "thumbs/V01-1-2a7cddc8.jpg",
+     "modelo": "R",
      "texto": "QUIT AGAIN?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V01-2-604a8793.jpg",
-     "modelo": "B",
-     "texto": "50 YEARS. ONE THING."
+     "arquivo": "thumbs/V01-2-61cb63a5.jpg",
+     "modelo": "R",
+     "texto": "50 YEARS."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V01-3-af726cc7.jpg",
-     "modelo": "C",
-     "texto": "20 STARTS. 0 ENDS."
+     "arquivo": "thumbs/V01-3-3b091fdc.jpg",
+     "modelo": "R",
+     "texto": "ONE THING."
     }
    ],
    "thumbs_escolhidas": [],
