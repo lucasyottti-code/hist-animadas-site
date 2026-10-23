@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-04",
- "gerado": "2026-10-23T14:20:34",
+ "gerado": "2026-10-23T15:01:19",
  "videos": [
   {
    "id": "V01",
@@ -29,7 +29,8 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V01-v1.mp4",
    "v": {
     "video": "v1"
-   }
+   },
+   "numero": 14
   },
   {
    "id": "V02",
@@ -53,7 +54,8 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V02-v1.mp4",
    "v": {
     "video": "v1"
-   }
+   },
+   "numero": 15
   },
   {
    "id": "V03",
@@ -77,7 +79,8 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V03-v1.mp4",
    "v": {
     "video": "v1"
-   }
+   },
+   "numero": 16
   },
   {
    "id": "V04",
@@ -101,7 +104,8 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V04-v1.mp4",
    "v": {
     "video": "v1"
-   }
+   },
+   "numero": 17
   },
   {
    "id": "V05",
@@ -125,7 +129,8 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V05-v1.mp4",
    "v": {
     "video": "v1"
-   }
+   },
+   "numero": 18
   },
   {
    "id": "V06",
@@ -149,7 +154,8 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V06-v1.mp4",
    "v": {
     "video": "v1"
-   }
+   },
+   "numero": 19
   }
  ]
 }
