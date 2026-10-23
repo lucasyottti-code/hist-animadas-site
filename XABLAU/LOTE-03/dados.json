@@ -1,0 +1,155 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-03",
+ "gerado": "2026-10-23T14:09:04",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.17,
+   "revisao": "pendente",
+   "titulo": "Qual foi o primeiro semáforo do mundo? 🤔",
+   "legenda": "Qual foi o primeiro semáforo do mundo? 🚦 Você sabia que ele é mais velho que o carro?",
+   "legenda_tiktok": "Qual foi o primeiro semáforo do mundo? 🚦 Você sabia que ele é mais velho que o carro?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "Qual foi o primeiro semáforo do mundo? 🚦 Você sabia que ele é mais velho que o carro?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-03/XABLAU-LOTE-03-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.5,
+   "revisao": "pendente",
+   "titulo": "A cera do ouvido mostra se você tem cecê? 🤔",
+   "legenda": "A cera do ouvido mostra se você tem cecê? 👂 Você é do time seco ou do time molhado?",
+   "legenda_tiktok": "A cera do ouvido mostra se você tem cecê? 👂 Você é do time seco ou do time molhado?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "legenda_instagram": "A cera do ouvido mostra se você tem cecê? 👂 Você é do time seco ou do time molhado?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-03/XABLAU-LOTE-03-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.63,
+   "revisao": "pendente",
+   "titulo": "Por que a pororoca do rio Araguari acabou? 🤔",
+   "legenda": "Por que a pororoca do rio Araguari acabou? 🌊 Você já tinha ouvido falar dessa onda?",
+   "legenda_tiktok": "Por que a pororoca do rio Araguari acabou? 🌊 Você já tinha ouvido falar dessa onda?\n\n#curiosidades #vocesabia #professorxablau #ciencia",
+   "legenda_instagram": "Por que a pororoca do rio Araguari acabou? 🌊 Você já tinha ouvido falar dessa onda?\n\n#curiosidades #vocesabia #professorxablau #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-03/XABLAU-LOTE-03-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.97,
+   "revisao": "pendente",
+   "titulo": "Por que o beija-flor quase congela toda noite? 🤔",
+   "legenda": "Por que o beija-flor quase congela toda noite? 🐦 Você sabia que passarinho podia fazer isso?",
+   "legenda_tiktok": "Por que o beija-flor quase congela toda noite? 🐦 Você sabia que passarinho podia fazer isso?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "legenda_instagram": "Por que o beija-flor quase congela toda noite? 🐦 Você sabia que passarinho podia fazer isso?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-03/XABLAU-LOTE-03-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.77,
+   "revisao": "pendente",
+   "titulo": "O que fazer se um fio de luz cair perto de você? 🤔",
+   "legenda": "O que fazer se um fio de luz cair perto de você? ⚡ Você sabia que correr é o erro?",
+   "legenda_tiktok": "O que fazer se um fio de luz cair perto de você? ⚡ Você sabia que correr é o erro?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "legenda_instagram": "O que fazer se um fio de luz cair perto de você? ⚡ Você sabia que correr é o erro?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-03/XABLAU-LOTE-03-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.82,
+   "revisao": "pendente",
+   "titulo": "Quem acordava as pessoas antes do despertador? 🤔",
+   "legenda": "Quem acordava as pessoas antes do despertador? ⏰ Você contrataria um batedor?",
+   "legenda_tiktok": "Quem acordava as pessoas antes do despertador? ⏰ Você contrataria um batedor?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "Quem acordava as pessoas antes do despertador? ⏰ Você contrataria um batedor?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-03/XABLAU-LOTE-03-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  }
+ ]
+}
