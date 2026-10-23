@@ -246,6 +246,8 @@
           parte('video', null, null, 'O que mudar neste vídeo? (ex.: o personagem some no fim)'));
       } else {
         card.append(parte('video', ['Vídeo'], null, 'O que mudar no vídeo? (diga o minuto)'));
+        const nThumbs = (v.thumbs || []).filter(x => x.arquivo).length;
+        if (!v.removido && nThumbs < 3) card.append(el('p', { class: 'post' }, `⚠ ${nThumbs ? `só ${nThumbs} de 3 thumbnails` : 'sem as 3 thumbnails'} — o assistente faz antes de postar (/animar).`));
         if (v.titulos && v.titulos.length) {
           const esc = m.titulo || v.titulos.indexOf(v.titulo_escolhido) + 1 || 1;
           const tits = v.titulos.map((tt, k) => el('label', { class: 'tit' },
@@ -253,7 +255,8 @@
           card.append(parte('titulo', ['Título ', el('small', {}, 'escolha 1 — os outros vão para o Testar e comparar')], tits, 'O que mudar no título?'));
           const marcadas = m.thumbs || v.thumbs_escolhidas || (v.thumbs || []).map(x => x.n);
           const ths = el('div', { class: 'thumbs' }, (v.thumbs || []).filter(x => x.arquivo).map(x => el('figure', {}, el('img', { src: v._c.base + x.arquivo, alt: `thumb ${x.n}`, loading: 'lazy' }),
-            el('figcaption', {}, el('label', {}, el('input', { type: 'checkbox', value: x.n, checked: marcadas.includes(x.n), onchange: registrar }), ' no teste A/B'), `· ${x.texto || ''}`))));
+            el('figcaption', {}, el('label', {}, el('input', { type: 'checkbox', value: x.n, checked: marcadas.includes(x.n), onchange: registrar }), ' no teste A/B'),
+              `· ${x.texto || ''} · `, el('a', { href: v._c.base + x.arquivo, download: '' }, 'baixar')))));
           card.append(parte('thumbs', ['Thumbnails ', el('small', {}, 'a 1ª marcada é a principal')], ths, 'O que mudar nas thumbnails? (diga qual: 1, 2 ou 3)'));
           card.append(parte('descricao', ['Descrição, tags e comentário fixado'],
             [copiar('Descrição', v.descricao || ''), copiar('Tags', v.tags || ''), copiar('Comentário fixado', v.comentario || '')], 'O que mudar na descrição, nas tags ou no comentário?'));
