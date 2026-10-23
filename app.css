@@ -56,3 +56,15 @@ dialog::backdrop { background:rgba(0,0,0,.4); }
 dialog input { width:100%; font:inherit; padding:10px; border-radius:8px; border:1px solid var(--linha); background:var(--campo); color:var(--texto); }
 dialog ol { padding-left:20px; font-size:14px; } dialog p { font-size:14px; }
 @media (max-width:520px) { .topo h1 { font-size:16px; } main { padding:12px; gap:12px; } }
+/* o vídeo longo e os cortes dele num cartão só (2026-10-23) */
+.passos { margin:0; padding:10px 12px 10px 32px; background:var(--campo); border:1px solid var(--linha); border-radius:10px; display:flex; flex-wrap:wrap; gap:4px 22px; font-size:14px; color:var(--suave); }
+.passos li.feito { color:var(--ok); font-weight:600; } .passos li.agora { color:var(--texto); font-weight:700; }
+.post.destaque { color:var(--alt); font-weight:600; }
+.cortes-secao { border-top:1px solid var(--linha); padding-top:10px; display:flex; flex-direction:column; gap:10px; }
+.cortes-secao h4 { margin:0; font-size:15px; } .cortes-secao h4 small { color:var(--suave); font-weight:400; font-size:13px; }
+.cortes { display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:12px; align-items:start; }
+.card.sub { border-width:1px; background:var(--campo); }
+.card.sub video { max-height:62vh; }
+.ideia { border:1px dashed var(--linha); border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:6px; font-size:14px; }
+.ideia p { margin:0; } .ideia .gancho { color:var(--suave); font-size:13px; font-style:italic; }
+.ideia .selo { align-self:flex-start; }

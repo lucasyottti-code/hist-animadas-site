@@ -4,6 +4,8 @@
 // publica). Marcações (aprovado, alterar, postado): estado/<CANAL>-<LOTE>.json no próprio repositório, gravado pela API
 // do GitHub com a chave de quem entrou (fica só neste aparelho). Sem chave, a marcação fica neste aparelho e o
 // "Copiar pedido" leva ao chat. Vídeo postado em todas as redes sai do site (prévia e arquivo; os textos ficam).
+// O vídeo longo e os cortes dele são UM cartão (pedido do dono, 2026-10-23): embaixo do longo, as ideias dos cortes e,
+// depois de feitos, os cortes para aprovar e postar; o cartão só sai do site quando o longo e todos os cortes foram postados.
 (() => {
   'use strict';
   const SITE = window.SITE || {};
@@ -130,10 +132,20 @@
 
     const marcaDe = v => v._c.E.videos[v.id] || {};
     const parteValida = (v, p) => { const m = marcaDe(v).partes || {}; return m[p] && m[p].v === (v.v || {})[p] ? m[p] : null; };
+    // vídeo já aprovado cuja embalagem foi refeita (postagem.py embalagem): o vídeo segue aprovado, o resto volta a aprovar
+    const parteJaAprovada = (v, p) => v.revisao === 'aprovado' && (!v.embalagem_pendente || p === 'video');
     function aprovado(v) {
-      if (v.revisao === 'aprovado') return true;
-      const ps = Object.keys(v.v || {}); return ps.length > 0 && ps.every(p => (parteValida(v, p) || {}).acao === 'aprovado');
+      if (v.revisao === 'aprovado' && !v.embalagem_pendente) return true;
+      const ps = Object.keys(v.v || {});
+      return ps.length > 0 && ps.every(p => (parteValida(v, p) || {}).acao === 'aprovado' || (!parteValida(v, p) && parteJaAprovada(v, p)));
     }
+    // ---- a família do vídeo longo: os cortes dele (mesmo lote, `de` = o longo) moram no cartão dele
+    const cortesDe = L => videos.filter(v => v.tipo === 'corte' && v._c === L._c && (v.de || 'V01') === L.id).sort((a, b) => (a.corte || 0) - (b.corte || 0));
+    const longoDe = v => v.tipo === 'corte' ? videos.find(L => L.tipo === 'longo' && L._c === v._c && L.id === (v.de || 'V01')) || null : null;
+    const temFamilia = L => !!L && L.tipo === 'longo' && ((L.cortes_plano || []).length > 0 || cortesDe(L).length > 0);
+    const platsDe = v => v.tipo === 'longo' ? ['youtube'] : [...new Set((v.plataformas || ['tiktok', 'instagram', 'youtube']).map(p => p === 'shorts' ? 'youtube' : p))];
+    const postadoEm = v => { const m = marcaDe(v); return !!v.removido || !!m.concluido || platsDe(v).every(p => (m.postado || {})[p]); };
+    const familiaPostada = L => postadoEm(L) && cortesDe(L).length >= (L.cortes_plano || []).length && cortesDe(L).every(postadoEm);
     async function gravarPendentes(c) {
       const ids = [...c.pendentes]; c.pendentes.clear();
       if (!ids.length) return true;
@@ -210,7 +222,7 @@
     // ---- aba Aprovar
     function cartaoAprovar(v) {
       const m = marcaDe(v);
-      const card = el('article', { class: `card${v.tipo === 'longo' ? ' longo' : ''}`, dataset: { id: v.id } });
+      const card = el('article', { class: `card${v.tipo === 'longo' ? ' longo' : ''}${v.tipo === 'corte' && longoDe(v) ? ' sub' : ''}`, dataset: { id: v.id } });
       const estadoCard = () => {
         const es = [...card.querySelectorAll('.parte')].map(p => p.dataset.estado || 'pendente');
         card.dataset.estado = es.includes('alterar') ? 'alterar' : es.length && es.every(e => e === 'aprovado') ? 'aprovado' : 'pendente';
@@ -230,7 +242,7 @@
         contar();
       };
       const parte = (nomeParte, titulo, conteudo, dica) => {
-        const ja = parteValida(v, nomeParte) || (v.revisao === 'aprovado' ? { acao: 'aprovado', pedido: '' } : null);
+        const ja = parteValida(v, nomeParte) || (parteJaAprovada(v, nomeParte) ? { acao: 'aprovado', pedido: '' } : null);
         const ta = el('textarea', { placeholder: dica }, ja ? ja.pedido || '' : '');
         const p = el('div', { class: 'parte', dataset: { parte: nomeParte, estado: ja ? ja.acao : 'pendente' } },
           titulo && el('h4', {}, ...titulo), conteudo,
@@ -241,7 +253,10 @@
         ta.addEventListener('input', registrar);
         return p;
       };
-      card.append(el('header', {}, el('b', {}, rotuloVideo(v)), el('span', {}, el('span', { class: 'selo' }, v._c.lote), ` ${v.versao} · ${mmss(v.duracao)}`)), player(v));
+      card.append(el('header', {}, el('b', {}, rotuloVideo(v)), el('span', {}, el('span', { class: 'selo' }, v._c.lote), ` ${v.versao} · ${mmss(v.duracao)}`)));
+      if (v.tipo === 'longo' && temFamilia(v)) card.append(passos(v));
+      if (v.embalagem_pendente) card.append(el('p', { class: 'post destaque' }, '🔁 Título, thumbnails e descrição refeitos — o vídeo continua aprovado: aprove o que mudou.'));
+      card.append(player(v));
       if (v.tipo !== 'longo') {
         card.append(el('h3', {}, v.titulo || ''), el('p', { class: 'post' }, v.legenda || ''),
           parte('video', null, null, 'O que mudar neste vídeo? (ex.: o personagem some no fim)'));
@@ -262,9 +277,42 @@
           card.append(parte('descricao', ['Descrição, tags e comentário fixado'],
             [copiar('Descrição', v.descricao || ''), copiar('Tags', v.tags || ''), copiar('Comentário fixado', v.comentario || '')], 'O que mudar na descrição, nas tags ou no comentário?'));
         }
+        if (temFamilia(v)) card.append(secaoCortes(v, 'aprovar'));
       }
       estadoCard();
       return card;
+    }
+
+    // ---- os passos do vídeo longo com cortes: aprovar o longo → os cortes são feitos → aprovar os cortes → postar tudo
+    function passos(L) {
+      const cs = cortesDe(L), plano = (L.cortes_plano || []).length, total = Math.max(plano, cs.length);
+      const okL = aprovado(L), okC = cs.length >= plano && cs.length > 0 && cs.every(aprovado);
+      const passo = (feito, agora, txt) => el('li', { class: feito ? 'feito' : agora ? 'agora' : '' }, (feito ? '✓ ' : '') + txt);
+      return el('ol', { class: 'passos' },
+        passo(okL, !okL, 'Aprovar o vídeo longo'),
+        passo(cs.length >= plano && cs.length > 0, okL && cs.length < plano, cs.length ? `Cortes feitos (${cs.length} de ${total})` : `Fazer os ${total} cortes (o assistente, depois da aprovação)`),
+        passo(okC, okL && cs.length > 0 && !okC, 'Aprovar os cortes'),
+        passo(familiaPostada(L), okL && okC, 'Postar tudo — aí o cartão sai do site'));
+    }
+
+    // ---- embaixo do longo: cada corte planejado (a ideia) ou feito (o vídeo, para aprovar ou postar)
+    function secaoCortes(L, modo) {
+      const cs = cortesDe(L), plano = L.cortes_plano || [];
+      const ns = [...new Set([...plano.map(x => x.n), ...cs.map(c => c.corte)])].filter(x => x != null).sort((a, b) => a - b);
+      const itens = ns.map(n => {
+        const c = cs.find(x => x.corte === n), ideia = plano.find(x => x.n === n);
+        if (c && !c.removido && modo === 'aprovar') return cartaoAprovar(c);
+        if (c && modo === 'postar' && aprovado(c)) return cartaoPostar(c);
+        const quando = ideia && ideia.inicio != null ? ` · ${mmss(ideia.inicio)}–${mmss(ideia.fim)} do longo` : '';
+        const estado = c ? (c.removido ? 'postado ✓' : 'feito — falta aprovar (aba Aprovar)') : (aprovado(L) ? 'o assistente faz agora (/cortes)' : 'feito depois que o longo for aprovado');
+        return el('div', { class: 'ideia' },
+          el('b', {}, `Corte ${n}${quando}`), el('span', { class: 'selo' }, estado),
+          ideia && ideia.ideia ? el('p', {}, ideia.ideia) : null,
+          ideia && ideia.gancho ? el('p', { class: 'gancho' }, `Abre com: “${ideia.gancho}”`) : null);
+      });
+      return el('section', { class: 'cortes-secao' },
+        el('h4', {}, 'Cortes para TikTok, Instagram e Shorts ', el('small', {}, `${ns.length} · cada um é um vídeo vertical de 61–75 s`)),
+        el('div', { class: 'cortes' }, itens));
     }
 
     // ---- aba Postar (a fila: o mais antigo primeiro)
@@ -273,8 +321,8 @@
       const postado = m.postado || {};
       const tits = v.titulos || [];
       const tit = v.tipo === 'longo' ? tits[(m.titulo || tits.indexOf(v.titulo_escolhido) + 1 || 1) - 1] || v.titulo : v.titulo;
-      const card = el('article', { class: `card${v.tipo === 'longo' ? ' longo' : ''}`, dataset: { estado: Object.values(postado).some(Boolean) ? 'aprovado' : 'pendente' } },
-        el('header', {}, el('b', {}, `${ordem} de ${total} · `, rotuloVideo(v)), el('span', {}, el('span', { class: 'selo' }, v._c.lote), ` ${mmss(v.duracao)}`)),
+      const card = el('article', { class: `card${v.tipo === 'longo' ? ' longo' : ''}${v.tipo === 'corte' && longoDe(v) ? ' sub' : ''}`, dataset: { estado: Object.values(postado).some(Boolean) ? 'aprovado' : 'pendente' } },
+        el('header', {}, el('b', {}, ordem ? `${ordem} de ${total} · ` : '', rotuloVideo(v)), el('span', {}, el('span', { class: 'selo' }, v._c.lote), ` ${mmss(v.duracao)}`)),
         player(v),
         el('div', { class: 'botoes' }, v.download ? el('a', { class: 'botao primario', href: v.download, download: '' }, '⬇️ Baixar vídeo') : el('span', { class: 'selo' }, 'sem arquivo para baixar')),
         el('p', { class: 'post' }, 'No iPhone: Baixar → toque na setinha de downloads → abra o vídeo → Compartilhar → Salvar vídeo (vai para as Fotos).'));
@@ -287,27 +335,52 @@
       } else {
         card.append(copiar('Título (YouTube Shorts)', tit || ''), copiar('Legenda (TikTok)', v.legenda_tiktok || ''), copiar('Legenda (Instagram)', v.legenda_instagram || ''));
       }
-      const plats = v.tipo === 'longo' ? ['youtube'] : [...new Set((v.plataformas || ['tiktok', 'instagram', 'youtube']).map(p => p === 'shorts' ? 'youtube' : p))];
+      const plats = platsDe(v);
+      const L = v.tipo === 'longo' ? v : longoDe(v), familia = temFamilia(L);
       const marcar = async (p, sim) => {
         const ok = await salvar(v, x => { x.postado = { ...(x.postado || {}), [p]: sim ? new Date().toISOString().slice(0, 10) : null }; }, true);
-        if (ok && plats.every(q => (marcaDe(v).postado || {})[q])) tirarDoSite(v);          // postado em todas as redes: sai do site
+        if (ok) depoisDePostar(v);
       };
+      const rotuloTudo = familia ? `✅ Postei ${v.tipo === 'longo' ? 'o vídeo longo' : 'este corte'} em tudo` : '✅ Postei em tudo — tirar do site';
       let confirmar = false;
       const tudoBotao = el('button', { onclick: async () => {
-        if (!confirmar) { confirmar = true; tudoBotao.textContent = 'Toque de novo para tirar do site'; setTimeout(() => { confirmar = false; tudoBotao.textContent = '✅ Postei em tudo — tirar do site'; }, 4000); return; }
-        if (await salvar(v, x => { x.concluido = new Date().toISOString().slice(0, 10); }, true)) tirarDoSite(v);
-      } }, '✅ Postei em tudo — tirar do site');
+        if (!familia && !confirmar) { confirmar = true; tudoBotao.textContent = 'Toque de novo para tirar do site'; setTimeout(() => { confirmar = false; tudoBotao.textContent = rotuloTudo; }, 4000); return; }
+        if (await salvar(v, x => { x.concluido = new Date().toISOString().slice(0, 10); }, true)) depoisDePostar(v);
+      } }, rotuloTudo);
       card.append(el('div', { class: 'postado' }, plats.map(p => el('label', {},
         el('input', { type: 'checkbox', checked: !!postado[p], onchange: e => marcar(p, e.target.checked) }),
         el('span', {}, `postado no ${PLATS[p] || p}`)))),
         el('div', { class: 'botoes' }, tudoBotao),
-        el('p', { class: 'post' }, 'Marcou todas as redes (ou tocou em "Postei em tudo"): o vídeo sai do site sozinho, para não pesar. Os textos ficam.'));
+        el('p', { class: 'post' }, familia
+          ? 'O cartão inteiro (o longo e todos os cortes) sai do site sozinho quando tudo estiver postado. Os textos ficam.'
+          : 'Marcou todas as redes (ou tocou em "Postei em tudo"): o vídeo sai do site sozinho, para não pesar. Os textos ficam.'));
+      if (v.tipo === 'longo' && familia) card.append(secaoCortes(v, 'postar'));
       return card;
     }
 
+    // postado: sozinho sai na hora; na família do longo, só quando o longo e todos os cortes foram postados
+    async function depoisDePostar(v) {
+      const L = v.tipo === 'longo' ? v : longoDe(v);
+      if (temFamilia(L)) {
+        if (!familiaPostada(L)) { desenhar(); msg('marcado ✓ — o cartão sai do site quando o longo e todos os cortes forem postados'); return; }
+        for (const x of [L, ...cortesDe(L)]) if (!x.removido) await tirarDoSite(x);
+        return;
+      }
+      if (postadoEm(v)) tirarDoSite(v);
+    }
+
+    // um cartão por vídeo solto e um por família (o longo + os cortes dele); o corte da família não tem cartão próprio
     function grupos() {
-      const vivos = videos.filter(v => !v.removido);
-      return { paraAprovar: vivos.filter(v => !aprovado(v)), paraPostar: vivos.filter(aprovado), postados: videos.filter(v => v.removido) };
+      const soltos = videos.filter(v => !(v.tipo === 'corte' && longoDe(v)));
+      const vivo = v => temFamilia(v) ? !familiaPostada(v) || [v, ...cortesDe(v)].some(x => !x.removido) : !v.removido;
+      const membros = v => temFamilia(v) ? [v, ...cortesDe(v)] : [v];
+      const cartoes = soltos.filter(vivo);
+      return {
+        paraAprovar: cartoes.filter(v => membros(v).some(x => !x.removido && !aprovado(x))),
+        paraPostar: cartoes.filter(aprovado),            // na família, o longo aprovado abre o cartão; os cortes entram quando aprovados
+        esperandoCortes: cartoes.filter(v => temFamilia(v) && aprovado(v) && cortesDe(v).length < (v.cortes_plano || []).length),
+        postados: videos.filter(v => v.removido),
+      };
     }
     function contar() {
       const g = grupos(), c = document.getElementById('conta');
@@ -337,6 +410,7 @@
                g.postados.length ? el('div', { class: 'aviso-topo' }, el('b', {}, `Já postados (${g.postados.length}) — saíram do site: `),
                  g.postados.map(v => `${v._c.lote} ${v.id} ${v.titulo || ''}`).join(' · ')) : null]
             : [g.paraAprovar.length ? g.paraAprovar.map(cartaoAprovar) : el('p', { class: 'vazio' }, 'Nada esperando aprovação ✓'),
+               g.esperandoCortes.length ? el('div', { class: 'aviso-topo' }, `${g.esperandoCortes.length} vídeo(s) longo(s) aprovado(s) esperando os cortes — o assistente faz (/cortes) e eles aparecem aqui, embaixo do longo.`) : null,
                g.paraPostar.length ? el('div', { class: 'aviso-topo' }, `${g.paraPostar.length} aprovado(s) esperando postagem — aba Postar.`) : null]));
       contar();
     }

@@ -15,7 +15,7 @@
    "versao": "v1",
    "duracao": 228.0,
    "revisao": "aprovado",
-   "titulo": "SHOKUNIN | An Animated Short Film",
+   "titulo": "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
    "legenda": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.",
    "legenda_tiktok": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.\n\n#shokunin #discipline #japan #animation #selfimprovement",
    "legenda_instagram": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.\n\n#shokunin #discipline #japan #animation #selfimprovement",
@@ -27,41 +27,71 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V01-v1.mp4",
    "v": {
     "video": "v1",
-    "titulo": "349de44d",
-    "thumbs": "c40316ce",
-    "descricao": "db235ed4"
+    "titulo": "18575251",
+    "thumbs": "e113d3bb",
+    "descricao": "6cef61e3"
    },
    "numero": 1,
    "titulos": [
-    "SHOKUNIN | An Animated Short Film",
-    "He Started Everything. He Finished Nothing.",
-    "Why You Lose Interest After 3 Days"
+    "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
+    "He Started 20 Hobbies in One Year and Finished None of Them",
+    "Stop Starting New Things: What 50 Years of One Craft Teaches You"
    ],
-   "titulo_escolhido": "SHOKUNIN | An Animated Short Film",
+   "titulo_escolhido": "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V01-1-4fa8275f.jpg",
+     "arquivo": "thumbs/V01-1-0cb35b54.jpg",
      "modelo": "A",
-     "texto": "TOO MANY HOBBIES"
+     "texto": "QUIT AGAIN?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V01-2-a6d12a6f.jpg",
+     "arquivo": "thumbs/V01-2-71aa8bf3.jpg",
      "modelo": "B",
-     "texto": "50 YEARS. ONE CRAFT."
+     "texto": "50 YEARS. ONE THING."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V01-3-78d39092.jpg",
+     "arquivo": "thumbs/V01-3-83c1f00d.jpg",
      "modelo": "C",
-     "texto": "QUIT 20. KEEP 1."
+     "texto": "20 STARTS. 0 ENDS."
     }
    ],
    "thumbs_escolhidas": [],
-   "descricao": "Shokunin (職人): why you start everything and finish nothing, and what an old knife sharpener knew about staying with one craft.\n\nKenji opens his closet and gets buried by everything he ever started: a guitar, dumbbells, running shoes, a sketchbook with one page drawn.\nEvery new thing feels like magic. On day three, it goes into the closet.\nThen something in the closet starts whispering, and it always brings a shiny new box.\nA year later, even his only kitchen knife won't cut. So he walks it down the street, to a tiny shop where an old man sits sharpening.\n\nSHOKUNIN (職人, shokunin): craftsman, artisan; a person whose own manual craft is their life's work.\nShokunin katagi (職人気質): the spirit of a true craftsman, pride in one's craft.\n\nSources for the word: Daijisen and Nipponica on Kotobank (kotobank.jp/word/職人) · Jisho (jisho.org/search/職人).\n\nKenji Films: animated short films about discipline and habits. One story and one Japanese word in every film.\n\n#shokunin #discipline #japan #animation #selfimprovement",
-   "tags": "shokunin,\"shokunin meaning\",\"shokunin spirit\",discipline,\"animated short film\",\"how to stop quitting\",\"shiny object syndrome\",\"finish what you start\",\"japanese craftsman\",tamagoyaki,\"kenji films\"",
-   "comentario": "Be honest: what's sitting in your closet right now that you quit on day three?\nNext film: the hand that reaches for the phone at night before you even decide to."
+   "descricao": "Starting a new hobby feels like magic for three days, then it ends up in the closet. Kenji quits twenty of them in one year, until an old knife sharpener shows him what fifty years of one craft looks like.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"how to stop quitting\",\"shiny object syndrome\",\"finish what you start\",discipline,\"self improvement\",motivation,\"japanese craftsman\",shokunin,\"japanese philosophy\",\"animated story\"",
+   "comentario": "Be honest: what's the last thing you quit on day three?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.0,
+     "fim": 61.5,
+     "gancho": "He started everything. He finished nothing.",
+     "ideia": "Kenji abre o armário e é soterrado por tudo o que já começou e largou: violão, halteres, tênis, um caderno com um desenho só. Toda coisa nova é mágica… até o terceiro dia. Aí o Oni sussurra uma novidade, e ele diz sim de novo."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F28",
+     "inicio": 61.5,
+     "fim": 129.0,
+     "gancho": "ONI: this one is the one.",
+     "ideia": "O Oni da preguiça traz uma caixa brilhante atrás da outra, e a pilha de hobbies largados cresce junto com ele. Um ano inteiro de primeiros dias: vinte começos, nenhum fim — até a única faca da casa perder o fio."
+    },
+    {
+     "n": 3,
+     "de": "F31",
+     "ate": "F45",
+     "inicio": 137.5,
+     "fim": 204.0,
+     "gancho": "Fifty years. One craft.",
+     "ideia": "Numa lojinha da rua, um velho afiador usa a mesma pedra há cinquenta anos. Kenji escolhe uma coisa só — o mesmo omelete enrolado, todo dia —, fecha cada caixa nova do Oni e, no centésimo, acerta."
+    }
+   ],
+   "embalagem_pendente": true
   },
   {
    "id": "V02",
