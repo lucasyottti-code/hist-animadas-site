@@ -1,0 +1,43 @@
+{
+ "videos": {
+  "V01": {
+   "versao": "v1",
+   "partes": {
+    "video": {
+     "acao": "aprovado",
+     "pedido": "",
+     "v": "v1"
+    },
+    "titulo": {
+     "acao": "pendente",
+     "pedido": "",
+     "v": "efd378fb"
+    },
+    "thumbs": {
+     "acao": "pendente",
+     "pedido": "",
+     "v": "383b0209"
+    },
+    "descricao": {
+     "acao": "pendente",
+     "pedido": "",
+     "v": "6cef61e3"
+    }
+   },
+   "acao": "pendente",
+   "pedido": "",
+   "titulo": 1,
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "thumbs": [
+    1,
+    2,
+    3
+   ],
+   "quando": "2026-10-23T21:10:32.919Z"
+  }
+ },
+ "atualizado": "2026-10-23T21:10:34.502Z"
+}
