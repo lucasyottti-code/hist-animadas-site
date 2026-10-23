@@ -1,0 +1,18 @@
+{
+ "videos": {
+  "V01": {
+   "versao": "v1",
+   "partes": {
+    "video": {
+     "acao": "aprovado",
+     "pedido": "",
+     "v": "v1"
+    }
+   },
+   "acao": "aprovado",
+   "pedido": "",
+   "quando": "2026-10-23T17:13:30.940Z"
+  }
+ },
+ "atualizado": "2026-10-23T17:13:32.535Z"
+}
