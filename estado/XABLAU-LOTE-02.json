@@ -4,15 +4,15 @@
    "versao": "v1",
    "partes": {
     "video": {
-     "acao": "aprovado",
+     "acao": "pendente",
      "pedido": "",
      "v": "v1"
     }
    },
-   "acao": "aprovado",
+   "acao": "pendente",
    "pedido": "",
-   "quando": "2026-10-23T17:13:30.940Z"
+   "quando": "2026-10-23T17:13:48.144Z"
   }
  },
- "atualizado": "2026-10-23T17:13:32.535Z"
+ "atualizado": "2026-10-23T17:13:49.843Z"
 }
