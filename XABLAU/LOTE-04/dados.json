@@ -1,0 +1,155 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-04",
+ "gerado": "2026-10-23T14:12:28",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.39,
+   "revisao": "pendente",
+   "titulo": "Como funciona o sprinkler do teto do shopping? 🤔",
+   "legenda": "Como funciona o chuveirinho do teto do shopping? 💧 Você achava que era a fumaça que ligava?",
+   "legenda_tiktok": "Como funciona o chuveirinho do teto do shopping? 💧 Você achava que era a fumaça que ligava?\n\n#curiosidades #vocesabia #professorxablau #ciencia",
+   "legenda_instagram": "Como funciona o chuveirinho do teto do shopping? 💧 Você achava que era a fumaça que ligava?\n\n#curiosidades #vocesabia #professorxablau #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.9,
+   "revisao": "pendente",
+   "titulo": "Por que o urubu faz xixi nas próprias pernas? 🤔",
+   "legenda": "Por que o urubu faz xixi nas próprias pernas? 💦 Você teria coragem de ter esse ar-condicionado?",
+   "legenda_tiktok": "Por que o urubu faz xixi nas próprias pernas? 💦 Você teria coragem de ter esse ar-condicionado?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "legenda_instagram": "Por que o urubu faz xixi nas próprias pernas? 💦 Você teria coragem de ter esse ar-condicionado?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.87,
+   "revisao": "pendente",
+   "titulo": "Ratos já foram processados num tribunal? 🤔",
+   "legenda": "Ratos já foram processados num tribunal? 🐀 Você aceitaria essa desculpa dos gatos?",
+   "legenda_tiktok": "Ratos já foram processados num tribunal? 🐀 Você aceitaria essa desculpa dos gatos?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "Ratos já foram processados num tribunal? 🐀 Você aceitaria essa desculpa dos gatos?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.3,
+   "revisao": "pendente",
+   "titulo": "O intestino esticado cobre uma quadra de tênis? 🤔",
+   "legenda": "O seu intestino esticado cobre uma quadra de tênis? 🏸 Você também caiu nessa?",
+   "legenda_tiktok": "O seu intestino esticado cobre uma quadra de tênis? 🏸 Você também caiu nessa?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "legenda_instagram": "O seu intestino esticado cobre uma quadra de tênis? 🏸 Você também caiu nessa?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.67,
+   "revisao": "pendente",
+   "titulo": "O que fazer se você se perder na mata? 🤔",
+   "legenda": "O que fazer se você se perder na mata? 🌲 Você sabia que andar é o erro?",
+   "legenda_tiktok": "O que fazer se você se perder na mata? 🌲 Você sabia que andar é o erro?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "legenda_instagram": "O que fazer se você se perder na mata? 🌲 Você sabia que andar é o erro?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.2,
+   "revisao": "pendente",
+   "titulo": "O Brasil já importou gelo dos Estados Unidos? 🤔",
+   "legenda": "O Brasil já importou gelo dos Estados Unidos? 🧊 Você sabia dessa?",
+   "legenda_tiktok": "O Brasil já importou gelo dos Estados Unidos? 🧊 Você sabia dessa?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "O Brasil já importou gelo dos Estados Unidos? 🧊 Você sabia dessa?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-04/XABLAU-LOTE-04-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   }
+  }
+ ]
+}
