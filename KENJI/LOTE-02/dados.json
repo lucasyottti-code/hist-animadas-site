@@ -27,33 +27,36 @@
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V01-v1.mp4",
    "v": {
     "video": "v1",
-    "titulo": "18575251",
-    "thumbs": "e113d3bb",
+    "titulo": "efd378fb",
+    "thumbs": "976828be",
     "descricao": "6cef61e3"
    },
    "numero": 1,
    "titulos": [
     "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
-    "He Started 20 Hobbies in One Year and Finished None of Them",
-    "Stop Starting New Things: What 50 Years of One Craft Teaches You"
+    "Always Quitting by Day 3? An Animated Story About Finally Finishing",
+    "He Quit 20 Hobbies in One Year: An Animated Film About Discipline",
+    "The Old Craftsman Who Did One Thing for 50 Years (Animated Story)",
+    "An Animated Story for Anyone Who Quits Everything by Day 3",
+    "Stop Starting, Start Staying: An Animated Film About Discipline"
    ],
    "titulo_escolhido": "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V01-1-0cb35b54.jpg",
+     "arquivo": "thumbs/V01-1-2f883048.jpg",
      "modelo": "A",
      "texto": "QUIT AGAIN?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V01-2-71aa8bf3.jpg",
+     "arquivo": "thumbs/V01-2-604a8793.jpg",
      "modelo": "B",
      "texto": "50 YEARS. ONE THING."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V01-3-83c1f00d.jpg",
+     "arquivo": "thumbs/V01-3-af726cc7.jpg",
      "modelo": "C",
      "texto": "20 STARTS. 0 ENDS."
     }
@@ -91,7 +94,11 @@
      "ideia": "Numa lojinha da rua, um velho afiador usa a mesma pedra há cinquenta anos. Kenji escolhe uma coisa só — o mesmo omelete enrolado, todo dia —, fecha cada caixa nova do Oni e, no centésimo, acerta."
     }
    ],
-   "embalagem_pendente": true
+   "embalagem_pendente": true,
+   "titulos_teste": [
+    2,
+    3
+   ]
   },
   {
    "id": "V02",

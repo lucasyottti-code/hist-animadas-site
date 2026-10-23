@@ -224,19 +224,20 @@
       const m = marcaDe(v);
       const card = el('article', { class: `card${v.tipo === 'longo' ? ' longo' : ''}${v.tipo === 'corte' && longoDe(v) ? ' sub' : ''}`, dataset: { id: v.id } });
       const estadoCard = () => {
-        const es = [...card.querySelectorAll('.parte')].map(p => p.dataset.estado || 'pendente');
+        const es = [...card.querySelectorAll(':scope > .parte')].map(p => p.dataset.estado || 'pendente');   // só as do cartão (os cortes têm as deles)
         card.dataset.estado = es.includes('alterar') ? 'alterar' : es.length && es.every(e => e === 'aprovado') ? 'aprovado' : 'pendente';
       };
       const registrar = () => {
         estadoCard();
         salvar(v, x => {
           x.versao = v.versao; x.partes = {};
-          card.querySelectorAll('.parte').forEach(p => { x.partes[p.dataset.parte] = { acao: p.dataset.estado || 'pendente', pedido: p.querySelector('textarea').value.trim(), v: (v.v || {})[p.dataset.parte] }; });
+          card.querySelectorAll(':scope > .parte').forEach(p => { x.partes[p.dataset.parte] = { acao: p.dataset.estado || 'pendente', pedido: p.querySelector('textarea').value.trim(), v: (v.v || {})[p.dataset.parte] }; });
           x.acao = card.dataset.estado;
           const alt = Object.entries(x.partes).filter(([, y]) => y.acao === 'alterar');
           x.pedido = alt.map(([k, y]) => (Object.keys(x.partes).length > 1 ? PARTES[k] + ': ' : '') + y.pedido).join(' · ');
-          const tt = card.querySelector('input[type=radio]:checked'); if (tt) x.titulo = +tt.value;
-          if (card.querySelector('input[type=checkbox]')) x.thumbs = [...card.querySelectorAll('input[type=checkbox]:checked')].map(c2 => +c2.value);
+          const tt = card.querySelector(':scope > .parte input[type=radio]:checked'); if (tt) x.titulo = +tt.value;
+          if (card.querySelector(':scope > .parte input.teste')) x.titulos_teste = [...card.querySelectorAll(':scope > .parte input.teste:checked')].map(c2 => +c2.value);
+          if (card.querySelector(':scope > .parte .thumbs input[type=checkbox]')) x.thumbs = [...card.querySelectorAll(':scope > .parte .thumbs input[type=checkbox]:checked')].map(c2 => +c2.value);
           x.quando = new Date().toISOString();
         });
         contar();
@@ -266,9 +267,20 @@
         if (!v.removido && nThumbs < 3) card.append(el('p', { class: 'post' }, `⚠ ${nThumbs ? `só ${nThumbs} de 3 thumbnails` : 'sem as 3 thumbnails'} — o assistente faz antes de postar (/animar).`));
         if (v.titulos && v.titulos.length) {
           const esc = m.titulo || v.titulos.indexOf(v.titulo_escolhido) + 1 || 1;
-          const tits = v.titulos.map((tt, k) => el('label', { class: 'tit' },
-            el('input', { type: 'radio', name: `t-${v._c.lote}-${v.id}`, value: k + 1, checked: esc === k + 1, onchange: registrar }), el('span', {}, tt, ' ', el('small', {}, `${tt.length} caracteres`))));
-          card.append(parte('titulo', ['Título ', el('small', {}, 'escolha 1 — os outros vão para o Testar e comparar')], tits, 'O que mudar no título?'));
+          // mais de 3 opções: o principal (●) + até 2 para o Testar e comparar do YouTube (☑), que testa até 3 títulos
+          const muitos = v.titulos.length > 3;
+          const teste0 = m.titulos_teste || v.titulos_teste || v.titulos.map((_, k) => k + 1).filter(k => k !== esc).slice(0, 2);
+          const tits = v.titulos.map((tt, k) => el('div', { class: 'tit' },
+            el('label', { class: 'tit-l' }, el('input', { type: 'radio', name: `t-${v._c.lote}-${v.id}`, value: k + 1, checked: esc === k + 1, onchange: e => {
+              const b = e.target.closest('.tit').querySelector('input.teste'); if (b) b.checked = false;
+              registrar(); } }),
+              el('span', {}, tt, ' ', el('small', {}, `${tt.length} caracteres`))),
+            muitos ? el('label', { class: 'teste-l' }, el('input', { type: 'checkbox', class: 'teste', value: k + 1, checked: teste0.includes(k + 1) && esc !== k + 1, onchange: e => {
+              const marcados = card.querySelectorAll(':scope > .parte input.teste:checked');
+              const radio = e.target.closest('.tit').querySelector('input[type=radio]');
+              if (e.target.checked && (marcados.length > 2 || radio.checked)) { e.target.checked = false; msg(radio.checked ? 'esse já é o principal' : 'o teste do YouTube leva o principal + 2', true); return; }
+              registrar(); } }), ' no teste') : null));
+          card.append(parte('titulo', ['Título ', el('small', {}, muitos ? '● o principal · ☑ até 2 para o Testar e comparar' : 'escolha 1 — os outros vão para o Testar e comparar')], tits, 'O que mudar no título?'));
           const marcadas = m.thumbs || cheia(v.thumbs_escolhidas) || (v.thumbs || []).map(x => x.n);
           const ths = el('div', { class: 'thumbs' }, (v.thumbs || []).filter(x => x.arquivo).map(x => el('figure', {}, el('img', { src: v._c.base + x.arquivo, alt: `thumb ${x.n}`, loading: 'lazy' }),
             el('figcaption', {}, el('label', {}, el('input', { type: 'checkbox', value: x.n, checked: marcadas.includes(x.n), onchange: registrar }), ' no teste A/B'),
@@ -328,7 +340,9 @@
         el('p', { class: 'post' }, 'No iPhone: Baixar → toque na setinha de downloads → abra o vídeo → Compartilhar → Salvar vídeo (vai para as Fotos).'));
       if (v.tipo === 'longo') {
         const ths = cheia(m.thumbs) || cheia(v.thumbs_escolhidas) || (v.thumbs || []).map(x => x.n);
-        card.append(copiar('Título', tit || ''), copiar('Descrição', v.descricao || ''), copiar('Tags', v.tags || ''), copiar('Comentário fixado', v.comentario || ''),
+        const iTit = (m.titulo || tits.indexOf(v.titulo_escolhido) + 1 || 1);
+        const teste = (cheia(m.titulos_teste) || cheia(v.titulos_teste) || tits.map((_, k) => k + 1).filter(k => k !== iTit).slice(0, 2)).filter(k => k !== iTit).map(k => tits[k - 1]).filter(Boolean);
+        card.append(copiar('Título', tit || ''), teste.length ? copiar('Títulos do Testar e comparar (YouTube Studio)', teste.join('\n')) : null, copiar('Descrição', v.descricao || ''), copiar('Tags', v.tags || ''), copiar('Comentário fixado', v.comentario || ''),
           el('div', { class: 'thumbs' }, (v.thumbs || []).filter(x => x.arquivo && ths.includes(x.n)).map((x, k) => el('figure', {}, el('img', { src: v._c.base + x.arquivo, alt: '' }),
             el('figcaption', {}, el('a', { href: v._c.base + x.arquivo, download: '' }, k ? `baixar thumb do teste ${k + 1}` : 'baixar thumb principal'))))),
           el('p', { class: 'post' }, 'YouTube Studio → Detalhes: título, descrição, tags, thumbnail principal. "Não é para crianças". Depois: Testar e comparar com as outras thumbs/títulos.'));
@@ -420,7 +434,7 @@
         const vs = (c.D.videos || []).map(v => [v, marcaDe(v)]).filter(([v, x]) => ['aprovado', 'alterar'].includes(x.acao) && x.versao === v.versao)
           .map(([v, x]) => ({ id: v.id, acao: x.acao, ...(x.acao === 'alterar' ? { pedido: x.pedido } : {}),
             ...(Object.keys(x.partes || {}).length > 1 ? { partes: Object.fromEntries(Object.entries(x.partes).filter(([, y]) => y.acao === 'alterar').map(([k, y]) => [k, y.pedido])) } : {}),
-            ...(x.titulo ? { titulo: x.titulo } : {}), ...(x.thumbs ? { thumbs: x.thumbs } : {}) }));
+            ...(x.titulo ? { titulo: x.titulo } : {}), ...(x.titulos_teste ? { titulos_teste: x.titulos_teste } : {}), ...(x.thumbs ? { thumbs: x.thumbs } : {}) }));
         return vs.length ? '/ajustes ' + JSON.stringify({ lote: c.lote, videos: vs }) : null;
       }).filter(Boolean);
       if (!linhas.length) { msg('nada marcado ainda', true); return; }

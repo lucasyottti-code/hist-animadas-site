@@ -68,3 +68,5 @@ dialog ol { padding-left:20px; font-size:14px; } dialog p { font-size:14px; }
 .ideia { border:1px dashed var(--linha); border-radius:12px; padding:12px; display:flex; flex-direction:column; gap:6px; font-size:14px; }
 .ideia p { margin:0; } .ideia .gancho { color:var(--suave); font-size:13px; font-style:italic; }
 .ideia .selo { align-self:flex-start; }
+.tit { flex-wrap:wrap; } .tit-l { display:flex; gap:8px; align-items:flex-start; flex:1 1 220px; }
+.teste-l { font-size:13px; color:var(--suave); display:flex; gap:4px; align-items:center; white-space:nowrap; }
