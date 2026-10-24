@@ -34,5 +34,14 @@
   "videos": 4,
   "postados": 0,
   "formato": "longo+cortes"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-24T06:59:03",
+  "videos": 1,
+  "postados": 0,
+  "formato": "curtos"
  }
 ]

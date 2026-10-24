@@ -1,0 +1,34 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-10-24T06:59:03",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.37,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come ovo de pata?",
+   "legenda": "Por que ninguém come ovo de pata, se a pata bota quase tanto quanto a galinha? 🦆🥚 Você já comeu? Comenta aí 👇",
+   "legenda_tiktok": "Por que ninguém come ovo de pata, se a pata bota quase tanto quanto a galinha? 🦆🥚 Você já comeu? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "legenda_instagram": "Por que ninguém come ovo de pata, se a pata bota quase tanto quanto a galinha? 🦆🥚 Você já comeu? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-01/DESCUBRA-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 1
+  }
+ ]
+}
