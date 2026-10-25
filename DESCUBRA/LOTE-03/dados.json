@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-03",
- "gerado": "2026-10-25T03:59:29",
+ "gerado": "2026-10-25T04:00:23",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 66.47,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que os gatos não têm medo da gente?",
    "legenda": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇",
    "legenda_tiktok": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #gatos #animais",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 4
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 66.87,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que quase ninguém come krill?",
    "legenda": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇",
    "legenda_tiktok": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 5
   }
  ]
 }
