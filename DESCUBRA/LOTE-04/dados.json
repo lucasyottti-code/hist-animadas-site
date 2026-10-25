@@ -1,0 +1,103 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-04",
+ "gerado": "2026-10-25T16:47:42",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.16,
+   "revisao": "pendente",
+   "titulo": "Por que quase ninguém come jacaré, se a carne tem proteína de bife?",
+   "legenda": "Por que quase ninguém come jacaré, se tem proteína de bife? 🐊 Você já provou? Comenta aí 👇",
+   "legenda_tiktok": "Por que quase ninguém come jacaré, se tem proteína de bife? 🐊 Você já provou? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #pantanal #brasil",
+   "legenda_instagram": "Por que quase ninguém come jacaré, se tem proteína de bife? 🐊 Você já provou? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #pantanal #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-04/DESCUBRA-LOTE-04-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 67.17,
+   "revisao": "pendente",
+   "titulo": "Por que quase ninguém come ganso, se é tão fácil de criar?",
+   "legenda": "Por que quase ninguém come ganso, se é tão fácil de criar? 🪿 O do sítio do seu avô também corria atrás de todo mundo? Comenta aí 👇",
+   "legenda_tiktok": "Por que quase ninguém come ganso, se é tão fácil de criar? 🪿 O do sítio do seu avô também corria atrás de todo mundo? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #aves #animais",
+   "legenda_instagram": "Por que quase ninguém come ganso, se é tão fácil de criar? 🪿 O do sítio do seu avô também corria atrás de todo mundo? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #aves #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-04/DESCUBRA-LOTE-04-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.6,
+   "revisao": "pendente",
+   "titulo": "Por que existe gato gigante, mas não existe cachorro gigante?",
+   "legenda": "Por que existe gato gigante, mas não existe cachorro gigante? 🐆🐺 O seu cachorro pesa quanto? Comenta aí 👇",
+   "legenda_tiktok": "Por que existe gato gigante, mas não existe cachorro gigante? 🐆🐺 O seu cachorro pesa quanto? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #cachorro",
+   "legenda_instagram": "Por que existe gato gigante, mas não existe cachorro gigante? 🐆🐺 O seu cachorro pesa quanto? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #cachorro",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-04/DESCUBRA-LOTE-04-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.97,
+   "revisao": "pendente",
+   "titulo": "Por que quase ninguém come esquilo, se já foi comida comum?",
+   "legenda": "Por que quase ninguém come esquilo, se já foi comida comum nos EUA? 🐿️ Já viu um caxinguelê por aí? Comenta aí 👇",
+   "legenda_tiktok": "Por que quase ninguém come esquilo, se já foi comida comum nos EUA? 🐿️ Já viu um caxinguelê por aí? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "legenda_instagram": "Por que quase ninguém come esquilo, se já foi comida comum nos EUA? 🐿️ Já viu um caxinguelê por aí? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-04/DESCUBRA-LOTE-04-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
