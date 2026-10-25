@@ -1,0 +1,57 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-03",
+ "gerado": "2026-10-25T03:59:29",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.47,
+   "revisao": "pendente",
+   "titulo": "Por que os gatos não têm medo da gente?",
+   "legenda": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇",
+   "legenda_tiktok": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #gatos #animais",
+   "legenda_instagram": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #gatos #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-03/DESCUBRA-LOTE-03-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.87,
+   "revisao": "pendente",
+   "titulo": "Por que quase ninguém come krill?",
+   "legenda": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇",
+   "legenda_tiktok": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "legenda_instagram": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-03/DESCUBRA-LOTE-03-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
