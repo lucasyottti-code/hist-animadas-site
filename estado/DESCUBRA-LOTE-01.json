@@ -1,8 +1,11 @@
 {
  "videos": {
   "V01": {
-   "concluido": "2026-10-25"
+   "concluido": "2026-10-25",
+   "postado": {
+    "tiktok": "2026-10-25"
+   }
   }
  },
- "atualizado": "2026-10-25T15:18:59.061Z"
+ "atualizado": "2026-10-25T15:19:06.699Z"
 }
