@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-04",
- "gerado": "2026-10-25T16:47:42",
+ "gerado": "2026-10-25T16:49:10",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 68.16,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que quase ninguém come jacaré, se a carne tem proteína de bife?",
    "legenda": "Por que quase ninguém come jacaré, se tem proteína de bife? 🐊 Você já provou? Comenta aí 👇",
    "legenda_tiktok": "Por que quase ninguém come jacaré, se tem proteína de bife? 🐊 Você já provou? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #pantanal #brasil",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 6
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 67.17,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que quase ninguém come ganso, se é tão fácil de criar?",
    "legenda": "Por que quase ninguém come ganso, se é tão fácil de criar? 🪿 O do sítio do seu avô também corria atrás de todo mundo? Comenta aí 👇",
    "legenda_tiktok": "Por que quase ninguém come ganso, se é tão fácil de criar? 🪿 O do sítio do seu avô também corria atrás de todo mundo? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #aves #animais",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 7
   },
   {
    "id": "V03",
@@ -60,7 +60,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 69.6,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que existe gato gigante, mas não existe cachorro gigante?",
    "legenda": "Por que existe gato gigante, mas não existe cachorro gigante? 🐆🐺 O seu cachorro pesa quanto? Comenta aí 👇",
    "legenda_tiktok": "Por que existe gato gigante, mas não existe cachorro gigante? 🐆🐺 O seu cachorro pesa quanto? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #cachorro",
@@ -74,7 +74,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 8
   },
   {
    "id": "V04",
@@ -83,7 +83,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 68.97,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que quase ninguém come esquilo, se já foi comida comum?",
    "legenda": "Por que quase ninguém come esquilo, se já foi comida comum nos EUA? 🐿️ Já viu um caxinguelê por aí? Comenta aí 👇",
    "legenda_tiktok": "Por que quase ninguém come esquilo, se já foi comida comum nos EUA? 🐿️ Já viu um caxinguelê por aí? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
@@ -97,7 +97,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 9
   }
  ]
 }
