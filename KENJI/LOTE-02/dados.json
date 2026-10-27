@@ -22,9 +22,9 @@
    "plataformas": [
     "youtube"
    ],
-   "previa": "previa/V01-v1.mp4",
-   "capa": "previa/V01-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V01-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1",
     "titulo": "efd378fb",
@@ -44,19 +44,19 @@
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V01-1-2a7cddc8.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "QUIT AGAIN?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V01-2-61cb63a5.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "50 YEARS."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V01-3-3b091fdc.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "ONE THING."
     }
@@ -102,7 +102,8 @@
    "titulos_teste": [
     2,
     3
-   ]
+   ],
+   "removido": "2026-10-27"
   },
   {
    "id": "V02",
@@ -119,9 +120,9 @@
    "plataformas": [
     "youtube"
    ],
-   "previa": "previa/V02-v1.mp4",
-   "capa": "previa/V02-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V02-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1",
     "titulo": "98db6d4a",
@@ -141,19 +142,19 @@
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V02-1-1edb4c48.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "JUST ONE LOOK?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V02-2-918f8365.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "JUST WAIT."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V02-3-a05ce364.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "DON'T TOUCH IT."
     }
@@ -195,7 +196,8 @@
    "titulos_teste": [
     2,
     3
-   ]
+   ],
+   "removido": "2026-10-27"
   },
   {
    "id": "V03",
@@ -212,9 +214,9 @@
    "plataformas": [
     "youtube"
    ],
-   "previa": "previa/V03-v1.mp4",
-   "capa": "previa/V03-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V03-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1",
     "titulo": "b62e7e9e",
@@ -234,19 +236,19 @@
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V03-1-498d8d41.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "STILL WAITING?"
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V03-2-32175339.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "6:00 AM."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V03-3-c74f25a6.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "NO SPARK NEEDED."
     }
@@ -288,7 +290,8 @@
    "titulos_teste": [
     2,
     3
-   ]
+   ],
+   "removido": "2026-10-27"
   },
   {
    "id": "V04",
@@ -305,9 +308,9 @@
    "plataformas": [
     "youtube"
    ],
-   "previa": "previa/V04-v1.mp4",
-   "capa": "previa/V04-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-02/KENJI-LOTE-02-V04-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1",
     "titulo": "b38ef043",
@@ -327,19 +330,19 @@
    "thumbs": [
     {
      "n": 1,
-     "arquivo": "thumbs/V04-1-263c5daf.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "BOWL 20."
     },
     {
      "n": 2,
-     "arquivo": "thumbs/V04-2-be2fdfc4.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "STOP AT 80%."
     },
     {
      "n": 3,
-     "arquivo": "thumbs/V04-3-ff1b6c75.jpg",
+     "arquivo": null,
      "modelo": "R",
      "texto": "ENOUGH."
     }
@@ -381,7 +384,8 @@
    "titulos_teste": [
     2,
     3
-   ]
+   ],
+   "removido": "2026-10-27"
   }
  ]
 }
