@@ -22,13 +22,14 @@
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V01-v3.mp4",
-   "capa": "previa/V01-v3.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-02/DESCUBRA-LOTE-02-V01-v3.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v3"
    },
-   "numero": 2
+   "numero": 2,
+   "removido": "2026-10-27"
   },
   {
    "id": "V02",
