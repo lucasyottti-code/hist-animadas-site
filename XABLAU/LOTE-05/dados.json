@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-05",
- "gerado": "2026-10-28T03:01:35",
+ "gerado": "2026-10-28T16:42:40",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 70.27,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se todos os cabos do seu elevador arrebentassem? 😨",
    "legenda": "E se todos os cabos do seu elevador arrebentassem? 😨 Time pula na hora ou time não pula? Comenta o seu time 👇 (só na imaginação: no elevador de verdade, nada de pular!) Professor Xablau ensinou, agora vai pesquisar!",
    "legenda_tiktok": "E se todos os cabos do seu elevador arrebentassem? 😨 Time pula na hora ou time não pula? Comenta o seu time 👇 (só na imaginação: no elevador de verdade, nada de pular!) Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
@@ -30,7 +30,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 20
   },
   {
    "id": "V02",
@@ -39,7 +39,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.77,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém come porco malpassado? 🐷",
    "legenda": "Por que ninguém come porco malpassado? 🐷 Na sua casa é time bem passado ou time rosadinho? Comenta 👇 (a regra oficial dos EUA, não uma dica nossa: corte inteiro a 63 °C por dentro, medido com termômetro, e 3 minutos de descanso; moída e linguiça, bem passadas) Professor Xablau ensinou, agora vai pesquisar!",
    "legenda_tiktok": "Por que ninguém come porco malpassado? 🐷 Na sua casa é time bem passado ou time rosadinho? Comenta 👇 (a regra oficial dos EUA, não uma dica nossa: corte inteiro a 63 °C por dentro, medido com termômetro, e 3 minutos de descanso; moída e linguiça, bem passadas) Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #comida",
@@ -55,7 +55,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 21
   },
   {
    "id": "V03",
@@ -64,7 +64,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.37,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se um escorpião amarelo morasse no seu ralo? 🦂",
    "legenda": "E se um escorpião amarelo morasse no seu ralo? 🦂 Time chinelo ou time veneno? Comenta o seu time 👇 Professor Xablau ensinou, agora vai pesquisar!",
    "legenda_tiktok": "E se um escorpião amarelo morasse no seu ralo? 🦂 Time chinelo ou time veneno? Comenta o seu time 👇 Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #animais",
@@ -80,7 +80,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 22
   },
   {
    "id": "V04",
@@ -89,7 +89,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 69.07,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém faz xixi na cama dormindo? 😴",
    "legenda": "Por que ninguém faz xixi na cama dormindo? 😴 Você dorme direto ou levanta de madrugada? Comenta 👇 Professor Xablau ensinou, agora vai pesquisar!",
    "legenda_tiktok": "Por que ninguém faz xixi na cama dormindo? 😴 Você dorme direto ou levanta de madrugada? Comenta 👇 Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
@@ -105,7 +105,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 23
   }
  ]
 }
