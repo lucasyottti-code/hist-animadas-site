@@ -19,6 +19,9 @@
     apagar(k) { try { localStorage.removeItem(k); } catch (e) { /* idem */ } },
   };
   const chave = () => guarda.ler('site-chave', '');
+  // desde 2026-10-27 aprova-se e posta-se no OMS (o app do dono); esta página fica de reserva e é o depósito que o OMS lê
+  const avisoOms = () => SITE.oms ? el('div', { class: 'aviso-topo' }, el('b', {}, 'Agora é no OMS: '),
+    'aprovar, pedir alteração e postar ficam no app do dono (Revisar → Animação, Postar). ', el('a', { href: SITE.oms }, 'Abrir o OMS')) : null;
 
   function el(tag, at = {}, ...filhos) {
     const n = document.createElement(tag);
@@ -101,7 +104,7 @@
     const dados = await Promise.all(lotes.map(l => json(`${l.canal}/${l.lote}/dados.json?t=${Date.now()}`).catch(() => ({ videos: [] }))));
     lotes.forEach((l, i) => { l._videos = dados[i].videos || []; });
     app.replaceChildren(
-      el('div', { class: 'topo' }, el('h1', {}, 'Vídeos para aprovar e postar')),
+      el('div', { class: 'topo' }, el('h1', {}, 'Vídeos para aprovar e postar')), avisoOms(),
       el('div', { class: 'lista' }, Object.keys(canais).length ? Object.entries(canais).map(([id, c]) => {
         const vs = c.lotes.flatMap(l => l._videos);
         const vivos = vs.filter(v => !v.removido);
@@ -414,7 +417,7 @@
             el('button', { 'aria-pressed': aba === 'aprovar', onclick: ir('aprovar') }, `Aprovar (${g.paraAprovar.length})`),
             el('button', { 'aria-pressed': aba === 'postar', onclick: ir('postar') }, `Postar (${g.paraPostar.length})`)),
           el('span', { id: 'msg' }), ...botoesTopo),
-        el('main', {},
+        el('main', {}, avisoOms(),
           !chave() && el('div', { class: 'aviso-topo' }, aba === 'aprovar'
             ? 'Sem entrar, o que você marca fica só neste aparelho: depois toque em "Copiar pedido" e cole no chat do canal (/ajustes). Entrando, fica salvo no site na hora.'
             : 'Sem entrar, o "postado" fica só neste aparelho e o vídeo não sai do site. Toque em Entrar (a chave o dono manda).'),

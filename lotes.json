@@ -79,5 +79,14 @@
   "videos": 1,
   "postados": 0,
   "formato": "longo+cortes"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-05",
+  "gerado": "2026-10-28T03:01:35",
+  "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
  }
 ]

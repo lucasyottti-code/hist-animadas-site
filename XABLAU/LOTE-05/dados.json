@@ -1,0 +1,111 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-05",
+ "gerado": "2026-10-28T03:01:35",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.27,
+   "revisao": "pendente",
+   "titulo": "E se todos os cabos do seu elevador arrebentassem? 😨",
+   "legenda": "E se todos os cabos do seu elevador arrebentassem? 😨 Time pula na hora ou time não pula? Comenta o seu time 👇 (só na imaginação: no elevador de verdade, nada de pular!) Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "E se todos os cabos do seu elevador arrebentassem? 😨 Time pula na hora ou time não pula? Comenta o seu time 👇 (só na imaginação: no elevador de verdade, nada de pular!) Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "legenda_instagram": "E se todos os cabos do seu elevador arrebentassem? 😨 Time pula na hora ou time não pula? Comenta o seu time 👇 (só na imaginação: no elevador de verdade, nada de pular!) Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-05/XABLAU-LOTE-05-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.77,
+   "revisao": "pendente",
+   "titulo": "Por que ninguém come porco malpassado? 🐷",
+   "legenda": "Por que ninguém come porco malpassado? 🐷 Na sua casa é time bem passado ou time rosadinho? Comenta 👇 (a regra oficial dos EUA, não uma dica nossa: corte inteiro a 63 °C por dentro, medido com termômetro, e 3 minutos de descanso; moída e linguiça, bem passadas) Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "Por que ninguém come porco malpassado? 🐷 Na sua casa é time bem passado ou time rosadinho? Comenta 👇 (a regra oficial dos EUA, não uma dica nossa: corte inteiro a 63 °C por dentro, medido com termômetro, e 3 minutos de descanso; moída e linguiça, bem passadas) Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #comida",
+   "legenda_instagram": "Por que ninguém come porco malpassado? 🐷 Na sua casa é time bem passado ou time rosadinho? Comenta 👇 (a regra oficial dos EUA, não uma dica nossa: corte inteiro a 63 °C por dentro, medido com termômetro, e 3 minutos de descanso; moída e linguiça, bem passadas) Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #comida",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-05/XABLAU-LOTE-05-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.37,
+   "revisao": "pendente",
+   "titulo": "E se um escorpião amarelo morasse no seu ralo? 🦂",
+   "legenda": "E se um escorpião amarelo morasse no seu ralo? 🦂 Time chinelo ou time veneno? Comenta o seu time 👇 Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "E se um escorpião amarelo morasse no seu ralo? 🦂 Time chinelo ou time veneno? Comenta o seu time 👇 Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "legenda_instagram": "E se um escorpião amarelo morasse no seu ralo? 🦂 Time chinelo ou time veneno? Comenta o seu time 👇 Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-05/XABLAU-LOTE-05-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.07,
+   "revisao": "pendente",
+   "titulo": "Por que ninguém faz xixi na cama dormindo? 😴",
+   "legenda": "Por que ninguém faz xixi na cama dormindo? 😴 Você dorme direto ou levanta de madrugada? Comenta 👇 Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "Por que ninguém faz xixi na cama dormindo? 😴 Você dorme direto ou levanta de madrugada? Comenta 👇 Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "legenda_instagram": "Por que ninguém faz xixi na cama dormindo? 😴 Você dorme direto ou levanta de madrugada? Comenta 👇 Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-05/XABLAU-LOTE-05-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
