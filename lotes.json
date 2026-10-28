@@ -90,15 +90,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "XABLAU",
-  "nome": "Professor Xablau",
-  "lote": "LOTE-06",
-  "gerado": "2026-10-28T12:52:11",
-  "videos": 6,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "KENJI",
   "nome": "Kenji Dojo",
   "lote": "LOTE-05",
@@ -113,6 +104,15 @@
   "lote": "LOTE-05",
   "gerado": "2026-10-28T16:42:40",
   "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-06",
+  "gerado": "2026-10-28T16:45:06",
+  "videos": 6,
   "postados": 0,
   "formato": "curtos"
  }
