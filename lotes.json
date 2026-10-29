@@ -117,15 +117,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "MILITAR",
-  "nome": "Descubra Militar",
-  "lote": "LOTE-01",
-  "gerado": "2026-10-28T22:35:30",
-  "videos": 2,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "BISCOITO",
   "nome": "Biscoito Sabe Tudo",
   "lote": "LOTE-01",
@@ -176,6 +167,15 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-29T18:42:37",
   "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "MILITAR",
+  "nome": "Descubra Militar",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-29T18:55:51",
+  "videos": 2,
   "postados": 0,
   "formato": "curtos"
  }

@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-01",
- "gerado": "2026-10-28T22:35:30",
+ "gerado": "2026-10-29T18:55:51",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.1,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que os soldados não usam mais farda vermelha?",
    "legenda": "Por que ninguém mais vai pra guerra de vermelho? 🔴 A resposta não está na roupa, está na fumaça. E você: time vermelho ou time cáqui? Comenta aí 👇",
    "legenda_tiktok": "Por que ninguém mais vai pra guerra de vermelho? 🔴 A resposta não está na roupa, está na fumaça. E você: time vermelho ou time cáqui? Comenta aí 👇\n\n#curiosidades #historia #militar #primeiraguerra #exercito",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 1
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 74.6,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Como era um dia de soldado romano?",
    "legenda": "Um dia de soldado romano: 30 km de marcha, um botijão nas costas e uma cidade murada cavada à mão… que de manhã ia pro fogo 🔥 Você aguentaria ou desistia na marcha? Comenta 👇",
    "legenda_tiktok": "Um dia de soldado romano: 30 km de marcha, um botijão nas costas e uma cidade murada cavada à mão… que de manhã ia pro fogo 🔥 Você aguentaria ou desistia na marcha? Comenta 👇\n\n#curiosidades #historia #militar #exercito #roma",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 2
   }
  ]
 }
