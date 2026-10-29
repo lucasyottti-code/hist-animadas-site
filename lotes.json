@@ -144,15 +144,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "MILITAR",
-  "nome": "Descubra Militar",
-  "lote": "LOTE-02",
-  "gerado": "2026-10-29T18:05:21",
-  "videos": 10,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "XABLAU",
   "nome": "Professor Xablau",
   "lote": "LOTE-07",
@@ -176,6 +167,15 @@
   "lote": "LOTE-01",
   "gerado": "2026-10-29T18:55:51",
   "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "MILITAR",
+  "nome": "Descubra Militar",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-29T18:56:05",
+  "videos": 10,
   "postados": 0,
   "formato": "curtos"
  }
