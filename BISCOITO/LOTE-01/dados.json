@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-01",
- "gerado": "2026-10-29T12:58:59",
+ "gerado": "2026-10-29T16:06:15",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 76.03,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém dá uva pro cachorro?",
    "legenda": "Por que ninguém dá uva pro cachorro? 🍇 Você já deu e nada aconteceu, ou nunca deu? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "Por que ninguém dá uva pro cachorro? 🍇 Você já deu e nada aconteceu, ou nunca deu? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 1
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 69.47,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se seu cachorro ficasse 20 minutos no carro fechado?",
    "legenda": "E se seu cachorro ficasse 20 minutos no carro fechado? 🚗🔥 Você é do time da janela abertinha ou do time que nunca deixa? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "E se seu cachorro ficasse 20 minutos no carro fechado? 🚗🔥 Você é do time da janela abertinha ou do time que nunca deixa? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 2
   }
  ]
 }
