@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-02",
- "gerado": "2026-10-29T18:42:37",
+ "gerado": "2026-10-29T20:44:07",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 69.32,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que não pode inflar o colete salva-vidas dentro do avião?",
    "legenda": "Por que não pode inflar o colete dentro do avião? 🦺✈️ O motivo não é bagunça. Você sabia disso ou ia puxar na hora? 👇",
    "legenda_tiktok": "Por que não pode inflar o colete dentro do avião? 🦺✈️ O motivo não é bagunça. Você sabia disso ou ia puxar na hora? 👇\n\n#viagem #curiosidades #vocesabia #aviao #seguranca",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 3
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 70.57,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que não pode levar queijo para a Europa?",
    "legenda": "Por que não pode levar queijo para a Europa? 🧀✈️ O motivo não é o queijo. E você: levava pra tia ou deixava em casa? 👇",
    "legenda_tiktok": "Por que não pode levar queijo para a Europa? 🧀✈️ O motivo não é o queijo. E você: levava pra tia ou deixava em casa? 👇\n\n#viagem #curiosidades #vocesabia #europa #portugal",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 4
   },
   {
    "id": "V03",
@@ -60,7 +60,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 74.37,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "O que acontece se um raio atingir o avião?",
    "legenda": "E se um raio atingisse o seu avião agora? ⚡✈️ Spoiler: quase sempre é o avião que cria o raio. Você voltava a dormir ou ficava vigiando a janela? 👇",
    "legenda_tiktok": "E se um raio atingisse o seu avião agora? ⚡✈️ Spoiler: quase sempre é o avião que cria o raio. Você voltava a dormir ou ficava vigiando a janela? 👇\n\n#viagem #curiosidades #vocesabia #aviao #raio",
@@ -74,7 +74,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 5
   },
   {
    "id": "V04",
@@ -83,7 +83,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 69.37,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que a pista da Madeira fica sobre o mar?",
    "legenda": "Por que a pista da Madeira fica sobre o mar? 🛬🌊 Em Portugal, o avião pousa numa pista com pernas. Janela ou corredor nesse pouso? 👇",
    "legenda_tiktok": "Por que a pista da Madeira fica sobre o mar? 🛬🌊 Em Portugal, o avião pousa numa pista com pernas. Janela ou corredor nesse pouso? 👇\n\n#viagem #curiosidades #vocesabia #portugal #aviao",
@@ -97,7 +97,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 6
   }
  ]
 }
