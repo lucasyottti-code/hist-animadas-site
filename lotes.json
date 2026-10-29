@@ -126,15 +126,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "PLANETA",
-  "nome": "Planeta Trip",
-  "lote": "LOTE-01",
-  "gerado": "2026-10-29T13:08:51",
-  "videos": 2,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "DESCUBRA",
   "nome": "Descubra Natureza",
   "lote": "LOTE-06",
@@ -148,6 +139,15 @@
   "nome": "Biscoito Sabe Tudo",
   "lote": "LOTE-01",
   "gerado": "2026-10-29T16:06:15",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "PLANETA",
+  "nome": "Planeta Trip",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-29T16:07:28",
   "videos": 2,
   "postados": 0,
   "formato": "curtos"

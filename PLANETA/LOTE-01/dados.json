@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-01",
- "gerado": "2026-10-29T13:08:51",
+ "gerado": "2026-10-29T16:07:28",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 69.73,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que o banheiro do avião tem cinzeiro, se é proibido fumar?",
    "legenda": "Por que o banheiro do avião tem cinzeiro, se fumar é proibido? 🚭✈️ (E continua proibido: o detector dispara.) Você já tinha reparado nele? Sim ou nunca? 👇",
    "legenda_tiktok": "Por que o banheiro do avião tem cinzeiro, se fumar é proibido? 🚭✈️ (E continua proibido: o detector dispara.) Você já tinha reparado nele? Sim ou nunca? 👇\n\n#viagem #curiosidades #vocesabia #aviao",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 1
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 73.27,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que o Japão barra tatuado no banho termal?",
    "legenda": "Por que o Japão barra tatuado no banho termal? ♨️ Spoiler: o motivo não é a tatuagem. E você, com tatuagem, encarava o adesivo ou nem ia? 👇",
    "legenda_tiktok": "Por que o Japão barra tatuado no banho termal? ♨️ Spoiler: o motivo não é a tatuagem. E você, com tatuagem, encarava o adesivo ou nem ia? 👇\n\n#viagem #curiosidades #vocesabia #japao #tatuagem",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 2
   }
  ]
 }
