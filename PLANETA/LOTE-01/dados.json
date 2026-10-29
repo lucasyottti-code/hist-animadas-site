@@ -1,0 +1,57 @@
+{
+ "canal": {
+  "id": "PLANETA",
+  "nome": "Planeta Trip",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-10-29T13:08:51",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.73,
+   "revisao": "pendente",
+   "titulo": "Por que o banheiro do avião tem cinzeiro, se é proibido fumar?",
+   "legenda": "Por que o banheiro do avião tem cinzeiro, se fumar é proibido? 🚭✈️ (E continua proibido: o detector dispara.) Você já tinha reparado nele? Sim ou nunca? 👇",
+   "legenda_tiktok": "Por que o banheiro do avião tem cinzeiro, se fumar é proibido? 🚭✈️ (E continua proibido: o detector dispara.) Você já tinha reparado nele? Sim ou nunca? 👇\n\n#viagem #curiosidades #vocesabia #aviao",
+   "legenda_instagram": "Por que o banheiro do avião tem cinzeiro, se fumar é proibido? 🚭✈️ (E continua proibido: o detector dispara.) Você já tinha reparado nele? Sim ou nunca? 👇\n\n#viagem #curiosidades #vocesabia #aviao",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/PLANETA-LOTE-01/PLANETA-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.27,
+   "revisao": "pendente",
+   "titulo": "Por que o Japão barra tatuado no banho termal?",
+   "legenda": "Por que o Japão barra tatuado no banho termal? ♨️ Spoiler: o motivo não é a tatuagem. E você, com tatuagem, encarava o adesivo ou nem ia? 👇",
+   "legenda_tiktok": "Por que o Japão barra tatuado no banho termal? ♨️ Spoiler: o motivo não é a tatuagem. E você, com tatuagem, encarava o adesivo ou nem ia? 👇\n\n#viagem #curiosidades #vocesabia #japao #tatuagem",
+   "legenda_instagram": "Por que o Japão barra tatuado no banho termal? ♨️ Spoiler: o motivo não é a tatuagem. E você, com tatuagem, encarava o adesivo ou nem ia? 👇\n\n#viagem #curiosidades #vocesabia #japao #tatuagem",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/PLANETA-LOTE-01/PLANETA-LOTE-01-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}

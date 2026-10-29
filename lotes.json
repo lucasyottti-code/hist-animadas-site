@@ -133,5 +133,14 @@
   "videos": 2,
   "postados": 0,
   "formato": "curtos"
+ },
+ {
+  "canal": "PLANETA",
+  "nome": "Planeta Trip",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-29T13:08:51",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
  }
 ]
