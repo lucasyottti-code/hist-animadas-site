@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-02",
- "gerado": "2026-10-29T20:38:20",
+ "gerado": "2026-10-29T20:42:55",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.87,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se seu cachorro comesse um chiclete sem açúcar?",
    "legenda": "E se seu cachorro comesse um chiclete sem açúcar? 🍬 Você já sabia do xilitol ou vai correr ler o rótulo da pasta de dente agora? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "E se seu cachorro comesse um chiclete sem açúcar? 🍬 Você já sabia do xilitol ou vai correr ler o rótulo da pasta de dente agora? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 3
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 70.75,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que cachorro grande vive menos que cachorro pequeno?",
    "legenda": "Por que cachorro grande vive menos que cachorro pequeno? ⏳ E o seu: é time grandão ou time pequenininho, e quantos anos ele tem? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "Por que cachorro grande vive menos que cachorro pequeno? ⏳ E o seu: é time grandão ou time pequenininho, e quantos anos ele tem? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 4
   },
   {
    "id": "V03",
@@ -60,7 +60,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 75.5,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Seu cachorro sente o cheiro do seu estresse?",
    "legenda": "Quase ninguém sabe que seu cachorro fareja o seu estresse 👃 O seu percebe quando você tá mal, ou nem liga? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "Quase ninguém sabe que seu cachorro fareja o seu estresse 👃 O seu percebe quando você tá mal, ou nem liga? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #comportamentocanino",
@@ -74,7 +74,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 5
   },
   {
    "id": "V04",
@@ -83,7 +83,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 74.37,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém dá cebola pro cachorro?",
    "legenda": "Por que ninguém dá cebola pro cachorro? 🧅 E o arroz com feijão temperado, você já deu ou nunca deu? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "Por que ninguém dá cebola pro cachorro? 🧅 E o arroz com feijão temperado, você já deu ou nunca deu? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
@@ -97,7 +97,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 6
   },
   {
    "id": "V05",
@@ -106,7 +106,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.82,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que seu cachorro faz bagunça bebendo água?",
    "legenda": "Por que seu cachorro faz bagunça bebendo água? 💦 O seu molha só o chão ou a cozinha inteira? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "Por que seu cachorro faz bagunça bebendo água? 💦 O seu molha só o chão ou a cozinha inteira? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #comportamentocanino",
@@ -120,7 +120,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 7
   },
   {
    "id": "V06",
@@ -129,7 +129,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 70.63,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que seu cachorro faz cara de pidão?",
    "legenda": "Por que seu cachorro faz cara de pidão? 🥺 E você, resiste ou derrete na hora? Comenta aí 👇 Biscoito sabe tudo. 🍪",
    "legenda_tiktok": "Por que seu cachorro faz cara de pidão? 🥺 E você, resiste ou derrete na hora? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #comportamentocanino",
@@ -143,7 +143,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 8
   }
  ]
 }
