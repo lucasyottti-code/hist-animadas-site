@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-06",
- "gerado": "2026-10-29T14:01:11",
+ "gerado": "2026-10-29T16:13:54",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.57,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que tubarão não come gente?",
    "legenda": "Por que tubarão não come gente? 🦈 Lá de baixo, você parece outra coisa. Time 'tubarão assassino' ou time 'tubarão inocente'? E depois disso, você entra no mar tranquilo? Comenta 👇",
    "legenda_tiktok": "Por que tubarão não come gente? 🦈 Lá de baixo, você parece outra coisa. Time 'tubarão assassino' ou time 'tubarão inocente'? E depois disso, você entra no mar tranquilo? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 19
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.0,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se você caísse num poço com 75 mil cobras?",
    "legenda": "E se você caísse num poço com 75 mil cobras? 🐍 Elas nem ligam pra você. Agora escolhe: 75 mil cobras-de-jardim no Canadá ou 3 mil jararacas numa ilha do Brasil? Comenta qual poço 👇",
    "legenda_tiktok": "E se você caísse num poço com 75 mil cobras? 🐍 Elas nem ligam pra você. Agora escolhe: 75 mil cobras-de-jardim no Canadá ou 3 mil jararacas numa ilha do Brasil? Comenta qual poço 👇\n\n#curiosidades #natureza #vocesabia #animais #bichos",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 20
   },
   {
    "id": "V03",
@@ -60,7 +60,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.33,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Quem cai no porão inundado de um navio consegue sair?",
    "legenda": "Caiu nesse porão de navio inundado: você sai ou não sai? 🚢🌊 O vídeo viral exagera, mas uma parte é verdade. Time escada ou time boiar? Comenta 👇",
    "legenda_tiktok": "Caiu nesse porão de navio inundado: você sai ou não sai? 🚢🌊 O vídeo viral exagera, mas uma parte é verdade. Time escada ou time boiar? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #ciencia",
@@ -74,7 +74,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 21
   },
   {
    "id": "V04",
@@ -83,7 +83,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 69.23,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém come piranha?",
    "legenda": "Por que ninguém come piranha? 🐟 No mercado ela é rejeito, mas no Pantanal vira caldo (e com fama de afrodisíaco). Caldo de piranha: você toma ou passa longe? 👇",
    "legenda_tiktok": "Por que ninguém come piranha? 🐟 No mercado ela é rejeito, mas no Pantanal vira caldo (e com fama de afrodisíaco). Caldo de piranha: você toma ou passa longe? 👇\n\n#curiosidades #natureza #vocesabia #brasil #comida",
@@ -97,7 +97,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 22
   },
   {
    "id": "V05",
@@ -106,7 +106,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 68.93,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém come tubarão-da-groenlândia?",
    "legenda": "Por que ninguém come tubarão-da-groenlândia? 🦈 Fresco, ele te deixa como bêbado. A Islândia só come depois de meses fermentando e secando. Você provaria: time prova ou time nem morto? 👇",
    "legenda_tiktok": "Por que ninguém come tubarão-da-groenlândia? 🦈 Fresco, ele te deixa como bêbado. A Islândia só come depois de meses fermentando e secando. Você provaria: time prova ou time nem morto? 👇\n\n#curiosidades #natureza #vocesabia #oceano #comida",
@@ -120,7 +120,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 23
   },
   {
    "id": "V06",
@@ -129,7 +129,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 74.57,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se 15 milhões de morcegos te cercassem numa caverna?",
    "legenda": "E se 15 milhões de morcegos te cercassem numa caverna? 🦇 O perigo nem é a mordida. Você: time sai correndo ou time nem entrava? 👇",
    "legenda_tiktok": "E se 15 milhões de morcegos te cercassem numa caverna? 🦇 O perigo nem é a mordida. Você: time sai correndo ou time nem entrava? 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
@@ -143,7 +143,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 24
   }
  ]
 }
