@@ -5,28 +5,28 @@
   "formato": "curtos"
  },
  "lote": "LOTE-02",
- "gerado": "2026-10-29T23:06:59",
+ "gerado": "2026-10-30T01:57:55",
  "videos": [
   {
    "id": "V01",
    "tipo": "curto",
    "corte": null,
    "de": null,
-   "versao": "v1",
-   "duracao": 66.57,
-   "revisao": "alterar",
-   "titulo": "Por que puseram sapos vivos numa torta em 1660?",
-   "legenda": "Em 1660, um livro de cozinha ensinava a pôr sapos e passarinhos vivos dentro da torta 🐸🐦 Qual seria a pior surpresa na sua torta? Comenta aí 👇",
-   "legenda_tiktok": "Em 1660, um livro de cozinha ensinava a pôr sapos e passarinhos vivos dentro da torta 🐸🐦 Qual seria a pior surpresa na sua torta? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #culinaria",
-   "legenda_instagram": "Em 1660, um livro de cozinha ensinava a pôr sapos e passarinhos vivos dentro da torta 🐸🐦 Qual seria a pior surpresa na sua torta? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #culinaria",
+   "versao": "v2",
+   "duracao": 69.2,
+   "revisao": "pendente",
+   "titulo": "Por que o Brasil queimou o próprio café?",
+   "legenda": "Entre 1931 e 1944 o Brasil queimou mais de 70 milhões de sacas de café, de propósito ☕🔥 Pra você, foi loucura ou foi plano? Comenta aí 👇",
+   "legenda_tiktok": "Entre 1931 e 1944 o Brasil queimou mais de 70 milhões de sacas de café, de propósito ☕🔥 Pra você, foi loucura ou foi plano? Comenta aí 👇\n\n#curiosidades #comida #historia #cafe #brasil",
+   "legenda_instagram": "Entre 1931 e 1944 o Brasil queimou mais de 70 milhões de sacas de café, de propósito ☕🔥 Pra você, foi loucura ou foi plano? Comenta aí 👇\n\n#curiosidades #comida #historia #cafe #brasil",
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V01-v1.mp4",
-   "capa": "previa/V01-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V01-v1.mp4",
+   "previa": "previa/V01-v2.mp4",
+   "capa": "previa/V01-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V01-v2.mp4",
    "v": {
-    "video": "v1"
+    "video": "v2"
    },
    "numero": null
   },
@@ -35,21 +35,21 @@
    "tipo": "curto",
    "corte": null,
    "de": null,
-   "versao": "v1",
-   "duracao": 73.17,
-   "revisao": "alterar",
-   "titulo": "Por que tanta gente acreditou que espaguete dá em árvore?",
-   "legenda": "Em 1957 a TV mostrou espaguete dando em árvore… e teve gente ligando pra saber como plantar 🍝🌳 Você teria caído ou teria desconfiado? Comenta aí 👇",
-   "legenda_tiktok": "Em 1957 a TV mostrou espaguete dando em árvore… e teve gente ligando pra saber como plantar 🍝🌳 Você teria caído ou teria desconfiado? Comenta aí 👇\n\n#curiosidades #comida #historia #macarrao #gastronomia",
-   "legenda_instagram": "Em 1957 a TV mostrou espaguete dando em árvore… e teve gente ligando pra saber como plantar 🍝🌳 Você teria caído ou teria desconfiado? Comenta aí 👇\n\n#curiosidades #comida #historia #macarrao #gastronomia",
+   "versao": "v2",
+   "duracao": 68.89,
+   "revisao": "pendente",
+   "titulo": "Por que era proibido fazer sal no Brasil?",
+   "legenda": "No Brasil colônia, fazer sal aqui era proibido: o sal tinha que vir de navio, lá de Portugal 🧂 Você aguentaria um mês sem sal? Comenta aí 👇",
+   "legenda_tiktok": "No Brasil colônia, fazer sal aqui era proibido: o sal tinha que vir de navio, lá de Portugal 🧂 Você aguentaria um mês sem sal? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "legenda_instagram": "No Brasil colônia, fazer sal aqui era proibido: o sal tinha que vir de navio, lá de Portugal 🧂 Você aguentaria um mês sem sal? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V02-v1.mp4",
-   "capa": "previa/V02-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V02-v1.mp4",
+   "previa": "previa/V02-v2.mp4",
+   "capa": "previa/V02-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V02-v2.mp4",
    "v": {
-    "video": "v1"
+    "video": "v2"
    },
    "numero": null
   },
@@ -60,7 +60,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 67.97,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que os ingleses alugavam abacaxi?",
    "legenda": "Na Inglaterra do século 18, abacaxi era tão chique que se alugava por uma noite, só pra enfeitar a mesa 🍍 Você alugaria um ou comia escondido? Comenta aí 👇",
    "legenda_tiktok": "Na Inglaterra do século 18, abacaxi era tão chique que se alugava por uma noite, só pra enfeitar a mesa 🍍 Você alugaria um ou comia escondido? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
@@ -74,28 +74,28 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 1
   },
   {
    "id": "V04",
    "tipo": "curto",
    "corte": null,
    "de": null,
-   "versao": "v1",
-   "duracao": 65.17,
-   "revisao": "alterar",
-   "titulo": "Por que quase ninguém no mundo come abacate doce?",
-   "legenda": "O gringo se assusta com abacate com açúcar… mas o abacate da nossa feira nem é o mesmo do guacamole 🥑 Na sua casa é time açúcar ou time sal? Comenta aí 👇",
-   "legenda_tiktok": "O gringo se assusta com abacate com açúcar… mas o abacate da nossa feira nem é o mesmo do guacamole 🥑 Na sua casa é time açúcar ou time sal? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #abacate",
-   "legenda_instagram": "O gringo se assusta com abacate com açúcar… mas o abacate da nossa feira nem é o mesmo do guacamole 🥑 Na sua casa é time açúcar ou time sal? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #abacate",
+   "versao": "v2",
+   "duracao": 66.67,
+   "revisao": "pendente",
+   "titulo": "Por que a laranja mais famosa dos EUA é baiana?",
+   "legenda": "A laranja mais famosa dos Estados Unidos nasceu na Bahia, e lá ganhou nome de Washington 🍊 Na sua casa é laranja-baía, pera ou lima? Comenta aí 👇",
+   "legenda_tiktok": "A laranja mais famosa dos Estados Unidos nasceu na Bahia, e lá ganhou nome de Washington 🍊 Na sua casa é laranja-baía, pera ou lima? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "legenda_instagram": "A laranja mais famosa dos Estados Unidos nasceu na Bahia, e lá ganhou nome de Washington 🍊 Na sua casa é laranja-baía, pera ou lima? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V04-v1.mp4",
-   "capa": "previa/V04-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V04-v1.mp4",
+   "previa": "previa/V04-v2.mp4",
+   "capa": "previa/V04-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V04-v2.mp4",
    "v": {
-    "video": "v1"
+    "video": "v2"
    },
    "numero": null
   },
@@ -104,21 +104,21 @@
    "tipo": "curto",
    "corte": null,
    "de": null,
-   "versao": "v1",
-   "duracao": 73.0,
-   "revisao": "alterar",
-   "titulo": "Por que a Justiça decidiu que tomate não é fruta?",
-   "legenda": "Em 1893 a Suprema Corte dos EUA julgou o tomate… e o critério foi a sobremesa 🍅⚖️ Pra você, tomate é fruta ou legume? Comenta aí 👇",
-   "legenda_tiktok": "Em 1893 a Suprema Corte dos EUA julgou o tomate… e o critério foi a sobremesa 🍅⚖️ Pra você, tomate é fruta ou legume? Comenta aí 👇\n\n#curiosidades #comida #historia #tomate #gastronomia",
-   "legenda_instagram": "Em 1893 a Suprema Corte dos EUA julgou o tomate… e o critério foi a sobremesa 🍅⚖️ Pra você, tomate é fruta ou legume? Comenta aí 👇\n\n#curiosidades #comida #historia #tomate #gastronomia",
+   "versao": "v2",
+   "duracao": 72.79,
+   "revisao": "pendente",
+   "titulo": "Por que plantar arroz vermelho dava cadeia no Brasil?",
+   "legenda": "Em 1772, plantar arroz vermelho no Maranhão dava um ano de cadeia 🍚 Você já comeu arroz vermelho ou é time arroz branco? Comenta aí 👇",
+   "legenda_tiktok": "Em 1772, plantar arroz vermelho no Maranhão dava um ano de cadeia 🍚 Você já comeu arroz vermelho ou é time arroz branco? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #arroz",
+   "legenda_instagram": "Em 1772, plantar arroz vermelho no Maranhão dava um ano de cadeia 🍚 Você já comeu arroz vermelho ou é time arroz branco? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #arroz",
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V05-v1.mp4",
-   "capa": "previa/V05-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V05-v1.mp4",
+   "previa": "previa/V05-v2.mp4",
+   "capa": "previa/V05-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V05-v2.mp4",
    "v": {
-    "video": "v1"
+    "video": "v2"
    },
    "numero": null
   }

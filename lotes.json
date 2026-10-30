@@ -198,15 +198,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "COMIDA",
-  "nome": "Descubra Comida",
-  "lote": "LOTE-02",
-  "gerado": "2026-10-29T23:06:59",
-  "videos": 5,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "UNIVERSO",
   "nome": "Descubra Universo",
   "lote": "LOTE-01",
@@ -221,6 +212,15 @@
   "lote": "LOTE-03",
   "gerado": "2026-10-30T00:24:40",
   "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "COMIDA",
+  "nome": "Descubra Comida",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-30T01:57:55",
+  "videos": 5,
   "postados": 0,
   "formato": "curtos"
  }
