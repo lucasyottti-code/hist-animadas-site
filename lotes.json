@@ -205,5 +205,14 @@
   "videos": 5,
   "postados": 0,
   "formato": "curtos"
+ },
+ {
+  "canal": "UNIVERSO",
+  "nome": "Descubra Universo",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-30T00:04:36",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
  }
 ]

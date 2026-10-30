@@ -1,0 +1,57 @@
+{
+ "canal": {
+  "id": "UNIVERSO",
+  "nome": "Descubra Universo",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-10-30T00:04:36",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.3,
+   "revisao": "pendente",
+   "titulo": "O que acontece se você tirar a luva no espaço?",
+   "legenda": "No espaço, sua mão não congelaria primeiro 🧤 Ela incharia. Time 'eu tiraria a luva' ou time 'nem pensar'? Comenta 👇",
+   "legenda_tiktok": "No espaço, sua mão não congelaria primeiro 🧤 Ela incharia. Time 'eu tiraria a luva' ou time 'nem pensar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronauta #ciencia",
+   "legenda_instagram": "No espaço, sua mão não congelaria primeiro 🧤 Ela incharia. Time 'eu tiraria a luva' ou time 'nem pensar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronauta #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-01/UNIVERSO-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.27,
+   "revisao": "pendente",
+   "titulo": "Por que o Hubble desliga quando passa sobre o Brasil?",
+   "legenda": "O Hubble para de olhar o céu toda vez que passa sobre o Brasil 🔭 Você sabia que mora embaixo da mancha? Time 'eu sabia' ou time 'nunca ouvi falar'? Comenta 👇",
+   "legenda_tiktok": "O Hubble para de olhar o céu toda vez que passa sobre o Brasil 🔭 Você sabia que mora embaixo da mancha? Time 'eu sabia' ou time 'nunca ouvi falar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #brasil",
+   "legenda_instagram": "O Hubble para de olhar o céu toda vez que passa sobre o Brasil 🔭 Você sabia que mora embaixo da mancha? Time 'eu sabia' ou time 'nunca ouvi falar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-01/UNIVERSO-LOTE-01-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
