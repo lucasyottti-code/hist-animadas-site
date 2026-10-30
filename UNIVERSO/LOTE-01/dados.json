@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-01",
- "gerado": "2026-10-30T00:04:36",
+ "gerado": "2026-10-30T08:29:11",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 74.3,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "O que acontece se você tirar a luva no espaço?",
    "legenda": "No espaço, sua mão não congelaria primeiro 🧤 Ela incharia. Time 'eu tiraria a luva' ou time 'nem pensar'? Comenta 👇",
    "legenda_tiktok": "No espaço, sua mão não congelaria primeiro 🧤 Ela incharia. Time 'eu tiraria a luva' ou time 'nem pensar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronauta #ciencia",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 1
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 72.27,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que o Hubble desliga quando passa sobre o Brasil?",
    "legenda": "O Hubble para de olhar o céu toda vez que passa sobre o Brasil 🔭 Você sabia que mora embaixo da mancha? Time 'eu sabia' ou time 'nunca ouvi falar'? Comenta 👇",
    "legenda_tiktok": "O Hubble para de olhar o céu toda vez que passa sobre o Brasil 🔭 Você sabia que mora embaixo da mancha? Time 'eu sabia' ou time 'nunca ouvi falar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #brasil",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 2
   }
  ]
 }
