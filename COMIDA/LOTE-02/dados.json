@@ -1,0 +1,126 @@
+{
+ "canal": {
+  "id": "COMIDA",
+  "nome": "Descubra Comida",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-10-29T22:37:07",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.57,
+   "revisao": "pendente",
+   "titulo": "Por que puseram sapos vivos numa torta em 1660?",
+   "legenda": "Em 1660, um livro de cozinha ensinava a pôr sapos e passarinhos vivos dentro da torta 🐸🐦 Qual seria a pior surpresa na sua torta? Comenta aí 👇",
+   "legenda_tiktok": "Em 1660, um livro de cozinha ensinava a pôr sapos e passarinhos vivos dentro da torta 🐸🐦 Qual seria a pior surpresa na sua torta? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #culinaria",
+   "legenda_instagram": "Em 1660, um livro de cozinha ensinava a pôr sapos e passarinhos vivos dentro da torta 🐸🐦 Qual seria a pior surpresa na sua torta? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #culinaria",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.17,
+   "revisao": "pendente",
+   "titulo": "Por que tanta gente acreditou que espaguete dá em árvore?",
+   "legenda": "Em 1957 a TV mostrou espaguete dando em árvore… e teve gente ligando pra saber como plantar 🍝🌳 Você teria caído ou teria desconfiado? Comenta aí 👇",
+   "legenda_tiktok": "Em 1957 a TV mostrou espaguete dando em árvore… e teve gente ligando pra saber como plantar 🍝🌳 Você teria caído ou teria desconfiado? Comenta aí 👇\n\n#curiosidades #comida #historia #macarrao #gastronomia",
+   "legenda_instagram": "Em 1957 a TV mostrou espaguete dando em árvore… e teve gente ligando pra saber como plantar 🍝🌳 Você teria caído ou teria desconfiado? Comenta aí 👇\n\n#curiosidades #comida #historia #macarrao #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 67.97,
+   "revisao": "pendente",
+   "titulo": "Por que os ingleses alugavam abacaxi?",
+   "legenda": "Na Inglaterra do século 18, abacaxi era tão chique que se alugava por uma noite, só pra enfeitar a mesa 🍍 Você alugaria um ou comia escondido? Comenta aí 👇",
+   "legenda_tiktok": "Na Inglaterra do século 18, abacaxi era tão chique que se alugava por uma noite, só pra enfeitar a mesa 🍍 Você alugaria um ou comia escondido? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "legenda_instagram": "Na Inglaterra do século 18, abacaxi era tão chique que se alugava por uma noite, só pra enfeitar a mesa 🍍 Você alugaria um ou comia escondido? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 65.17,
+   "revisao": "pendente",
+   "titulo": "Por que quase ninguém no mundo come abacate doce?",
+   "legenda": "O gringo se assusta com abacate com açúcar… mas o abacate da nossa feira nem é o mesmo do guacamole 🥑 Na sua casa é time açúcar ou time sal? Comenta aí 👇",
+   "legenda_tiktok": "O gringo se assusta com abacate com açúcar… mas o abacate da nossa feira nem é o mesmo do guacamole 🥑 Na sua casa é time açúcar ou time sal? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #abacate",
+   "legenda_instagram": "O gringo se assusta com abacate com açúcar… mas o abacate da nossa feira nem é o mesmo do guacamole 🥑 Na sua casa é time açúcar ou time sal? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #abacate",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.0,
+   "revisao": "pendente",
+   "titulo": "Por que a Justiça decidiu que tomate não é fruta?",
+   "legenda": "Em 1893 a Suprema Corte dos EUA julgou o tomate… e o critério foi a sobremesa 🍅⚖️ Pra você, tomate é fruta ou legume? Comenta aí 👇",
+   "legenda_tiktok": "Em 1893 a Suprema Corte dos EUA julgou o tomate… e o critério foi a sobremesa 🍅⚖️ Pra você, tomate é fruta ou legume? Comenta aí 👇\n\n#curiosidades #comida #historia #tomate #gastronomia",
+   "legenda_instagram": "Em 1893 a Suprema Corte dos EUA julgou o tomate… e o critério foi a sobremesa 🍅⚖️ Pra você, tomate é fruta ou legume? Comenta aí 👇\n\n#curiosidades #comida #historia #tomate #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-02/COMIDA-LOTE-02-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
