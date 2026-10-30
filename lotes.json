@@ -241,5 +241,14 @@
   "videos": 5,
   "postados": 0,
   "formato": "curtos"
+ },
+ {
+  "canal": "COMIDA",
+  "nome": "Descubra Comida",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-30T15:50:10",
+  "videos": 10,
+  "postados": 0,
+  "formato": "curtos"
  }
 ]
