@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-02",
- "gerado": "2026-10-30T01:57:55",
+ "gerado": "2026-10-30T07:43:03",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v2",
    "duracao": 69.2,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que o Brasil queimou o próprio café?",
    "legenda": "Entre 1931 e 1944 o Brasil queimou mais de 70 milhões de sacas de café, de propósito ☕🔥 Pra você, foi loucura ou foi plano? Comenta aí 👇",
    "legenda_tiktok": "Entre 1931 e 1944 o Brasil queimou mais de 70 milhões de sacas de café, de propósito ☕🔥 Pra você, foi loucura ou foi plano? Comenta aí 👇\n\n#curiosidades #comida #historia #cafe #brasil",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v2"
    },
-   "numero": null
+   "numero": 2
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v2",
    "duracao": 68.89,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que era proibido fazer sal no Brasil?",
    "legenda": "No Brasil colônia, fazer sal aqui era proibido: o sal tinha que vir de navio, lá de Portugal 🧂 Você aguentaria um mês sem sal? Comenta aí 👇",
    "legenda_tiktok": "No Brasil colônia, fazer sal aqui era proibido: o sal tinha que vir de navio, lá de Portugal 🧂 Você aguentaria um mês sem sal? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v2"
    },
-   "numero": null
+   "numero": 3
   },
   {
    "id": "V03",
@@ -83,7 +83,7 @@
    "de": null,
    "versao": "v2",
    "duracao": 66.67,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que a laranja mais famosa dos EUA é baiana?",
    "legenda": "A laranja mais famosa dos Estados Unidos nasceu na Bahia, e lá ganhou nome de Washington 🍊 Na sua casa é laranja-baía, pera ou lima? Comenta aí 👇",
    "legenda_tiktok": "A laranja mais famosa dos Estados Unidos nasceu na Bahia, e lá ganhou nome de Washington 🍊 Na sua casa é laranja-baía, pera ou lima? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
@@ -97,7 +97,7 @@
    "v": {
     "video": "v2"
    },
-   "numero": null
+   "numero": 4
   },
   {
    "id": "V05",
@@ -106,7 +106,7 @@
    "de": null,
    "versao": "v2",
    "duracao": 72.79,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que plantar arroz vermelho dava cadeia no Brasil?",
    "legenda": "Em 1772, plantar arroz vermelho no Maranhão dava um ano de cadeia 🍚 Você já comeu arroz vermelho ou é time arroz branco? Comenta aí 👇",
    "legenda_tiktok": "Em 1772, plantar arroz vermelho no Maranhão dava um ano de cadeia 🍚 Você já comeu arroz vermelho ou é time arroz branco? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #arroz",
@@ -120,7 +120,7 @@
    "v": {
     "video": "v2"
    },
-   "numero": null
+   "numero": 5
   }
  ]
 }

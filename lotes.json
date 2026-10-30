@@ -216,20 +216,20 @@
   "formato": "curtos"
  },
  {
-  "canal": "COMIDA",
-  "nome": "Descubra Comida",
-  "lote": "LOTE-02",
-  "gerado": "2026-10-30T01:57:55",
-  "videos": 5,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "FUTEBOL",
   "nome": "Descubra Futebol",
   "lote": "LOTE-01",
   "gerado": "2026-10-30T02:59:22",
   "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "COMIDA",
+  "nome": "Descubra Comida",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-30T07:43:03",
+  "videos": 5,
   "postados": 0,
   "formato": "curtos"
  }
