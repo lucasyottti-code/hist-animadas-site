@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-03",
- "gerado": "2026-10-30T00:24:40",
+ "gerado": "2026-10-30T08:12:50",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.5,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que o avião pousa com tranco na chuva?",
    "legenda": "Por que o avião pousa com tranco na chuva? 🌧️✈️ O motivo não é falta de jeito. E você: é do time que aplaude o pouso macio ou do time que já sabia do tranco? 👇",
    "legenda_tiktok": "Por que o avião pousa com tranco na chuva? 🌧️✈️ O motivo não é falta de jeito. E você: é do time que aplaude o pouso macio ou do time que já sabia do tranco? 👇\n\n#viagem #curiosidades #vocesabia #aviao #piloto",
@@ -28,7 +28,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 7
   },
   {
    "id": "V02",
@@ -37,7 +37,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 76.33,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que nos Estados Unidos pode virar no sinal vermelho?",
    "legenda": "Por que nos Estados Unidos pode virar no sinal vermelho? 🚦🇺🇸 O motivo não é o trânsito. E aqui: devia ser assim no Brasil ou nem pensar? 👇",
    "legenda_tiktok": "Por que nos Estados Unidos pode virar no sinal vermelho? 🚦🇺🇸 O motivo não é o trânsito. E aqui: devia ser assim no Brasil ou nem pensar? 👇\n\n#viagem #curiosidades #vocesabia #estadosunidos #orlando",
@@ -51,7 +51,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 8
   },
   {
    "id": "V03",
@@ -60,7 +60,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 66.3,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que o aeroporto contrata falcão?",
    "legenda": "Por que o aeroporto contrata falcão? 🦅✈️ O vilão número um no Brasil não é o pombo. Você já levou rasante de quero-quero? Time pombo ou time quero-quero? 👇",
    "legenda_tiktok": "Por que o aeroporto contrata falcão? 🦅✈️ O vilão número um no Brasil não é o pombo. Você já levou rasante de quero-quero? Time pombo ou time quero-quero? 👇\n\n#viagem #curiosidades #vocesabia #aeroporto #aviao",
@@ -74,7 +74,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 9
   },
   {
    "id": "V04",
@@ -83,7 +83,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.93,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que um teatro aos pés da Acrópole proíbe salto alto?",
    "legenda": "Por que um teatro aos pés da Acrópole proíbe salto alto? 👠🏛️ O salto aperta o chão mais que um elefante. Você ia de salto ou de tênis? 👇",
    "legenda_tiktok": "Por que um teatro aos pés da Acrópole proíbe salto alto? 👠🏛️ O salto aperta o chão mais que um elefante. Você ia de salto ou de tênis? 👇\n\n#viagem #curiosidades #vocesabia #grecia #turismo",
@@ -97,7 +97,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 10
   }
  ]
 }

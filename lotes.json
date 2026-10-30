@@ -207,15 +207,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "PLANETA",
-  "nome": "Planeta Trip",
-  "lote": "LOTE-03",
-  "gerado": "2026-10-30T00:24:40",
-  "videos": 4,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "FUTEBOL",
   "nome": "Descubra Futebol",
   "lote": "LOTE-01",
@@ -230,6 +221,15 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-30T07:43:03",
   "videos": 5,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "PLANETA",
+  "nome": "Planeta Trip",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-30T08:12:50",
+  "videos": 4,
   "postados": 0,
   "formato": "curtos"
  }
