@@ -252,15 +252,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "VOVO",
-  "nome": "Vovó Já Sabia",
-  "lote": "LOTE-01",
-  "gerado": "2026-10-31T06:05:38",
-  "videos": 10,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "MILITAR",
   "nome": "Descubra Militar",
   "lote": "LOTE-03",
@@ -283,6 +274,15 @@
   "nome": "Descubra Natureza",
   "lote": "LOTE-07",
   "gerado": "2026-10-31T14:16:13",
+  "videos": 10,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "VOVO",
+  "nome": "Vovó Já Sabia",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-31T14:45:38",
   "videos": 10,
   "postados": 0,
   "formato": "curtos"
