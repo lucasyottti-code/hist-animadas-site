@@ -1,0 +1,391 @@
+{
+ "canal": {
+  "id": "KENJI",
+  "nome": "Kenji Films",
+  "formato": "longo+cortes"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-10-23T16:30:32",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 228.0,
+   "revisao": "aprovado",
+   "titulo": "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
+   "legenda": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.",
+   "legenda_tiktok": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.\n\n#shokunin #discipline #japan #animation #selfimprovement",
+   "legenda_instagram": "He started everything and finished nothing. Then an old knife sharpener showed him a shelf of stones worn down by fifty years of one craft. The Japanese word for that: Shokunin.\n\n#shokunin #discipline #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1",
+    "titulo": "efd378fb",
+    "thumbs": "383b0209",
+    "descricao": "6cef61e3"
+   },
+   "numero": 1,
+   "titulos": [
+    "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
+    "Always Quitting by Day 3? An Animated Story About Finally Finishing",
+    "He Quit 20 Hobbies in One Year: An Animated Film About Discipline",
+    "The Old Craftsman Who Did One Thing for 50 Years (Animated Story)",
+    "An Animated Story for Anyone Who Quits Everything by Day 3",
+    "Stop Starting, Start Staying: An Animated Film About Discipline"
+   ],
+   "titulo_escolhido": "Always Quitting by Day 3? The Japanese Craftsman Rule That Fixes It",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "QUIT AGAIN?"
+    },
+    {
+     "n": 2,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "50 YEARS."
+    },
+    {
+     "n": 3,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "ONE THING."
+    }
+   ],
+   "thumbs_escolhidas": [
+    1,
+    2,
+    3
+   ],
+   "descricao": "Starting a new hobby feels like magic for three days, then it ends up in the closet. Kenji quits twenty of them in one year, until an old knife sharpener shows him what fifty years of one craft looks like.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"how to stop quitting\",\"shiny object syndrome\",\"finish what you start\",discipline,\"self improvement\",motivation,\"japanese craftsman\",shokunin,\"japanese philosophy\",\"animated story\"",
+   "comentario": "Be honest: what's the last thing you quit on day three?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.0,
+     "fim": 61.5,
+     "gancho": "He started everything. He finished nothing.",
+     "ideia": "Kenji abre o armário e é soterrado por tudo o que já começou e largou: violão, halteres, tênis, um caderno com um desenho só. Toda coisa nova é mágica… até o terceiro dia. Aí o Oni sussurra uma novidade, e ele diz sim de novo."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F28",
+     "inicio": 61.5,
+     "fim": 129.0,
+     "gancho": "ONI: this one is the one.",
+     "ideia": "O Oni da preguiça traz uma caixa brilhante atrás da outra, e a pilha de hobbies largados cresce junto com ele. Um ano inteiro de primeiros dias: vinte começos, nenhum fim — até a única faca da casa perder o fio."
+    },
+    {
+     "n": 3,
+     "de": "F31",
+     "ate": "F45",
+     "inicio": 137.5,
+     "fim": 204.0,
+     "gancho": "Fifty years. One craft.",
+     "ideia": "Numa lojinha da rua, um velho afiador usa a mesma pedra há cinquenta anos. Kenji escolhe uma coisa só — o mesmo omelete enrolado, todo dia —, fecha cada caixa nova do Oni e, no centésimo, acerta."
+    }
+   ],
+   "embalagem_pendente": false,
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "removido": "2026-10-27"
+  },
+  {
+   "id": "V02",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 226.0,
+   "revisao": "aprovado",
+   "titulo": "Can't Stop Scrolling at Night? The Japanese Pause That Breaks It",
+   "legenda": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.",
+   "legenda_tiktok": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.\n\n#ma #phoneaddiction #japan #animation #selfimprovement",
+   "legenda_instagram": "His hand grabbed the phone before he even decided. Then, one sleepless night, a bamboo pipe in an old man's garden taught him the pause. The Japanese word for it: Ma.\n\n#ma #phoneaddiction #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1",
+    "titulo": "98db6d4a",
+    "thumbs": "2a1d7da2",
+    "descricao": "c7a70e95"
+   },
+   "numero": 2,
+   "titulos": [
+    "Can't Stop Scrolling at Night? The Japanese Pause That Breaks It",
+    "His Hand Grabbed the Phone Before He Decided (Animated Story)",
+    "Up All Night on Your Phone? An Animated Story About the Pause",
+    "40 Nights of Scrolling, Then a Bamboo Pipe Taught Him to Wait",
+    "An Animated Story for Anyone Who Can't Put the Phone Down",
+    "The Urge Is Fast. Be Slow: An Animated Film About Phone Addiction"
+   ],
+   "titulo_escolhido": "Can't Stop Scrolling at Night? The Japanese Pause That Breaks It",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "JUST ONE LOOK?"
+    },
+    {
+     "n": 2,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "JUST WAIT."
+    },
+    {
+     "n": 3,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "DON'T TOUCH IT."
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "His hand grabs the phone before he even decides, and one look turns into three hours, night after night. Then, on a sleepless walk, a bamboo pipe in an old man's garden teaches Kenji the pause between the urge and the hand.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"phone addiction\",\"how to stop scrolling\",doomscrolling,\"screen time at night\",\"can't sleep phone\",\"self control\",discipline,\"japanese philosophy\",\"ma japanese concept\",\"animated story\"",
+   "comentario": "Be honest: how long can you wait before you touch your phone?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.5,
+     "fim": 61.0,
+     "gancho": "His hand moved before he did.",
+     "ideia": "A mão do Kenji pega o celular antes de ele decidir. De dia ele está bem; à noite, o brilho da tela. O Oni sussurra \"rápido, antes de pensar\", e uma olhada vira três horas — até os pássaros acordarem antes dele."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F28",
+     "inicio": 61.0,
+     "fim": 132.0,
+     "gancho": "ONI: now. now. now.",
+     "ideia": "Noite após noite, a mão fica mais rápida e as manhãs, mais cinzas. O Oni cresce, o Kenji encolhe: quarenta noites sem uma única decisão. Sem conseguir dormir, ele sai na rua — e ouve um som vindo do vizinho."
+    },
+    {
+     "n": 3,
+     "de": "F31",
+     "ate": "F47",
+     "inicio": 140.5,
+     "fim": 217.0,
+     "gancho": "For one second, no urge.",
+     "ideia": "No jardim do velho vizinho, um bambu enche, vira e bate — e vem um segundo de silêncio sem vontade nenhuma. O Kenji aprende a esperar: 10, depois 30 respirações. O Oni volta gigante às 2 da manhã… e a mão dele fica parada."
+    }
+   ],
+   "embalagem_pendente": true,
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "removido": "2026-10-27"
+  },
+  {
+   "id": "V03",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 228.0,
+   "revisao": "aprovado",
+   "titulo": "No Motivation in the Morning? The Japanese Reason to Get Up Anyway",
+   "legenda": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.",
+   "legenda_tiktok": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.\n\n#ikigai #motivation #japan #animation #selfimprovement",
+   "legenda_instagram": "Every night, he waited for the spark. It never came. Then, at 6:00 a.m., a small wet kitten knocked on his door. The Japanese word for what he found: Ikigai.\n\n#ikigai #motivation #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1",
+    "titulo": "b62e7e9e",
+    "thumbs": "98b22108",
+    "descricao": "f054fbe6"
+   },
+   "numero": 3,
+   "titulos": [
+    "No Motivation in the Morning? The Japanese Reason to Get Up Anyway",
+    "He Waited 120 Days for Motivation. A Wet Kitten Changed It All",
+    "Waiting for Motivation? An Animated Story About Finding a Reason",
+    "Stop Waiting for the Spark: An Animated Film About Motivation",
+    "An Animated Story for Anyone Who Can't Get Out of Bed",
+    "Find a Reason, Not a Spark (Animated Story)"
+   ],
+   "titulo_escolhido": "No Motivation in the Morning? The Japanese Reason to Get Up Anyway",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "STILL WAITING?"
+    },
+    {
+     "n": 2,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "6:00 AM."
+    },
+    {
+     "n": 3,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "NO SPARK NEEDED."
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "Every night Kenji makes big plans and waits for the spark of motivation that never comes. Then, one rainy morning at 6:00, a small wet kitten knocks on his door and gives him a reason to get up.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"no motivation\",\"how to get motivated\",ikigai,\"ikigai meaning\",\"reason to wake up\",discipline,\"self improvement\",\"japanese philosophy\",\"morning routine\",\"animated story\"",
+   "comentario": "What's the small reason that gets you out of bed when motivation doesn't show up?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.0,
+     "fim": 62.5,
+     "gancho": "Every night, he waited for the spark.",
+     "ideia": "Toda noite o Kenji faz planos enormes e espera a faísca da motivação. De manhã, a vontade some junto com a chama da vela — e o Oni sussurra que é melhor esperar no quentinho."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F27",
+     "inicio": 62.5,
+     "fim": 129.5,
+     "gancho": "Day 30. Plans up to the ceiling.",
+     "ideia": "Dia 30, dia 70, dia 120: os planos crescem, as chamas encolhem e a faísca nunca vem. Numa manhã cinza de chuva, a vela já queimou até o fim."
+    },
+    {
+     "n": 3,
+     "de": "F28",
+     "ate": "F46",
+     "inicio": 129.5,
+     "fim": 208.0,
+     "gancho": "6:00. A small sound.",
+     "ideia": "Às 6:00, um barulhinho na porta: um gatinho molhado. Toalha, leite morno, sem pensar — o Kenji levantou sem faísca nenhuma. Dias depois, numa tempestade, o Oni diz que ninguém está esperando… e atrás da porta, um choro baixinho."
+    }
+   ],
+   "embalagem_pendente": true,
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "removido": "2026-10-27"
+  },
+  {
+   "id": "V04",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 226.0,
+   "revisao": "aprovado",
+   "titulo": "Never Feel Satisfied? Try the Japanese Rule of Stopping at 80%",
+   "legenda": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.",
+   "legenda_tiktok": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.\n\n#harahachibu #dopamine #japan #animation #selfimprovement",
+   "legenda_instagram": "He never stopped at enough, and nothing tasted like anything. Then an old neighbor put down his chopsticks with rice still in the bowl. The old Japanese saying: Hara Hachi Bu.\n\n#harahachibu #dopamine #japan #animation #selfimprovement",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1",
+    "titulo": "b38ef043",
+    "thumbs": "2cee6ffd",
+    "descricao": "8b6bed6e"
+   },
+   "numero": 4,
+   "titulos": [
+    "Never Feel Satisfied? Try the Japanese Rule of Stopping at 80%",
+    "He Ate 20 Bowls a Night and Still Felt Empty (Animated Story)",
+    "Why More Never Feels Like Enough: An Animated Story About Stopping",
+    "Binge Everything? An Animated Film About Stopping at 80%",
+    "An Animated Story for Anyone Who Can't Stop at Enough",
+    "Leave Room, Joy Lives There: An Animated Film About Enough"
+   ],
+   "titulo_escolhido": "Never Feel Satisfied? Try the Japanese Rule of Stopping at 80%",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "BOWL 20."
+    },
+    {
+     "n": 2,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "STOP AT 80%."
+    },
+    {
+     "n": 3,
+     "arquivo": null,
+     "modelo": "R",
+     "texto": "ENOUGH."
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "Kenji finishes every bowl, every season and every game, and nothing tastes like anything anymore. Then an old neighbor puts down his chopsticks with rice still in the bowl and shows him the Japanese habit of stopping at 80%.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "\"hara hachi bu\",\"eat until 80 percent full\",\"never satisfied\",\"binge watching\",\"dopamine detox\",\"self control\",discipline,\"japanese philosophy\",\"japanese habits\",\"animated story\"",
+   "comentario": "What do you always finish to 100%, even after it stopped being good?",
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F14",
+     "inicio": 1.0,
+     "fim": 61.5,
+     "gancho": "Kenji never stopped at enough.",
+     "ideia": "O Kenji termina todo prato, toda temporada numa noite, todo jogo até o sol nascer — e nunca se sente satisfeito. O Oni enche a tigela de novo: tigela 2, tigela 7, tigela 20."
+    },
+    {
+     "n": 2,
+     "de": "F15",
+     "ate": "F28",
+     "inicio": 61.5,
+     "fim": 127.5,
+     "gancho": "ONI: why stop now?",
+     "ideia": "Episódio atrás de episódio, fase atrás de fase, 3, 4, 5 da manhã. Quanto mais ele tem, menos sente: pesado, vazio, e nada mais tem gosto."
+    },
+    {
+     "n": 3,
+     "de": "F29",
+     "ate": "F48",
+     "inicio": 127.5,
+     "fim": 205.5,
+     "gancho": "One evening, a neighbor's bag broke.",
+     "ideia": "O velho vizinho come devagar e para com arroz ainda na tigela: oito partes de dez. O Kenji tenta — deixa duas mordidas, um episódio só —, o Oni murcha, a comida volta a ter gosto e ele finalmente baixa os hashis: chega."
+    }
+   ],
+   "embalagem_pendente": true,
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "removido": "2026-10-27"
+  }
+ ]
+}

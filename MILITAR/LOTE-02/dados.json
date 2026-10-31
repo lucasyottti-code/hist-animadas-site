@@ -1,0 +1,243 @@
+{
+ "canal": {
+  "id": "MILITAR",
+  "nome": "Descubra Militar",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-10-29T18:56:05",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.72,
+   "revisao": "aprovado",
+   "titulo": "O que aconteceu com o soldado que não sabia que a guerra tinha acabado?",
+   "legenda": "Ele passou 29 anos escondido numa guerra que já tinha acabado… e o fim da história é no Mato Grosso do Sul ⏳ Você acreditaria nos papéis que caíam do céu ou desconfiava também? Comenta 👇",
+   "legenda_tiktok": "Ele passou 29 anos escondido numa guerra que já tinha acabado… e o fim da história é no Mato Grosso do Sul ⏳ Você acreditaria nos papéis que caíam do céu ou desconfiava também? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #brasil",
+   "legenda_instagram": "Ele passou 29 anos escondido numa guerra que já tinha acabado… e o fim da história é no Mato Grosso do Sul ⏳ Você acreditaria nos papéis que caíam do céu ou desconfiava também? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 3
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 78.5,
+   "revisao": "aprovado",
+   "titulo": "A Inglaterra quis fazer um porta-aviões de gelo?",
+   "legenda": "Na Segunda Guerra, a Inglaterra quase fez um porta-aviões de gelo 🧊 E o problema não era derreter. Você embarcava nesse navio ou ficava em terra? Comenta 👇",
+   "legenda_tiktok": "Na Segunda Guerra, a Inglaterra quase fez um porta-aviões de gelo 🧊 E o problema não era derreter. Você embarcava nesse navio ou ficava em terra? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #marinha",
+   "legenda_instagram": "Na Segunda Guerra, a Inglaterra quase fez um porta-aviões de gelo 🧊 E o problema não era derreter. Você embarcava nesse navio ou ficava em terra? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #marinha",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 4
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.66,
+   "revisao": "aprovado",
+   "titulo": "Por que o GPS do celular é de graça?",
+   "legenda": "O GPS do seu celular é militar… e até o ano 2000 errava de propósito 📍 Você é time GPS ou time mapa de papel? Comenta 👇",
+   "legenda_tiktok": "O GPS do seu celular é militar… e até o ano 2000 errava de propósito 📍 Você é time GPS ou time mapa de papel? Comenta 👇\n\n#curiosidades #historia #militar #tecnologia #guerrafria",
+   "legenda_instagram": "O GPS do seu celular é militar… e até o ano 2000 errava de propósito 📍 Você é time GPS ou time mapa de papel? Comenta 👇\n\n#curiosidades #historia #militar #tecnologia #guerrafria",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 5
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.03,
+   "revisao": "aprovado",
+   "titulo": "Como os soldados brasileiros aguentaram o frio da Itália na Segunda Guerra?",
+   "legenda": "Imagina você, brasileiro, a 20 graus negativos nas montanhas da Itália ❄️ Mais frio que o congelador da sua casa. Você aguentaria ou já tava pedindo pra voltar? Comenta 👇",
+   "legenda_tiktok": "Imagina você, brasileiro, a 20 graus negativos nas montanhas da Itália ❄️ Mais frio que o congelador da sua casa. Você aguentaria ou já tava pedindo pra voltar? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #brasil",
+   "legenda_instagram": "Imagina você, brasileiro, a 20 graus negativos nas montanhas da Itália ❄️ Mais frio que o congelador da sua casa. Você aguentaria ou já tava pedindo pra voltar? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 6
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 76.7,
+   "revisao": "aprovado",
+   "titulo": "O que um soldado romano pedia nas cartas?",
+   "legenda": "Um soldado romano recebeu… meias, sandálias e cuecas 🧦 A carta tem mil e novecentos anos e foi achada no norte da Inglaterra. Meia com sandália: crime de moda ou ideia genial? Comenta 👇",
+   "legenda_tiktok": "Um soldado romano recebeu… meias, sandálias e cuecas 🧦 A carta tem mil e novecentos anos e foi achada no norte da Inglaterra. Meia com sandália: crime de moda ou ideia genial? Comenta 👇\n\n#curiosidades #historia #militar #roma #exercito",
+   "legenda_instagram": "Um soldado romano recebeu… meias, sandálias e cuecas 🧦 A carta tem mil e novecentos anos e foi achada no norte da Inglaterra. Meia com sandália: crime de moda ou ideia genial? Comenta 👇\n\n#curiosidades #historia #militar #roma #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 7
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.57,
+   "revisao": "aprovado",
+   "titulo": "Como um melão podre ajudou a salvar soldados na Segunda Guerra?",
+   "legenda": "O remédio que faltava na Segunda Guerra veio de um melão podre de feira 🍈 E você: jogava esse melão no lixo ou levava pro laboratório? Comenta 👇",
+   "legenda_tiktok": "O remédio que faltava na Segunda Guerra veio de um melão podre de feira 🍈 E você: jogava esse melão no lixo ou levava pro laboratório? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #guerra",
+   "legenda_instagram": "O remédio que faltava na Segunda Guerra veio de um melão podre de feira 🍈 E você: jogava esse melão no lixo ou levava pro laboratório? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #guerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 8,
+   "removido": "2026-10-29"
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.1,
+   "revisao": "aprovado",
+   "titulo": "O primeiro tanque do Brasil teria chance contra o Leopard de hoje?",
+   "legenda": "O primeiro tanque do Brasil, de 1921, contra o Leopard de hoje: perde de lavada… ou não? 🛡️ Você comandava qual dos dois? Comenta 👇",
+   "legenda_tiktok": "O primeiro tanque do Brasil, de 1921, contra o Leopard de hoje: perde de lavada… ou não? 🛡️ Você comandava qual dos dois? Comenta 👇\n\n#curiosidades #historia #militar #exercito #brasil",
+   "legenda_instagram": "O primeiro tanque do Brasil, de 1921, contra o Leopard de hoje: perde de lavada… ou não? 🛡️ Você comandava qual dos dois? Comenta 👇\n\n#curiosidades #historia #militar #exercito #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V07-v1.mp4",
+   "capa": "previa/V07-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V07-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 9
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.66,
+   "revisao": "aprovado",
+   "titulo": "Por que um rei da Inglaterra proibiu o futebol?",
+   "legenda": "Um rei da Inglaterra proibiu o futebol nos dias de festa ⚽ E o motivo estava nos ossos. Você largava a bola pelo arco ou jogava escondido? Comenta 👇",
+   "legenda_tiktok": "Um rei da Inglaterra proibiu o futebol nos dias de festa ⚽ E o motivo estava nos ossos. Você largava a bola pelo arco ou jogava escondido? Comenta 👇\n\n#curiosidades #historia #militar #idademedia #futebol",
+   "legenda_instagram": "Um rei da Inglaterra proibiu o futebol nos dias de festa ⚽ E o motivo estava nos ossos. Você largava a bola pelo arco ou jogava escondido? Comenta 👇\n\n#curiosidades #historia #militar #idademedia #futebol",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V08-v1.mp4",
+   "capa": "previa/V08-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V08-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 10
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.8,
+   "revisao": "aprovado",
+   "titulo": "O Brasil usou um balão espião na Guerra do Paraguai?",
+   "legenda": "Em 1867, o Brasil espiou a Guerra do Paraguai de um balão preso por cordas 🎈 O drone de 160 anos atrás. Você subia naquele cesto ou ficava segurando a corda? Comenta 👇",
+   "legenda_tiktok": "Em 1867, o Brasil espiou a Guerra do Paraguai de um balão preso por cordas 🎈 O drone de 160 anos atrás. Você subia naquele cesto ou ficava segurando a corda? Comenta 👇\n\n#curiosidades #historia #militar #brasil #exercito",
+   "legenda_instagram": "Em 1867, o Brasil espiou a Guerra do Paraguai de um balão preso por cordas 🎈 O drone de 160 anos atrás. Você subia naquele cesto ou ficava segurando a corda? Comenta 👇\n\n#curiosidades #historia #militar #brasil #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 11,
+   "removido": "2026-10-30"
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.99,
+   "revisao": "aprovado",
+   "titulo": "Cavaleiro de armadura precisava de guindaste pra subir no cavalo?",
+   "legenda": "Cavaleiro caído de armadura precisava de guindaste? 🛡️ O filme errou, e o perigo de verdade era outro. Você aguentava uma batalha inteira respirando curtinho? Comenta 👇",
+   "legenda_tiktok": "Cavaleiro caído de armadura precisava de guindaste? 🛡️ O filme errou, e o perigo de verdade era outro. Você aguentava uma batalha inteira respirando curtinho? Comenta 👇\n\n#curiosidades #historia #militar #idademedia #guerra",
+   "legenda_instagram": "Cavaleiro caído de armadura precisava de guindaste? 🛡️ O filme errou, e o perigo de verdade era outro. Você aguentava uma batalha inteira respirando curtinho? Comenta 👇\n\n#curiosidades #historia #militar #idademedia #guerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V10-v1.mp4",
+   "capa": "previa/V10-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-02/MILITAR-LOTE-02-V10-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 12
+  }
+ ]
+}
