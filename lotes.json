@@ -252,15 +252,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "BISCOITO",
-  "nome": "Biscoito Sabe Tudo",
-  "lote": "LOTE-03",
-  "gerado": "2026-10-30T23:36:41",
-  "videos": 10,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "DESCUBRA",
   "nome": "Descubra Natureza",
   "lote": "LOTE-07",
@@ -284,6 +275,15 @@
   "lote": "LOTE-03",
   "gerado": "2026-10-31T13:03:30",
   "videos": 5,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "BISCOITO",
+  "nome": "Biscoito Sabe Tudo",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-31T14:15:11",
+  "videos": 10,
   "postados": 0,
   "formato": "curtos"
  }
