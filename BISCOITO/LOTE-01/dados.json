@@ -1,0 +1,59 @@
+{
+ "canal": {
+  "id": "BISCOITO",
+  "nome": "Biscoito Sabe Tudo",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-10-29T16:06:15",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 76.03,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém dá uva pro cachorro?",
+   "legenda": "Por que ninguém dá uva pro cachorro? 🍇 Você já deu e nada aconteceu, ou nunca deu? Comenta aí 👇 Biscoito sabe tudo. 🍪",
+   "legenda_tiktok": "Por que ninguém dá uva pro cachorro? 🍇 Você já deu e nada aconteceu, ou nunca deu? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
+   "legenda_instagram": "Por que ninguém dá uva pro cachorro? 🍇 Você já deu e nada aconteceu, ou nunca deu? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 1,
+   "removido": "2026-10-29"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.47,
+   "revisao": "aprovado",
+   "titulo": "E se seu cachorro ficasse 20 minutos no carro fechado?",
+   "legenda": "E se seu cachorro ficasse 20 minutos no carro fechado? 🚗🔥 Você é do time da janela abertinha ou do time que nunca deixa? Comenta aí 👇 Biscoito sabe tudo. 🍪",
+   "legenda_tiktok": "E se seu cachorro ficasse 20 minutos no carro fechado? 🚗🔥 Você é do time da janela abertinha ou do time que nunca deixa? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
+   "legenda_instagram": "E se seu cachorro ficasse 20 minutos no carro fechado? 🚗🔥 Você é do time da janela abertinha ou do time que nunca deixa? Comenta aí 👇 Biscoito sabe tudo. 🍪\n\n#cachorro #curiosidades #vocesabia #biscoitosabetudo #tutordecachorro",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 2,
+   "removido": "2026-10-29"
+  }
+ ]
+}

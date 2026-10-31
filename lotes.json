@@ -1,0 +1,263 @@
+[
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-23T15:00:32",
+  "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-23T15:00:55",
+  "videos": 6,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-04",
+  "gerado": "2026-10-23T15:01:19",
+  "videos": 6,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "KENJI",
+  "nome": "Kenji Films",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-23T16:30:32",
+  "videos": 4,
+  "postados": 4,
+  "formato": "longo+cortes"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-24T06:59:03",
+  "videos": 1,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-24T23:30:28",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-25T04:00:23",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-04",
+  "gerado": "2026-10-25T16:49:10",
+  "videos": 4,
+  "postados": 3,
+  "formato": "curtos"
+ },
+ {
+  "canal": "KENJI",
+  "nome": "Kenji Films",
+  "lote": "LOTE-04",
+  "gerado": "2026-10-27T15:45:06",
+  "videos": 1,
+  "postados": 0,
+  "formato": "longo+cortes"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-05",
+  "gerado": "2026-10-28T10:26:36",
+  "videos": 9,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "KENJI",
+  "nome": "Kenji Dojo",
+  "lote": "LOTE-05",
+  "gerado": "2026-10-28T16:40:18",
+  "videos": 1,
+  "postados": 0,
+  "formato": "longo+cortes"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-05",
+  "gerado": "2026-10-28T16:42:40",
+  "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-06",
+  "gerado": "2026-10-28T16:45:06",
+  "videos": 6,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "BISCOITO",
+  "nome": "Biscoito Sabe Tudo",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-29T16:06:15",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "PLANETA",
+  "nome": "Planeta Trip",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-29T16:07:28",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-06",
+  "gerado": "2026-10-29T16:13:54",
+  "videos": 6,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "MILITAR",
+  "nome": "Descubra Militar",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-29T18:55:51",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "MILITAR",
+  "nome": "Descubra Militar",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-29T18:56:05",
+  "videos": 10,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "COMIDA",
+  "nome": "Descubra Comida",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-29T19:23:32",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "XABLAU",
+  "nome": "Professor Xablau",
+  "lote": "LOTE-07",
+  "gerado": "2026-10-29T20:35:06",
+  "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "BISCOITO",
+  "nome": "Biscoito Sabe Tudo",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-29T20:42:55",
+  "videos": 6,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "PLANETA",
+  "nome": "Planeta Trip",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-29T20:44:07",
+  "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "FUTEBOL",
+  "nome": "Descubra Futebol",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-30T02:59:22",
+  "videos": 2,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "COMIDA",
+  "nome": "Descubra Comida",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-30T07:43:03",
+  "videos": 5,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "PLANETA",
+  "nome": "Planeta Trip",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-30T08:12:50",
+  "videos": 4,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "UNIVERSO",
+  "nome": "Descubra Universo",
+  "lote": "LOTE-01",
+  "gerado": "2026-10-30T08:29:11",
+  "videos": 2,
+  "postados": 2,
+  "formato": "curtos"
+ },
+ {
+  "canal": "MILITAR",
+  "nome": "Descubra Militar",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-30T12:37:56",
+  "videos": 5,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "COMIDA",
+  "nome": "Descubra Comida",
+  "lote": "LOTE-03",
+  "gerado": "2026-10-30T15:50:10",
+  "videos": 10,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "UNIVERSO",
+  "nome": "Descubra Universo",
+  "lote": "LOTE-02",
+  "gerado": "2026-10-30T22:34:14",
+  "videos": 10,
+  "postados": 0,
+  "formato": "curtos"
+ }
+]
