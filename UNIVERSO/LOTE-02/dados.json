@@ -1,0 +1,242 @@
+{
+ "canal": {
+  "id": "UNIVERSO",
+  "nome": "Descubra Universo",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-10-30T22:34:14",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.7,
+   "revisao": "aprovado",
+   "titulo": "Astronauta bebe o próprio xixi no espaço?",
+   "legenda": "Na Estação Espacial, o xixi de hoje vira a água de amanhã 💧 Você beberia? Time 'bebo de boa' ou time 'nem pensar'? Comenta 👇",
+   "legenda_tiktok": "Na Estação Espacial, o xixi de hoje vira a água de amanhã 💧 Você beberia? Time 'bebo de boa' ou time 'nem pensar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronauta #ciencia",
+   "legenda_instagram": "Na Estação Espacial, o xixi de hoje vira a água de amanhã 💧 Você beberia? Time 'bebo de boa' ou time 'nem pensar'? Comenta 👇\n\n#curiosidades #espaco #universo #astronauta #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 3,
+   "removido": "2026-10-30"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 75.7,
+   "revisao": "aprovado",
+   "titulo": "Como uma pedra do espaço de 5 toneladas saiu do sertão da Bahia?",
+   "legenda": "A maior pedra do espaço achada no Brasil caiu no sertão da Bahia ☄️ Difícil foi tirar ela de lá. Marca quem é da Bahia 👇",
+   "legenda_tiktok": "A maior pedra do espaço achada no Brasil caiu no sertão da Bahia ☄️ Difícil foi tirar ela de lá. Marca quem é da Bahia 👇\n\n#curiosidades #espaco #universo #meteorito #brasil",
+   "legenda_instagram": "A maior pedra do espaço achada no Brasil caiu no sertão da Bahia ☄️ Difícil foi tirar ela de lá. Marca quem é da Bahia 👇\n\n#curiosidades #espaco #universo #meteorito #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 4
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.09,
+   "revisao": "aprovado",
+   "titulo": "Por que a Lua parece gigante no horizonte?",
+   "legenda": "A Lua no horizonte não é maior. É o seu cérebro 🌕 Você já tirou foto da Lua gigante e ela saiu pequenininha? Comenta 👇",
+   "legenda_tiktok": "A Lua no horizonte não é maior. É o seu cérebro 🌕 Você já tirou foto da Lua gigante e ela saiu pequenininha? Comenta 👇\n\n#curiosidades #espaco #universo #lua #astronomia",
+   "legenda_instagram": "A Lua no horizonte não é maior. É o seu cérebro 🌕 Você já tirou foto da Lua gigante e ela saiu pequenininha? Comenta 👇\n\n#curiosidades #espaco #universo #lua #astronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 5
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.0,
+   "revisao": "aprovado",
+   "titulo": "Quanto tempo dura a noite na Lua?",
+   "legenda": "Na Lua, uma noite dura 14 dias 🌑 Você teria coragem de dormir lá? Comenta 👇",
+   "legenda_tiktok": "Na Lua, uma noite dura 14 dias 🌑 Você teria coragem de dormir lá? Comenta 👇\n\n#curiosidades #espaco #universo #lua #astronomia",
+   "legenda_instagram": "Na Lua, uma noite dura 14 dias 🌑 Você teria coragem de dormir lá? Comenta 👇\n\n#curiosidades #espaco #universo #lua #astronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 6
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 75.0,
+   "revisao": "aprovado",
+   "titulo": "Existe uma estrela que virou diamante?",
+   "legenda": "Tem uma estrela virando diamante no céu do Brasil 💎 E o nosso Sol vai pelo mesmo caminho. Você sabia? Comenta 👇",
+   "legenda_tiktok": "Tem uma estrela virando diamante no céu do Brasil 💎 E o nosso Sol vai pelo mesmo caminho. Você sabia? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #estrelas",
+   "legenda_instagram": "Tem uma estrela virando diamante no céu do Brasil 💎 E o nosso Sol vai pelo mesmo caminho. Você sabia? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #estrelas",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 7
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.5,
+   "revisao": "aprovado",
+   "titulo": "Se a Terra está mais perto do Sol em janeiro, por que é verão no Brasil?",
+   "legenda": "Em janeiro a Terra está mais perto do Sol ☀️ e mesmo assim tem gente na neve. Você também achava que o verão era a distância? Time 'eu sabia' ou time 'fui enganado a vida toda'? Comenta 👇",
+   "legenda_tiktok": "Em janeiro a Terra está mais perto do Sol ☀️ e mesmo assim tem gente na neve. Você também achava que o verão era a distância? Time 'eu sabia' ou time 'fui enganado a vida toda'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #ciencia",
+   "legenda_instagram": "Em janeiro a Terra está mais perto do Sol ☀️ e mesmo assim tem gente na neve. Você também achava que o verão era a distância? Time 'eu sabia' ou time 'fui enganado a vida toda'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 8
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 64.33,
+   "revisao": "aprovado",
+   "titulo": "Como dormir na Estação Espacial com 16 pores do Sol por dia?",
+   "legenda": "Na Estação Espacial o Sol nasce 16 vezes por dia 🌅 Você conseguiria dormir lá? Time 'durmo em qualquer lugar' ou time 'eu enlouquecia'? Comenta 👇",
+   "legenda_tiktok": "Na Estação Espacial o Sol nasce 16 vezes por dia 🌅 Você conseguiria dormir lá? Time 'durmo em qualquer lugar' ou time 'eu enlouquecia'? Comenta 👇\n\n#curiosidades #espaco #universo #astronauta #ciencia",
+   "legenda_instagram": "Na Estação Espacial o Sol nasce 16 vezes por dia 🌅 Você conseguiria dormir lá? Time 'durmo em qualquer lugar' ou time 'eu enlouquecia'? Comenta 👇\n\n#curiosidades #espaco #universo #astronauta #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V07-v1.mp4",
+   "capa": "previa/V07-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V07-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 9
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.9,
+   "revisao": "aprovado",
+   "titulo": "O que tem no disco de ouro que a NASA mandou para alienígenas?",
+   "legenda": "Em 1977 a gente mandou um disco de ouro para alienígenas 💿 E tem uma saudação em português nele. Se fosse você, o que colocaria? Uma música, um som, uma foto? Comenta 👇",
+   "legenda_tiktok": "Em 1977 a gente mandou um disco de ouro para alienígenas 💿 E tem uma saudação em português nele. Se fosse você, o que colocaria? Uma música, um som, uma foto? Comenta 👇\n\n#curiosidades #espaco #universo #voyager #ciencia",
+   "legenda_instagram": "Em 1977 a gente mandou um disco de ouro para alienígenas 💿 E tem uma saudação em português nele. Se fosse você, o que colocaria? Uma música, um som, uma foto? Comenta 👇\n\n#curiosidades #espaco #universo #voyager #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V08-v1.mp4",
+   "capa": "previa/V08-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V08-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 10
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 65.02,
+   "revisao": "aprovado",
+   "titulo": "A que distância fica a Estação Espacial? Mais perto que você imagina",
+   "legenda": "A Estação Espacial passa a uns 400 km de você 🛰️ pouco mais que do Rio a São Paulo. Você já viu ela passar no céu? Time 'já vi' ou time 'nunca olhei pra cima'? Comenta 👇",
+   "legenda_tiktok": "A Estação Espacial passa a uns 400 km de você 🛰️ pouco mais que do Rio a São Paulo. Você já viu ela passar no céu? Time 'já vi' ou time 'nunca olhei pra cima'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #brasil",
+   "legenda_instagram": "A Estação Espacial passa a uns 400 km de você 🛰️ pouco mais que do Rio a São Paulo. Você já viu ela passar no céu? Time 'já vi' ou time 'nunca olhei pra cima'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V09-v1.mp4",
+   "capa": "previa/V09-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V09-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 11
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.9,
+   "revisao": "aprovado",
+   "titulo": "Como um eclipse no Ceará colocou Einstein à prova?",
+   "legenda": "Em 1919, um eclipse no Ceará colocou Einstein à prova 🌑 Você sabia que essa história passou por Sobral? Time 'eu sabia' ou time 'nunca me contaram'? Comenta 👇",
+   "legenda_tiktok": "Em 1919, um eclipse no Ceará colocou Einstein à prova 🌑 Você sabia que essa história passou por Sobral? Time 'eu sabia' ou time 'nunca me contaram'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #brasil",
+   "legenda_instagram": "Em 1919, um eclipse no Ceará colocou Einstein à prova 🌑 Você sabia que essa história passou por Sobral? Time 'eu sabia' ou time 'nunca me contaram'? Comenta 👇\n\n#curiosidades #espaco #universo #astronomia #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V10-v1.mp4",
+   "capa": "previa/V10-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/UNIVERSO-LOTE-02/UNIVERSO-LOTE-02-V10-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 12
+  }
+ ]
+}

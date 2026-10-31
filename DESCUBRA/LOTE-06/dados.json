@@ -1,0 +1,151 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-06",
+ "gerado": "2026-10-29T16:13:54",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.57,
+   "revisao": "aprovado",
+   "titulo": "Por que tubarão não come gente?",
+   "legenda": "Por que tubarão não come gente? 🦈 Lá de baixo, você parece outra coisa. Time 'tubarão assassino' ou time 'tubarão inocente'? E depois disso, você entra no mar tranquilo? Comenta 👇",
+   "legenda_tiktok": "Por que tubarão não come gente? 🦈 Lá de baixo, você parece outra coisa. Time 'tubarão assassino' ou time 'tubarão inocente'? E depois disso, você entra no mar tranquilo? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "legenda_instagram": "Por que tubarão não come gente? 🦈 Lá de baixo, você parece outra coisa. Time 'tubarão assassino' ou time 'tubarão inocente'? E depois disso, você entra no mar tranquilo? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 19,
+   "removido": "2026-10-30"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.0,
+   "revisao": "aprovado",
+   "titulo": "E se você caísse num poço com 75 mil cobras?",
+   "legenda": "E se você caísse num poço com 75 mil cobras? 🐍 Elas nem ligam pra você. Agora escolhe: 75 mil cobras-de-jardim no Canadá ou 3 mil jararacas numa ilha do Brasil? Comenta qual poço 👇",
+   "legenda_tiktok": "E se você caísse num poço com 75 mil cobras? 🐍 Elas nem ligam pra você. Agora escolhe: 75 mil cobras-de-jardim no Canadá ou 3 mil jararacas numa ilha do Brasil? Comenta qual poço 👇\n\n#curiosidades #natureza #vocesabia #animais #bichos",
+   "legenda_instagram": "E se você caísse num poço com 75 mil cobras? 🐍 Elas nem ligam pra você. Agora escolhe: 75 mil cobras-de-jardim no Canadá ou 3 mil jararacas numa ilha do Brasil? Comenta qual poço 👇\n\n#curiosidades #natureza #vocesabia #animais #bichos",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 20,
+   "removido": "2026-10-31"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.33,
+   "revisao": "aprovado",
+   "titulo": "Quem cai no porão inundado de um navio consegue sair?",
+   "legenda": "Caiu nesse porão de navio inundado: você sai ou não sai? 🚢🌊 O vídeo viral exagera, mas uma parte é verdade. Time escada ou time boiar? Comenta 👇",
+   "legenda_tiktok": "Caiu nesse porão de navio inundado: você sai ou não sai? 🚢🌊 O vídeo viral exagera, mas uma parte é verdade. Time escada ou time boiar? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #ciencia",
+   "legenda_instagram": "Caiu nesse porão de navio inundado: você sai ou não sai? 🚢🌊 O vídeo viral exagera, mas uma parte é verdade. Time escada ou time boiar? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-06/DESCUBRA-LOTE-06-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 21
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.23,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come piranha?",
+   "legenda": "Por que ninguém come piranha? 🐟 No mercado ela é rejeito, mas no Pantanal vira caldo (e com fama de afrodisíaco). Caldo de piranha: você toma ou passa longe? 👇",
+   "legenda_tiktok": "Por que ninguém come piranha? 🐟 No mercado ela é rejeito, mas no Pantanal vira caldo (e com fama de afrodisíaco). Caldo de piranha: você toma ou passa longe? 👇\n\n#curiosidades #natureza #vocesabia #brasil #comida",
+   "legenda_instagram": "Por que ninguém come piranha? 🐟 No mercado ela é rejeito, mas no Pantanal vira caldo (e com fama de afrodisíaco). Caldo de piranha: você toma ou passa longe? 👇\n\n#curiosidades #natureza #vocesabia #brasil #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-06/DESCUBRA-LOTE-06-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 22
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.93,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come tubarão-da-groenlândia?",
+   "legenda": "Por que ninguém come tubarão-da-groenlândia? 🦈 Fresco, ele te deixa como bêbado. A Islândia só come depois de meses fermentando e secando. Você provaria: time prova ou time nem morto? 👇",
+   "legenda_tiktok": "Por que ninguém come tubarão-da-groenlândia? 🦈 Fresco, ele te deixa como bêbado. A Islândia só come depois de meses fermentando e secando. Você provaria: time prova ou time nem morto? 👇\n\n#curiosidades #natureza #vocesabia #oceano #comida",
+   "legenda_instagram": "Por que ninguém come tubarão-da-groenlândia? 🦈 Fresco, ele te deixa como bêbado. A Islândia só come depois de meses fermentando e secando. Você provaria: time prova ou time nem morto? 👇\n\n#curiosidades #natureza #vocesabia #oceano #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-06/DESCUBRA-LOTE-06-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 23
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.57,
+   "revisao": "aprovado",
+   "titulo": "E se 15 milhões de morcegos te cercassem numa caverna?",
+   "legenda": "E se 15 milhões de morcegos te cercassem numa caverna? 🦇 O perigo nem é a mordida. Você: time sai correndo ou time nem entrava? 👇",
+   "legenda_tiktok": "E se 15 milhões de morcegos te cercassem numa caverna? 🦇 O perigo nem é a mordida. Você: time sai correndo ou time nem entrava? 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "E se 15 milhões de morcegos te cercassem numa caverna? 🦇 O perigo nem é a mordida. Você: time sai correndo ou time nem entrava? 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-06/DESCUBRA-LOTE-06-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 24
+  }
+ ]
+}

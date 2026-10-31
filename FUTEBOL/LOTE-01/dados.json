@@ -1,0 +1,57 @@
+{
+ "canal": {
+  "id": "FUTEBOL",
+  "nome": "Descubra Futebol",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-10-30T02:59:22",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.9,
+   "revisao": "pendente",
+   "titulo": "E se a Copa fosse decidida no cara ou coroa?",
+   "legenda": "Uma moeda já decidiu quem ia pra final 🪙 Moeda ou pênalti: qual é mais justo? Comenta aí 👇",
+   "legenda_tiktok": "Uma moeda já decidiu quem ia pra final 🪙 Moeda ou pênalti: qual é mais justo? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #regras",
+   "legenda_instagram": "Uma moeda já decidiu quem ia pra final 🪙 Moeda ou pênalti: qual é mais justo? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #regras",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-01/FUTEBOL-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.63,
+   "revisao": "pendente",
+   "titulo": "Por que o Brasil joga de amarelo?",
+   "legenda": "A camisa amarela do Brasil foi desenhada por um torcedor do Uruguai 👕 Você jogaria de branco ou de amarelo? Comenta aí 👇",
+   "legenda_tiktok": "A camisa amarela do Brasil foi desenhada por um torcedor do Uruguai 👕 Você jogaria de branco ou de amarelo? Comenta aí 👇\n\n#curiosidades #futebol #historia #futebolbrasileiro #brasil",
+   "legenda_instagram": "A camisa amarela do Brasil foi desenhada por um torcedor do Uruguai 👕 Você jogaria de branco ou de amarelo? Comenta aí 👇\n\n#curiosidades #futebol #historia #futebolbrasileiro #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-01/FUTEBOL-LOTE-01-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}

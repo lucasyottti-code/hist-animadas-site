@@ -1,0 +1,104 @@
+{
+ "canal": {
+  "id": "KENJI",
+  "nome": "Kenji Films",
+  "formato": "longo+cortes"
+ },
+ "lote": "LOTE-04",
+ "gerado": "2026-10-27T15:45:06",
+ "videos": [
+  {
+   "id": "V02",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 178.0,
+   "revisao": "pendente",
+   "titulo": "He Broke His Grandma's Favorite Bowl, Then Lied About It",
+   "legenda": "He broke his grandmother's 40-year-old bowl and hid the pieces. Every lie made it worse. Then she showed him what the Japanese do with broken things: Kintsugi.",
+   "legenda_tiktok": "He broke his grandmother's 40-year-old bowl and hid the pieces. Every lie made it worse. Then she showed him what the Japanese do with broken things: Kintsugi.\n\n#kintsugi #japan #honesty #animation #shortfilm #grandma",
+   "legenda_instagram": "He broke his grandmother's 40-year-old bowl and hid the pieces. Every lie made it worse. Then she showed him what the Japanese do with broken things: Kintsugi.\n\n#kintsugi #japan #honesty #animation #shortfilm",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V02-v2.mp4",
+   "capa": "previa/V02-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/KENJI-LOTE-04/KENJI-LOTE-04-V02-v2.mp4",
+   "v": {
+    "video": "v2",
+    "titulo": "248bd937",
+    "thumbs": "f35610d2",
+    "descricao": "f556ccef"
+   },
+   "numero": null,
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F10",
+     "inicio": 0.5,
+     "fim": 64.0,
+     "gancho": "He broke her favorite bowl. Then he lied about it.",
+     "ideia": ""
+    },
+    {
+     "n": 2,
+     "de": "F11",
+     "ate": "F16",
+     "inicio": 64.0,
+     "fim": 115.0,
+     "gancho": "OJISAN: That one? Nobody makes those anymore.",
+     "ideia": ""
+    },
+    {
+     "n": 3,
+     "de": "F17",
+     "ate": "F20",
+     "inicio": 115.0,
+     "fim": 178.0,
+     "gancho": "The cracks are filled with gold.",
+     "ideia": ""
+    }
+   ],
+   "embalagem_pendente": false,
+   "titulos": [
+    "He Broke His Grandma's Favorite Bowl, Then Lied About It",
+    "Every Lie Made It Bigger: An Animated Story About Honesty",
+    "He Hid the Broken Pieces. His Grandma Fixed Them With Gold",
+    "Afraid to Admit a Mistake? The Japanese Way to Fix What Breaks",
+    "3 Lies Over One Broken Bowl (Animated Story)",
+    "The Japanese Art of Gold Cracks, Told in One Animated Story"
+   ],
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "titulo_escolhido": "He Broke His Grandma's Favorite Bowl, Then Lied About It",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V02-1-cb938c33.jpg",
+     "modelo": "R",
+     "texto": "IT WASN'T ME"
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V02-2-6d7d00e7.jpg",
+     "modelo": "R",
+     "texto": "ONE MORE LIE"
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V02-3-76c70e64.jpg",
+     "modelo": "R",
+     "texto": "FIXED WITH GOLD"
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "Kenji broke his grandmother's favorite bowl, hid the pieces and lied about it. Every lie made the guilt bigger, until one rainy night he had to choose between hiding it forever and telling the truth. What his grandmother did with the broken pieces changed how he sees mistakes.\n\nAnimated stories about discipline, with one Japanese idea in every film.",
+   "tags": "kintsugi,honesty,lying,\"admitting mistakes\",\"japanese philosophy\",\"japanese grandma\",\"broken bowl\",\"animated story\",\"short film\",\"self improvement\"",
+   "comentario": "Be honest: what's the hardest thing you ever had to admit?"
+  }
+ ]
+}
