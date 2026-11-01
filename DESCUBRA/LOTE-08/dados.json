@@ -1,0 +1,126 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-08",
+ "gerado": "2026-11-01T07:57:52",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.33,
+   "revisao": "pendente",
+   "titulo": "Por que ninguém come leão?",
+   "legenda": "Por que ninguém come leão? 🦁 Você já come o leão do rio e nem sabe. Time hambúrguer de leão ou time tucunaré? Comenta 👇",
+   "legenda_tiktok": "Por que ninguém come leão? 🦁 Você já come o leão do rio e nem sabe. Time hambúrguer de leão ou time tucunaré? Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "legenda_instagram": "Por que ninguém come leão? 🦁 Você já come o leão do rio e nem sabe. Time hambúrguer de leão ou time tucunaré? Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-08/DESCUBRA-LOTE-08-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.66,
+   "revisao": "pendente",
+   "titulo": "E se um barbeiro te picasse dormindo?",
+   "legenda": "E se um barbeiro te picasse dormindo? 🪲 A picada nem dói. O perigo é o que ele deixa. Na casa da sua avó tinha barbeiro: sim ou não? Comenta 👇",
+   "legenda_tiktok": "E se um barbeiro te picasse dormindo? 🪲 A picada nem dói. O perigo é o que ele deixa. Na casa da sua avó tinha barbeiro: sim ou não? Comenta 👇\n\n#curiosidades #natureza #vocesabia #bichos #brasil",
+   "legenda_instagram": "E se um barbeiro te picasse dormindo? 🪲 A picada nem dói. O perigo é o que ele deixa. Na casa da sua avó tinha barbeiro: sim ou não? Comenta 👇\n\n#curiosidades #natureza #vocesabia #bichos #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-08/DESCUBRA-LOTE-08-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.6,
+   "revisao": "pendente",
+   "titulo": "E se você caísse num tanque com 50 tubarões?",
+   "legenda": "E se você caísse num tanque com 50 tubarões? 🦈 Com 24, já aconteceu de verdade. Time bate perna ou time fica parado? Comenta 👇",
+   "legenda_tiktok": "E se você caísse num tanque com 50 tubarões? 🦈 Com 24, já aconteceu de verdade. Time bate perna ou time fica parado? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "legenda_instagram": "E se você caísse num tanque com 50 tubarões? 🦈 Com 24, já aconteceu de verdade. Time bate perna ou time fica parado? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-08/DESCUBRA-LOTE-08-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.17,
+   "revisao": "pendente",
+   "titulo": "Por que ninguém come hipopótamo?",
+   "legenda": "Por que ninguém come hipopótamo? 🦛 Tem uns duzentos soltos na Colômbia e um governo inteiro não dá conta. E você: comia ou corria? 👇",
+   "legenda_tiktok": "Por que ninguém come hipopótamo? 🦛 Tem uns duzentos soltos na Colômbia e um governo inteiro não dá conta. E você: comia ou corria? 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "legenda_instagram": "Por que ninguém come hipopótamo? 🦛 Tem uns duzentos soltos na Colômbia e um governo inteiro não dá conta. E você: comia ou corria? 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-08/DESCUBRA-LOTE-08-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.4,
+   "revisao": "pendente",
+   "titulo": "E se uma caravela te picasse no mar?",
+   "legenda": "E se uma caravela te picasse no mar? 🌊 Ela não tem cérebro, não sabe nadar e te acha mesmo assim. Time volta pro mar ou time fica na areia? 👇",
+   "legenda_tiktok": "E se uma caravela te picasse no mar? 🌊 Ela não tem cérebro, não sabe nadar e te acha mesmo assim. Time volta pro mar ou time fica na areia? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "legenda_instagram": "E se uma caravela te picasse no mar? 🌊 Ela não tem cérebro, não sabe nadar e te acha mesmo assim. Time volta pro mar ou time fica na areia? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-08/DESCUBRA-LOTE-08-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
