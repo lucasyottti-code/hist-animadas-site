@@ -322,5 +322,14 @@
   "videos": 6,
   "postados": 0,
   "formato": "curtos"
+ },
+ {
+  "canal": "MILITAR",
+  "nome": "Descubra Militar",
+  "lote": "LOTE-05",
+  "gerado": "2026-11-04T00:32:53",
+  "videos": 12,
+  "postados": 0,
+  "formato": "curtos"
  }
 ]
