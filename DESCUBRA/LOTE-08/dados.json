@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-08",
- "gerado": "2026-11-01T07:57:52",
+ "gerado": "2026-11-04T15:41:46",
  "videos": [
   {
    "id": "V01",
@@ -14,7 +14,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 71.33,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém come leão?",
    "legenda": "Por que ninguém come leão? 🦁 Você já come o leão do rio e nem sabe. Time hambúrguer de leão ou time tucunaré? Comenta 👇",
    "legenda_tiktok": "Por que ninguém come leão? 🦁 Você já come o leão do rio e nem sabe. Time hambúrguer de leão ou time tucunaré? Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
@@ -29,7 +29,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 35
   },
   {
    "id": "V02",
@@ -38,7 +38,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 72.66,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se um barbeiro te picasse dormindo?",
    "legenda": "E se um barbeiro te picasse dormindo? 🪲 A picada nem dói. O perigo é o que ele deixa. Na casa da sua avó tinha barbeiro: sim ou não? Comenta 👇",
    "legenda_tiktok": "E se um barbeiro te picasse dormindo? 🪲 A picada nem dói. O perigo é o que ele deixa. Na casa da sua avó tinha barbeiro: sim ou não? Comenta 👇\n\n#curiosidades #natureza #vocesabia #bichos #brasil",
@@ -53,7 +53,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 36
   },
   {
    "id": "V03",
@@ -62,7 +62,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 73.6,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se você caísse num tanque com 50 tubarões?",
    "legenda": "E se você caísse num tanque com 50 tubarões? 🦈 Com 24, já aconteceu de verdade. Time bate perna ou time fica parado? Comenta 👇",
    "legenda_tiktok": "E se você caísse num tanque com 50 tubarões? 🦈 Com 24, já aconteceu de verdade. Time bate perna ou time fica parado? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
@@ -77,7 +77,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 37
   },
   {
    "id": "V04",
@@ -86,7 +86,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 73.17,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "Por que ninguém come hipopótamo?",
    "legenda": "Por que ninguém come hipopótamo? 🦛 Tem uns duzentos soltos na Colômbia e um governo inteiro não dá conta. E você: comia ou corria? 👇",
    "legenda_tiktok": "Por que ninguém come hipopótamo? 🦛 Tem uns duzentos soltos na Colômbia e um governo inteiro não dá conta. E você: comia ou corria? 👇\n\n#curiosidades #natureza #vocesabia #animais #comida",
@@ -101,7 +101,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 38
   },
   {
    "id": "V05",
@@ -110,7 +110,7 @@
    "de": null,
    "versao": "v1",
    "duracao": 73.4,
-   "revisao": "pendente",
+   "revisao": "aprovado",
    "titulo": "E se uma caravela te picasse no mar?",
    "legenda": "E se uma caravela te picasse no mar? 🌊 Ela não tem cérebro, não sabe nadar e te acha mesmo assim. Time volta pro mar ou time fica na areia? 👇",
    "legenda_tiktok": "E se uma caravela te picasse no mar? 🌊 Ela não tem cérebro, não sabe nadar e te acha mesmo assim. Time volta pro mar ou time fica na areia? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
@@ -125,7 +125,7 @@
    "v": {
     "video": "v1"
    },
-   "numero": null
+   "numero": 39
   }
  ]
 }

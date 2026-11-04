@@ -306,15 +306,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "DESCUBRA",
-  "nome": "Descubra Natureza",
-  "lote": "LOTE-08",
-  "gerado": "2026-11-01T07:57:52",
-  "videos": 5,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "XABLAU",
   "nome": "Professor Xablau",
   "lote": "LOTE-09",
@@ -329,6 +320,15 @@
   "lote": "LOTE-05",
   "gerado": "2026-11-04T02:48:14",
   "videos": 13,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "lote": "LOTE-08",
+  "gerado": "2026-11-04T15:41:46",
+  "videos": 5,
   "postados": 0,
   "formato": "curtos"
  }
