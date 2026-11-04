@@ -5,7 +5,7 @@
   "formato": "curtos"
  },
  "lote": "LOTE-05",
- "gerado": "2026-11-04T00:32:53",
+ "gerado": "2026-11-04T02:48:14",
  "videos": [
   {
    "id": "V01",
@@ -117,6 +117,29 @@
    "previa": "previa/V05-v1.mp4",
    "capa": "previa/V05-v1.jpg",
    "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-05/MILITAR-LOTE-05-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.07,
+   "revisao": "pendente",
+   "titulo": "Por que o jipe da Segunda Guerra tinha uma barra de ferro em pé?",
+   "legenda": "Esse ferro em pé no jipe tinha um motivo sério 🚙 Você dirigiria um jipe aberto sem ele? Comenta 👇",
+   "legenda_tiktok": "Esse ferro em pé no jipe tinha um motivo sério 🚙 Você dirigiria um jipe aberto sem ele? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "legenda_instagram": "Esse ferro em pé no jipe tinha um motivo sério 🚙 Você dirigiria um jipe aberto sem ele? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-05/MILITAR-LOTE-05-V06-v1.mp4",
    "v": {
     "video": "v1"
    },
