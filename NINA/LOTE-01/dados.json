@@ -1,0 +1,36 @@
+{
+ "canal": {
+  "id": "NINA",
+  "nome": "Nina Sobrevive",
+  "formato": "serie"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-11-04T17:05:41",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 86.93,
+   "revisao": "pendente",
+   "titulo": "Ela quase bebeu água do mar — dia 1 na ilha",
+   "legenda": "Ilha deserta, um cachorro e um litro de água: a 1ª regra de sobrevivência é nunca beber o mar 🌊 E agora, com a maré de lua cheia chegando: salvar o veleiro ou subir o morro antes do escuro? A ou B? Comenta aí — o mais curtido vira o amanhã da Nina 👇",
+   "legenda_tiktok": "Ilha deserta, um cachorro e um litro de água: a 1ª regra de sobrevivência é nunca beber o mar 🌊 E agora, com a maré de lua cheia chegando: salvar o veleiro ou subir o morro antes do escuro? A ou B? Comenta aí — o mais curtido vira o amanhã da Nina 👇\n\n#sobrevivencia #ilhadeserta #ninasobrevive #dicasdesobrevivencia #vocedecide",
+   "legenda_instagram": "Ilha deserta, um cachorro e um litro de água: a 1ª regra de sobrevivência é nunca beber o mar 🌊 E agora, com a maré de lua cheia chegando: salvar o veleiro ou subir o morro antes do escuro? A ou B? Comenta aí — o mais curtido vira o amanhã da Nina 👇\n\n#sobrevivencia #ilhadeserta #ninasobrevive #dicasdesobrevivencia #vocedecide",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/NINA-LOTE-01/NINA-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
