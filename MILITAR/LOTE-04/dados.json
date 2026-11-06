@@ -1,0 +1,241 @@
+{
+ "canal": {
+  "id": "MILITAR",
+  "nome": "Descubra Militar",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-04",
+ "gerado": "2026-10-31T17:13:06",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.57,
+   "revisao": "pendente",
+   "titulo": "E se seu colega de tropa fosse um urso?",
+   "legenda": "Um urso virou soldado por causa de uma regra de navio 🐻 Você dividia a barraca com ele ou pedia transferência? Comenta 👇",
+   "legenda_tiktok": "Um urso virou soldado por causa de uma regra de navio 🐻 Você dividia a barraca com ele ou pedia transferência? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "legenda_instagram": "Um urso virou soldado por causa de uma regra de navio 🐻 Você dividia a barraca com ele ou pedia transferência? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.37,
+   "revisao": "pendente",
+   "titulo": "E se seu tanque fosse de borracha?",
+   "legenda": "1.100 homens fingiram ser 30 mil com tanques de borracha 🎈 Você confiava na borracha ou pedia um de aço? Comenta 👇",
+   "legenda_tiktok": "1.100 homens fingiram ser 30 mil com tanques de borracha 🎈 Você confiava na borracha ou pedia um de aço? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "legenda_instagram": "1.100 homens fingiram ser 30 mil com tanques de borracha 🎈 Você confiava na borracha ou pedia um de aço? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.07,
+   "revisao": "pendente",
+   "titulo": "E se você fugisse num avião feito de cama?",
+   "legenda": "Prisioneiros fizeram um avião com ripas de cama e uma banheira de concreto 🛏️ Você subia nesse avião ou esperava os americanos? Comenta 👇",
+   "legenda_tiktok": "Prisioneiros fizeram um avião com ripas de cama e uma banheira de concreto 🛏️ Você subia nesse avião ou esperava os americanos? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #aviacao",
+   "legenda_instagram": "Prisioneiros fizeram um avião com ripas de cama e uma banheira de concreto 🛏️ Você subia nesse avião ou esperava os americanos? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #aviacao",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 75.57,
+   "revisao": "pendente",
+   "titulo": "E se você caísse de um avião sem paraquedas?",
+   "legenda": "Ele caiu 5,5 km sem paraquedas e ninguém acreditou 🌲 Você acreditava nele ou pedia o papel? Comenta 👇",
+   "legenda_tiktok": "Ele caiu 5,5 km sem paraquedas e ninguém acreditou 🌲 Você acreditava nele ou pedia o papel? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #aviacao",
+   "legenda_instagram": "Ele caiu 5,5 km sem paraquedas e ninguém acreditou 🌲 Você acreditava nele ou pedia o papel? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #aviacao",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 76.7,
+   "revisao": "pendente",
+   "titulo": "E se o inimigo te chamasse pra jogar bola?",
+   "legenda": "Natal de 1914: inimigos saíram da trincheira sem ordem nenhuma ⚽ Você saía ou ficava desconfiado? Comenta 👇",
+   "legenda_tiktok": "Natal de 1914: inimigos saíram da trincheira sem ordem nenhuma ⚽ Você saía ou ficava desconfiado? Comenta 👇\n\n#curiosidades #historia #militar #primeiraguerra #guerra",
+   "legenda_instagram": "Natal de 1914: inimigos saíram da trincheira sem ordem nenhuma ⚽ Você saía ou ficava desconfiado? Comenta 👇\n\n#curiosidades #historia #militar #primeiraguerra #guerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.5,
+   "revisao": "pendente",
+   "titulo": "E se te dissessem: é mais fácil cobra fumar?",
+   "legenda": "É mais fácil cobra fumar 🐍 e a piada acabou no braço do soldado. Se duvidassem de você, você discutia ou botava a piada no braço? Comenta 👇",
+   "legenda_tiktok": "É mais fácil cobra fumar 🐍 e a piada acabou no braço do soldado. Se duvidassem de você, você discutia ou botava a piada no braço? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #brasil",
+   "legenda_instagram": "É mais fácil cobra fumar 🐍 e a piada acabou no braço do soldado. Se duvidassem de você, você discutia ou botava a piada no braço? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.77,
+   "revisao": "pendente",
+   "titulo": "E se o Exército construísse um quartel na Lua?",
+   "legenda": "O Exército planejou mesmo um quartel na Lua 🌕 e tinha até data de pouso. Uma dúzia de vagas: você se alistava ou ficava na Terra? Comenta 👇",
+   "legenda_tiktok": "O Exército planejou mesmo um quartel na Lua 🌕 e tinha até data de pouso. Uma dúzia de vagas: você se alistava ou ficava na Terra? Comenta 👇\n\n#curiosidades #historia #militar #exercito",
+   "legenda_instagram": "O Exército planejou mesmo um quartel na Lua 🌕 e tinha até data de pouso. Uma dúzia de vagas: você se alistava ou ficava na Terra? Comenta 👇\n\n#curiosidades #historia #militar #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V07-v1.mp4",
+   "capa": "previa/V07-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V07-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.46,
+   "revisao": "pendente",
+   "titulo": "E se você cruzasse os Alpes com elefantes?",
+   "legenda": "Alpes, neve e elefantes 🐘 e o pior ainda nem era a montanha. Você pagava esse preço ou deixava os elefantes em casa? Comenta 👇",
+   "legenda_tiktok": "Alpes, neve e elefantes 🐘 e o pior ainda nem era a montanha. Você pagava esse preço ou deixava os elefantes em casa? Comenta 👇\n\n#curiosidades #historia #militar #guerra #exercito",
+   "legenda_instagram": "Alpes, neve e elefantes 🐘 e o pior ainda nem era a montanha. Você pagava esse preço ou deixava os elefantes em casa? Comenta 👇\n\n#curiosidades #historia #militar #guerra #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V08-v1.mp4",
+   "capa": "previa/V08-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V08-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 75.5,
+   "revisao": "pendente",
+   "titulo": "E se você fosse o mensageiro de Maratona?",
+   "legenda": "A maratona não mede a corrida do mensageiro 🏃 Você encarava a corrida da lenda ou os 240 km do relato mais antigo? Comenta 👇",
+   "legenda_tiktok": "A maratona não mede a corrida do mensageiro 🏃 Você encarava a corrida da lenda ou os 240 km do relato mais antigo? Comenta 👇\n\n#curiosidades #historia #militar #guerra",
+   "legenda_instagram": "A maratona não mede a corrida do mensageiro 🏃 Você encarava a corrida da lenda ou os 240 km do relato mais antigo? Comenta 👇\n\n#curiosidades #historia #militar #guerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V09-v1.mp4",
+   "capa": "previa/V09-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V09-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 78.03,
+   "revisao": "pendente",
+   "titulo": "E se Napoleão tivesse celular em Waterloo?",
+   "legenda": "Napoleão com celular em Waterloo 📱 e a carta das 13h chegando depois das 18h. Com sinal ele vencia, ou Grouchy já estava longe demais? Comenta 👇",
+   "legenda_tiktok": "Napoleão com celular em Waterloo 📱 e a carta das 13h chegando depois das 18h. Com sinal ele vencia, ou Grouchy já estava longe demais? Comenta 👇\n\n#curiosidades #historia #militar #guerra",
+   "legenda_instagram": "Napoleão com celular em Waterloo 📱 e a carta das 13h chegando depois das 18h. Com sinal ele vencia, ou Grouchy já estava longe demais? Comenta 👇\n\n#curiosidades #historia #militar #guerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V10-v1.mp4",
+   "capa": "previa/V10-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-04/MILITAR-LOTE-04-V10-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
