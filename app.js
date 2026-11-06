@@ -6,8 +6,6 @@
 // "Copiar pedido" leva ao chat. Vídeo postado em todas as redes sai do site (prévia e arquivo; os textos ficam).
 // O vídeo longo e os cortes dele são UM cartão (pedido do dono, 2026-10-23): embaixo do longo, as ideias dos cortes e,
 // depois de feitos, os cortes para aprovar e postar; o cartão só sai do site quando o longo e todos os cortes foram postados.
-// o dia de quem posta (horário do aparelho): toISOString() é UTC e jogava o que se posta depois das 21h pro dia seguinte
-const diaLocal = () => { const d = new Date(); return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); };
 (() => {
   'use strict';
   const SITE = window.SITE || {};
@@ -200,7 +198,7 @@ const diaLocal = () => { const d = new Date(); return d.getFullYear() + '-' + St
             await fetch(`https://api.github.com/repos/${SITE.repo}/releases/assets/${a.id}`, { method: 'DELETE', headers: H() });
         }
         for (const arq of [v.previa, v.capa, ...(v.thumbs || []).map(x => x.arquivo)].filter(Boolean)) await apagarArquivo(c.base + arq);
-        const hoje = diaLocal();
+        const hoje = new Date().toISOString().slice(0, 10);
         await editarDados(c, d => { const x = (d.videos || []).find(y => y.id === v.id);
           if (x) { Object.assign(x, { removido: hoje, previa: null, capa: null, download: null }); (x.thumbs || []).forEach(y => { y.arquivo = null; }); } });
         Object.assign(v, { removido: hoje, previa: null, capa: null, download: null });
@@ -357,14 +355,14 @@ const diaLocal = () => { const d = new Date(); return d.getFullYear() + '-' + St
       const plats = platsDe(v);
       const L = v.tipo === 'longo' ? v : longoDe(v), familia = temFamilia(L);
       const marcar = async (p, sim) => {
-        const ok = await salvar(v, x => { x.postado = { ...(x.postado || {}), [p]: sim ? diaLocal() : null }; }, true);
+        const ok = await salvar(v, x => { x.postado = { ...(x.postado || {}), [p]: sim ? new Date().toISOString().slice(0, 10) : null }; }, true);
         if (ok) depoisDePostar(v);
       };
       const rotuloTudo = familia ? `✅ Postei ${v.tipo === 'longo' ? 'o vídeo longo' : 'este corte'} em tudo` : '✅ Postei em tudo — tirar do site';
       let confirmar = false;
       const tudoBotao = el('button', { onclick: async () => {
         if (!familia && !confirmar) { confirmar = true; tudoBotao.textContent = 'Toque de novo para tirar do site'; setTimeout(() => { confirmar = false; tudoBotao.textContent = rotuloTudo; }, 4000); return; }
-        if (await salvar(v, x => { x.concluido = diaLocal(); }, true)) depoisDePostar(v);
+        if (await salvar(v, x => { x.concluido = new Date().toISOString().slice(0, 10); }, true)) depoisDePostar(v);
       } }, rotuloTudo);
       card.append(el('div', { class: 'postado' }, plats.map(p => el('label', {},
         el('input', { type: 'checkbox', checked: !!postado[p], onchange: e => marcar(p, e.target.checked) }),
