@@ -234,13 +234,14 @@
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V10-v1.mp4",
-   "capa": "previa/V10-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-05/MILITAR-LOTE-05-V10-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 27
+   "numero": 27,
+   "removido": "2026-11-07"
   },
   {
    "id": "V11",
