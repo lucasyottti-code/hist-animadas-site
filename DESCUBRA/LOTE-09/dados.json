@@ -198,13 +198,14 @@
     "tiktok",
     "shorts"
    ],
-   "previa": "previa/V08-v1.mp4",
-   "capa": "previa/V08-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-09/DESCUBRA-LOTE-09-V08-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 47
+   "numero": 47,
+   "removido": "2026-11-08"
   },
   {
    "id": "V09",
