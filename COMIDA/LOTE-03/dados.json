@@ -1,0 +1,241 @@
+{
+ "canal": {
+  "id": "COMIDA",
+  "nome": "Descubra Comida",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-03",
+ "gerado": "2026-10-30T15:50:10",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.33,
+   "revisao": "pendente",
+   "titulo": "E se você comesse um abacaxi inteiro?",
+   "legenda": "O abacaxi tem uma enzima que corta proteína: é ela que faz a sua língua formigar 🍍 Você já comeu um inteiro ou para na terceira fatia? Comenta aí 👇",
+   "legenda_tiktok": "O abacaxi tem uma enzima que corta proteína: é ela que faz a sua língua formigar 🍍 Você já comeu um inteiro ou para na terceira fatia? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia #culinaria",
+   "legenda_instagram": "O abacaxi tem uma enzima que corta proteína: é ela que faz a sua língua formigar 🍍 Você já comeu um inteiro ou para na terceira fatia? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia #culinaria",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.47,
+   "revisao": "pendente",
+   "titulo": "E se a pimenta nunca tivesse existido?",
+   "legenda": "A frota que chegou ao Brasil em 1500 tinha outro destino: a Índia e a pimenta dela 🌶️ Time pimenta-do-reino ou time pimenta que arde? Comenta aí 👇",
+   "legenda_tiktok": "A frota que chegou ao Brasil em 1500 tinha outro destino: a Índia e a pimenta dela 🌶️ Time pimenta-do-reino ou time pimenta que arde? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #brasil",
+   "legenda_instagram": "A frota que chegou ao Brasil em 1500 tinha outro destino: a Índia e a pimenta dela 🌶️ Time pimenta-do-reino ou time pimenta que arde? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.13,
+   "revisao": "pendente",
+   "titulo": "E se você cozinhasse um ovo de avestruz?",
+   "legenda": "A conta de cabeça dá mais de 3 horas de panela, mas o ovo de avestruz não obedece 🥚 Você abria com martelo ou com serra? Comenta aí 👇",
+   "legenda_tiktok": "A conta de cabeça dá mais de 3 horas de panela, mas o ovo de avestruz não obedece 🥚 Você abria com martelo ou com serra? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia #culinaria",
+   "legenda_instagram": "A conta de cabeça dá mais de 3 horas de panela, mas o ovo de avestruz não obedece 🥚 Você abria com martelo ou com serra? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia #culinaria",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.73,
+   "revisao": "pendente",
+   "titulo": "E se a mandioca sumisse do Brasil?",
+   "legenda": "A mesa do Brasil depende de uma técnica indígena feita com um tubo trançado 🍽️ Na sua cidade é mandioca, aipim ou macaxeira? Comenta aí 👇",
+   "legenda_tiktok": "A mesa do Brasil depende de uma técnica indígena feita com um tubo trançado 🍽️ Na sua cidade é mandioca, aipim ou macaxeira? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "legenda_instagram": "A mesa do Brasil depende de uma técnica indígena feita com um tubo trançado 🍽️ Na sua cidade é mandioca, aipim ou macaxeira? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 65.83,
+   "revisao": "pendente",
+   "titulo": "E se o limão ficasse doce na sua boca?",
+   "legenda": "Existe uma frutinha que faz o limão chegar doce na língua, sem mudar nada no limão 🍋 Parece mentira ou você já tinha ouvido falar? Comenta aí 👇",
+   "legenda_tiktok": "Existe uma frutinha que faz o limão chegar doce na língua, sem mudar nada no limão 🍋 Parece mentira ou você já tinha ouvido falar? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia #culinaria",
+   "legenda_instagram": "Existe uma frutinha que faz o limão chegar doce na língua, sem mudar nada no limão 🍋 Parece mentira ou você já tinha ouvido falar? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia #culinaria",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.43,
+   "revisao": "pendente",
+   "titulo": "E se seu trabalho fosse provar o veneno do rei?",
+   "legenda": "Provar a comida do rei era emprego de verdade 👑 E em Roma dizem que o perigo estava no próprio provador. Você aceitaria o cargo ou preferia lavar a louça? Comenta aí 👇",
+   "legenda_tiktok": "Provar a comida do rei era emprego de verdade 👑 E em Roma dizem que o perigo estava no próprio provador. Você aceitaria o cargo ou preferia lavar a louça? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia",
+   "legenda_instagram": "Provar a comida do rei era emprego de verdade 👑 E em Roma dizem que o perigo estava no próprio provador. Você aceitaria o cargo ou preferia lavar a louça? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.42,
+   "revisao": "pendente",
+   "titulo": "E se você comesse uma jaca inteira?",
+   "legenda": "A jaca mais pesada do Guinness tinha 54 quilos, e o que mudou a Floresta da Tijuca foi o caroço 🌳 Time jaca dura ou time jaca mole? Comenta aí 👇",
+   "legenda_tiktok": "A jaca mais pesada do Guinness tinha 54 quilos, e o que mudou a Floresta da Tijuca foi o caroço 🌳 Time jaca dura ou time jaca mole? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "legenda_instagram": "A jaca mais pesada do Guinness tinha 54 quilos, e o que mudou a Floresta da Tijuca foi o caroço 🌳 Time jaca dura ou time jaca mole? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V07-v1.mp4",
+   "capa": "previa/V07-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V07-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.23,
+   "revisao": "pendente",
+   "titulo": "E se você jantasse no Titanic?",
+   "legenda": "No Titanic, jantar não queria dizer noite 🍽️ Na primeira classe, mais de vinte itens no cardápio. Na terceira, o jantar era ao meio-dia. Você ia de pato assado ou de rosbife com pudim? Comenta aí 👇",
+   "legenda_tiktok": "No Titanic, jantar não queria dizer noite 🍽️ Na primeira classe, mais de vinte itens no cardápio. Na terceira, o jantar era ao meio-dia. Você ia de pato assado ou de rosbife com pudim? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia",
+   "legenda_instagram": "No Titanic, jantar não queria dizer noite 🍽️ Na primeira classe, mais de vinte itens no cardápio. Na terceira, o jantar era ao meio-dia. Você ia de pato assado ou de rosbife com pudim? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V08-v1.mp4",
+   "capa": "previa/V08-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V08-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 63.6,
+   "revisao": "pendente",
+   "titulo": "E se você mordesse a pimenta mais forte do mundo?",
+   "legenda": "A pimenta não esquenta sua língua: ela engana seu cérebro 🌶️ E o recorde de mais forte do mundo ainda dá briga. Você é time biquinho ou time malagueta? Comenta aí 👇",
+   "legenda_tiktok": "A pimenta não esquenta sua língua: ela engana seu cérebro 🌶️ E o recorde de mais forte do mundo ainda dá briga. Você é time biquinho ou time malagueta? Comenta aí 👇\n\n#curiosidades #comida #ciencia #gastronomia",
+   "legenda_instagram": "A pimenta não esquenta sua língua: ela engana seu cérebro 🌶️ E o recorde de mais forte do mundo ainda dá briga. Você é time biquinho ou time malagueta? Comenta aí 👇\n\n#curiosidades #comida #ciencia #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V09-v1.mp4",
+   "capa": "previa/V09-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V09-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 65.8,
+   "revisao": "pendente",
+   "titulo": "E se você almoçasse no espaço?",
+   "legenda": "No espaço, o maior perigo do almoço é uma migalha 🚀 Por isso o pão comum ficou na Terra e entrou a tortilha. Você levava o sanduíche escondido ou comia a tortilha? Comenta aí 👇",
+   "legenda_tiktok": "No espaço, o maior perigo do almoço é uma migalha 🚀 Por isso o pão comum ficou na Terra e entrou a tortilha. Você levava o sanduíche escondido ou comia a tortilha? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia",
+   "legenda_instagram": "No espaço, o maior perigo do almoço é uma migalha 🚀 Por isso o pão comum ficou na Terra e entrou a tortilha. Você levava o sanduíche escondido ou comia a tortilha? Comenta aí 👇\n\n#curiosidades #comida #historia #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V10-v1.mp4",
+   "capa": "previa/V10-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-03/COMIDA-LOTE-03-V10-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
