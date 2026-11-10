@@ -5,8 +5,9 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-23T15:00:32",
   "videos": 4,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 4,
+  "formato": "curtos",
+  "fechado": "2026-10-28"
  },
  {
   "canal": "XABLAU",
@@ -14,8 +15,9 @@
   "lote": "LOTE-03",
   "gerado": "2026-10-23T15:00:55",
   "videos": 6,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 6,
+  "formato": "curtos",
+  "fechado": "2026-10-28"
  },
  {
   "canal": "XABLAU",
@@ -23,8 +25,9 @@
   "lote": "LOTE-04",
   "gerado": "2026-10-23T15:01:19",
   "videos": 6,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 6,
+  "formato": "curtos",
+  "fechado": "2026-10-28"
  },
  {
   "canal": "KENJI",
@@ -33,7 +36,8 @@
   "gerado": "2026-10-23T16:30:32",
   "videos": 4,
   "postados": 4,
-  "formato": "longo+cortes"
+  "formato": "longo+cortes",
+  "fechado": "2026-10-27"
  },
  {
   "canal": "DESCUBRA",
@@ -41,8 +45,9 @@
   "lote": "LOTE-01",
   "gerado": "2026-10-24T06:59:03",
   "videos": 1,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 1,
+  "formato": "curtos",
+  "fechado": "2026-10-25"
  },
  {
   "canal": "DESCUBRA",
@@ -50,8 +55,9 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-24T23:30:28",
   "videos": 2,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 2,
+  "formato": "curtos",
+  "fechado": "2026-10-27"
  },
  {
   "canal": "DESCUBRA",
@@ -59,8 +65,9 @@
   "lote": "LOTE-03",
   "gerado": "2026-10-25T04:00:23",
   "videos": 2,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 2,
+  "formato": "curtos",
+  "fechado": "2026-10-27"
  },
  {
   "canal": "DESCUBRA",
@@ -68,8 +75,9 @@
   "lote": "LOTE-04",
   "gerado": "2026-10-25T16:49:10",
   "videos": 4,
-  "postados": 3,
-  "formato": "curtos"
+  "postados": 4,
+  "formato": "curtos",
+  "fechado": "2026-10-28"
  },
  {
   "canal": "KENJI",
@@ -86,8 +94,9 @@
   "lote": "LOTE-05",
   "gerado": "2026-10-28T10:26:36",
   "videos": 9,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 9,
+  "formato": "curtos",
+  "fechado": "2026-10-30"
  },
  {
   "canal": "KENJI",
@@ -104,7 +113,7 @@
   "lote": "LOTE-05",
   "gerado": "2026-10-28T16:42:40",
   "videos": 4,
-  "postados": 0,
+  "postados": 3,
   "formato": "curtos"
  },
  {
@@ -113,7 +122,7 @@
   "lote": "LOTE-06",
   "gerado": "2026-10-28T16:45:06",
   "videos": 6,
-  "postados": 0,
+  "postados": 1,
   "formato": "curtos"
  },
  {
@@ -122,8 +131,9 @@
   "lote": "LOTE-01",
   "gerado": "2026-10-29T16:06:15",
   "videos": 2,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 2,
+  "formato": "curtos",
+  "fechado": "2026-10-29"
  },
  {
   "canal": "PLANETA",
@@ -131,8 +141,9 @@
   "lote": "LOTE-01",
   "gerado": "2026-10-29T16:07:28",
   "videos": 2,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 2,
+  "formato": "curtos",
+  "fechado": "2026-10-30"
  },
  {
   "canal": "DESCUBRA",
@@ -140,8 +151,9 @@
   "lote": "LOTE-06",
   "gerado": "2026-10-29T16:13:54",
   "videos": 6,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 6,
+  "formato": "curtos",
+  "fechado": "2026-11-04"
  },
  {
   "canal": "MILITAR",
@@ -149,8 +161,9 @@
   "lote": "LOTE-01",
   "gerado": "2026-10-29T18:55:51",
   "videos": 2,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 2,
+  "formato": "curtos",
+  "fechado": "2026-10-29"
  },
  {
   "canal": "MILITAR",
@@ -158,8 +171,9 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-29T18:56:05",
   "videos": 10,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 10,
+  "formato": "curtos",
+  "fechado": "2026-11-05"
  },
  {
   "canal": "COMIDA",
@@ -185,8 +199,9 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-29T20:42:55",
   "videos": 6,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 6,
+  "formato": "curtos",
+  "fechado": "2026-11-04"
  },
  {
   "canal": "PLANETA",
@@ -194,8 +209,9 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-29T20:44:07",
   "videos": 4,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 4,
+  "formato": "curtos",
+  "fechado": "2026-11-01"
  },
  {
   "canal": "FUTEBOL",
@@ -212,8 +228,9 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-30T07:43:03",
   "videos": 5,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 5,
+  "formato": "curtos",
+  "fechado": "2026-11-07"
  },
  {
   "canal": "PLANETA",
@@ -221,8 +238,9 @@
   "lote": "LOTE-03",
   "gerado": "2026-10-30T08:12:50",
   "videos": 4,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 4,
+  "formato": "curtos",
+  "fechado": "2026-11-04"
  },
  {
   "canal": "UNIVERSO",
@@ -231,7 +249,8 @@
   "gerado": "2026-10-30T08:29:11",
   "videos": 2,
   "postados": 2,
-  "formato": "curtos"
+  "formato": "curtos",
+  "fechado": "2026-10-30"
  },
  {
   "canal": "COMIDA",
@@ -248,7 +267,7 @@
   "lote": "LOTE-02",
   "gerado": "2026-10-30T22:34:14",
   "videos": 10,
-  "postados": 0,
+  "postados": 4,
   "formato": "curtos"
  },
  {
@@ -257,8 +276,9 @@
   "lote": "LOTE-03",
   "gerado": "2026-10-31T13:03:30",
   "videos": 5,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 5,
+  "formato": "curtos",
+  "fechado": "2026-11-04"
  },
  {
   "canal": "BISCOITO",
@@ -266,7 +286,7 @@
   "lote": "LOTE-03",
   "gerado": "2026-10-31T14:15:26",
   "videos": 10,
-  "postados": 0,
+  "postados": 4,
   "formato": "curtos"
  },
  {
@@ -275,8 +295,9 @@
   "lote": "LOTE-07",
   "gerado": "2026-10-31T14:16:13",
   "videos": 10,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 10,
+  "formato": "curtos",
+  "fechado": "2026-11-04"
  },
  {
   "canal": "VOVO",
@@ -302,7 +323,7 @@
   "lote": "LOTE-04",
   "gerado": "2026-11-01T05:08:07",
   "videos": 10,
-  "postados": 0,
+  "postados": 3,
   "formato": "curtos"
  },
  {
@@ -320,8 +341,9 @@
   "lote": "LOTE-08",
   "gerado": "2026-11-04T15:41:46",
   "videos": 5,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 5,
+  "formato": "curtos",
+  "fechado": "2026-11-06"
  },
  {
   "canal": "COMIDA",
@@ -329,7 +351,7 @@
   "lote": "LOTE-04",
   "gerado": "2026-11-04T16:08:50",
   "videos": 10,
-  "postados": 0,
+  "postados": 9,
   "formato": "curtos"
  },
  {
@@ -356,8 +378,9 @@
   "lote": "LOTE-05",
   "gerado": "2026-11-05T09:58:59",
   "videos": 13,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 13,
+  "formato": "curtos",
+  "fechado": "2026-11-09"
  },
  {
   "canal": "DESCUBRA",
@@ -365,8 +388,9 @@
   "lote": "LOTE-09",
   "gerado": "2026-11-06T12:58:42",
   "videos": 12,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 12,
+  "formato": "curtos",
+  "fechado": "2026-11-09"
  },
  {
   "canal": "COMIDA",
@@ -374,8 +398,9 @@
   "lote": "LOTE-05",
   "gerado": "2026-11-07T16:16:28",
   "videos": 10,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 10,
+  "formato": "curtos",
+  "fechado": "2026-11-10"
  },
  {
   "canal": "XABLAU",
@@ -392,7 +417,7 @@
   "lote": "LOTE-06",
   "gerado": "2026-11-09T08:43:53",
   "videos": 10,
-  "postados": 1,
+  "postados": 6,
   "formato": "curtos"
  },
  {
@@ -401,7 +426,7 @@
   "lote": "LOTE-10",
   "gerado": "2026-11-10T10:00:05",
   "videos": 3,
-  "postados": 0,
+  "postados": 1,
   "formato": "curtos"
  },
  {
