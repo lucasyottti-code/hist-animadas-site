@@ -189,13 +189,14 @@
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V08-v1.mp4",
-   "capa": "previa/V08-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-05/COMIDA-LOTE-05-V08-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 23
+   "numero": 23,
+   "removido": "2026-11-10"
   },
   {
    "id": "V09",
