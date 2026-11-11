@@ -126,26 +126,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "BISCOITO",
-  "nome": "Biscoito Sabe Tudo",
-  "lote": "LOTE-01",
-  "gerado": "2026-10-29T16:06:15",
-  "videos": 2,
-  "postados": 2,
-  "formato": "curtos",
-  "fechado": "2026-10-29"
- },
- {
-  "canal": "PLANETA",
-  "nome": "Planeta Trip",
-  "lote": "LOTE-01",
-  "gerado": "2026-10-29T16:07:28",
-  "videos": 2,
-  "postados": 2,
-  "formato": "curtos",
-  "fechado": "2026-10-30"
- },
- {
   "canal": "DESCUBRA",
   "nome": "Descubra Natureza",
   "lote": "LOTE-06",
@@ -194,26 +174,6 @@
   "formato": "curtos"
  },
  {
-  "canal": "BISCOITO",
-  "nome": "Biscoito Sabe Tudo",
-  "lote": "LOTE-02",
-  "gerado": "2026-10-29T20:42:55",
-  "videos": 6,
-  "postados": 6,
-  "formato": "curtos",
-  "fechado": "2026-11-04"
- },
- {
-  "canal": "PLANETA",
-  "nome": "Planeta Trip",
-  "lote": "LOTE-02",
-  "gerado": "2026-10-29T20:44:07",
-  "videos": 4,
-  "postados": 4,
-  "formato": "curtos",
-  "fechado": "2026-11-01"
- },
- {
   "canal": "FUTEBOL",
   "nome": "Descubra Futebol",
   "lote": "LOTE-01",
@@ -233,41 +193,12 @@
   "fechado": "2026-11-07"
  },
  {
-  "canal": "PLANETA",
-  "nome": "Planeta Trip",
-  "lote": "LOTE-03",
-  "gerado": "2026-10-30T08:12:50",
-  "videos": 4,
-  "postados": 4,
-  "formato": "curtos",
-  "fechado": "2026-11-04"
- },
- {
-  "canal": "UNIVERSO",
-  "nome": "Descubra Universo",
-  "lote": "LOTE-01",
-  "gerado": "2026-10-30T08:29:11",
-  "videos": 2,
-  "postados": 2,
-  "formato": "curtos",
-  "fechado": "2026-10-30"
- },
- {
   "canal": "COMIDA",
   "nome": "Descubra Comida",
   "lote": "LOTE-03",
   "gerado": "2026-10-30T15:50:10",
   "videos": 10,
   "postados": 0,
-  "formato": "curtos"
- },
- {
-  "canal": "UNIVERSO",
-  "nome": "Descubra Universo",
-  "lote": "LOTE-02",
-  "gerado": "2026-10-30T22:34:14",
-  "videos": 10,
-  "postados": 4,
   "formato": "curtos"
  },
  {
@@ -281,15 +212,6 @@
   "fechado": "2026-11-04"
  },
  {
-  "canal": "BISCOITO",
-  "nome": "Biscoito Sabe Tudo",
-  "lote": "LOTE-03",
-  "gerado": "2026-10-31T14:15:26",
-  "videos": 10,
-  "postados": 4,
-  "formato": "curtos"
- },
- {
   "canal": "DESCUBRA",
   "nome": "Descubra Natureza",
   "lote": "LOTE-07",
@@ -298,24 +220,6 @@
   "postados": 10,
   "formato": "curtos",
   "fechado": "2026-11-04"
- },
- {
-  "canal": "VOVO",
-  "nome": "Vovó Já Sabia",
-  "lote": "LOTE-01",
-  "gerado": "2026-10-31T14:47:11",
-  "videos": 10,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
-  "canal": "PLANETA",
-  "nome": "Planeta Trip",
-  "lote": "LOTE-04",
-  "gerado": "2026-11-01T05:08:07",
-  "videos": 10,
-  "postados": 3,
-  "formato": "curtos"
  },
  {
   "canal": "XABLAU",
@@ -354,15 +258,6 @@
   "videos": 3,
   "postados": 0,
   "formato": "curtos"
- },
- {
-  "canal": "NINA",
-  "nome": "Nina Sobrevive",
-  "lote": "LOTE-01",
-  "gerado": "2026-11-05T09:07:42",
-  "videos": 1,
-  "postados": 0,
-  "formato": "serie"
  },
  {
   "canal": "MILITAR",
