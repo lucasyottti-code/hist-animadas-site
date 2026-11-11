@@ -1,0 +1,243 @@
+{
+ "canal": {
+  "id": "COMIDA",
+  "nome": "Descubra Comida",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-06",
+ "gerado": "2026-11-11T13:41:24",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.33,
+   "revisao": "aprovado",
+   "titulo": "Por que toda banana nanica é um clone?",
+   "legenda": "Toda banana nanica é um clone, e é por isso que um fungo só pode derrubar todas 🍌 Ele já chegou aos vizinhos do Brasil (aqui, ainda não). E na sua casa: prata ou nanica? Comenta aí 👇",
+   "legenda_tiktok": "Toda banana nanica é um clone, e é por isso que um fungo só pode derrubar todas 🍌 Ele já chegou aos vizinhos do Brasil (aqui, ainda não). E na sua casa: prata ou nanica? Comenta aí 👇\n\n#curiosidades #comida #banana #ciencia #brasil",
+   "legenda_instagram": "Toda banana nanica é um clone, e é por isso que um fungo só pode derrubar todas 🍌 Ele já chegou aos vizinhos do Brasil (aqui, ainda não). E na sua casa: prata ou nanica? Comenta aí 👇\n\n#curiosidades #comida #banana #ciencia #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 26,
+   "removido": "2026-11-11"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 75.75,
+   "revisao": "aprovado",
+   "titulo": "Ketchup já foi feito de cogumelo?",
+   "legenda": "Antes do tomate, o ketchup era um caldo escuro de cogumelo 🍄 E já teve de nozes, de ostra e até tomate com anchova. Cogumelo ou tomate: qual você punha na batata frita? Comenta aí 👇",
+   "legenda_tiktok": "Antes do tomate, o ketchup era um caldo escuro de cogumelo 🍄 E já teve de nozes, de ostra e até tomate com anchova. Cogumelo ou tomate: qual você punha na batata frita? Comenta aí 👇\n\n#curiosidades #comida #historia #ketchup #gastronomia",
+   "legenda_instagram": "Antes do tomate, o ketchup era um caldo escuro de cogumelo 🍄 E já teve de nozes, de ostra e até tomate com anchova. Cogumelo ou tomate: qual você punha na batata frita? Comenta aí 👇\n\n#curiosidades #comida #historia #ketchup #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 27
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 78.1,
+   "revisao": "aprovado",
+   "titulo": "Por que a Justiça decidiu que tomate é legume?",
+   "legenda": "Em 1893, a Suprema Corte dos EUA decidiu que tomate é legume, mesmo admitindo que pra botânica ele é fruto 🍅 O motivo foi o imposto. E pra você: tomate é fruta ou legume? Comenta aí 👇",
+   "legenda_tiktok": "Em 1893, a Suprema Corte dos EUA decidiu que tomate é legume, mesmo admitindo que pra botânica ele é fruto 🍅 O motivo foi o imposto. E pra você: tomate é fruta ou legume? Comenta aí 👇\n\n#curiosidades #comida #historia #tomate #gastronomia",
+   "legenda_instagram": "Em 1893, a Suprema Corte dos EUA decidiu que tomate é legume, mesmo admitindo que pra botânica ele é fruto 🍅 O motivo foi o imposto. E pra você: tomate é fruta ou legume? Comenta aí 👇\n\n#curiosidades #comida #historia #tomate #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 28
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 65.8,
+   "revisao": "aprovado",
+   "titulo": "Por que o pão fica duro?",
+   "legenda": "Pão duro não é pão seco: é o amido do miolo virando cristal 🍞 E a geladeira, que parece proteger, deixa isso mais rápido. Na sua casa, o pão vai pra geladeira ou não? Comenta aí 👇",
+   "legenda_tiktok": "Pão duro não é pão seco: é o amido do miolo virando cristal 🍞 E a geladeira, que parece proteger, deixa isso mais rápido. Na sua casa, o pão vai pra geladeira ou não? Comenta aí 👇\n\n#curiosidades #comida #ciencia #pao #cozinha",
+   "legenda_instagram": "Pão duro não é pão seco: é o amido do miolo virando cristal 🍞 E a geladeira, que parece proteger, deixa isso mais rápido. Na sua casa, o pão vai pra geladeira ou não? Comenta aí 👇\n\n#curiosidades #comida #ciencia #pao #cozinha",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 29
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.29,
+   "revisao": "aprovado",
+   "titulo": "Por que o milho não nasce sozinho?",
+   "legenda": "O milho de hoje não consegue se plantar sozinho: o grão não cai da espiga 🌽 O avô dele era um capim com uns dez grãos presos em casca de pedra. E aí: pamonha ou curau? Comenta aí 👇",
+   "legenda_tiktok": "O milho de hoje não consegue se plantar sozinho: o grão não cai da espiga 🌽 O avô dele era um capim com uns dez grãos presos em casca de pedra. E aí: pamonha ou curau? Comenta aí 👇\n\n#curiosidades #comida #milho #historia #ciencia",
+   "legenda_instagram": "O milho de hoje não consegue se plantar sozinho: o grão não cai da espiga 🌽 O avô dele era um capim com uns dez grãos presos em casca de pedra. E aí: pamonha ou curau? Comenta aí 👇\n\n#curiosidades #comida #milho #historia #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 30
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.87,
+   "revisao": "aprovado",
+   "titulo": "Marco Polo trouxe mesmo o macarrão da China?",
+   "legenda": "Marco Polo não trouxe o macarrão da China 🍝 Em Gênova já tinha um baú cheio dele antes de ele voltar. E na sua casa: domingo tem macarronada ou não? Comenta aí 👇",
+   "legenda_tiktok": "Marco Polo não trouxe o macarrão da China 🍝 Em Gênova já tinha um baú cheio dele antes de ele voltar. E na sua casa: domingo tem macarronada ou não? Comenta aí 👇\n\n#curiosidades #comida #historia #macarrao #gastronomia",
+   "legenda_instagram": "Marco Polo não trouxe o macarrão da China 🍝 Em Gênova já tinha um baú cheio dele antes de ele voltar. E na sua casa: domingo tem macarronada ou não? Comenta aí 👇\n\n#curiosidades #comida #historia #macarrao #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 31
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 61.67,
+   "revisao": "aprovado",
+   "titulo": "Por que o coco tem esse nome?",
+   "legenda": "O coco ganhou nome de monstro por causa da cara que ele tem 👻 Mas os três furinhos guardam outro segredo. E aí: você beberia água de fantasma? Comenta aí 👇",
+   "legenda_tiktok": "O coco ganhou nome de monstro por causa da cara que ele tem 👻 Mas os três furinhos guardam outro segredo. E aí: você beberia água de fantasma? Comenta aí 👇\n\n#curiosidades #comida #historia #coco #frutas",
+   "legenda_instagram": "O coco ganhou nome de monstro por causa da cara que ele tem 👻 Mas os três furinhos guardam outro segredo. E aí: você beberia água de fantasma? Comenta aí 👇\n\n#curiosidades #comida #historia #coco #frutas",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 32,
+   "removido": "2026-11-11"
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.02,
+   "revisao": "aprovado",
+   "titulo": "Por que doce português leva tanta gema?",
+   "legenda": "Doce português leva gema às dúzias, e a culpa talvez não seja das freiras 🥚 Quem puxou a febre foi o açúcar, boa parte dele do Brasil. E aí: time quindim ou time papo de anjo? Comenta aí 👇",
+   "legenda_tiktok": "Doce português leva gema às dúzias, e a culpa talvez não seja das freiras 🥚 Quem puxou a febre foi o açúcar, boa parte dele do Brasil. E aí: time quindim ou time papo de anjo? Comenta aí 👇\n\n#curiosidades #comida #historia #doces #comidabrasileira",
+   "legenda_instagram": "Doce português leva gema às dúzias, e a culpa talvez não seja das freiras 🥚 Quem puxou a febre foi o açúcar, boa parte dele do Brasil. E aí: time quindim ou time papo de anjo? Comenta aí 👇\n\n#curiosidades #comida #historia #doces #comidabrasileira",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V08-v1.mp4",
+   "capa": "previa/V08-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V08-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 33
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.87,
+   "revisao": "aprovado",
+   "titulo": "Por que enterraram melancia com Tutancâmon?",
+   "legenda": "Tutancâmon foi enterrado com onze cestos de semente de melancia 🍉 E a melancia antiga era amarga: o que valia era a semente. E aí: você cospe a semente ou come? Comenta aí 👇",
+   "legenda_tiktok": "Tutancâmon foi enterrado com onze cestos de semente de melancia 🍉 E a melancia antiga era amarga: o que valia era a semente. E aí: você cospe a semente ou come? Comenta aí 👇\n\n#curiosidades #comida #historia #melancia #frutas",
+   "legenda_instagram": "Tutancâmon foi enterrado com onze cestos de semente de melancia 🍉 E a melancia antiga era amarga: o que valia era a semente. E aí: você cospe a semente ou come? Comenta aí 👇\n\n#curiosidades #comida #historia #melancia #frutas",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V09-v1.mp4",
+   "capa": "previa/V09-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V09-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 34
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.07,
+   "revisao": "aprovado",
+   "titulo": "Por que inventaram o leite condensado?",
+   "legenda": "O leite condensado não nasceu pra ser doce 🥫 Nasceu pra o leite parar de estragar, e o açúcar estava lá pra guardar. E aí: você raspa a lata de colher? Comenta aí 👇",
+   "legenda_tiktok": "O leite condensado não nasceu pra ser doce 🥫 Nasceu pra o leite parar de estragar, e o açúcar estava lá pra guardar. E aí: você raspa a lata de colher? Comenta aí 👇\n\n#curiosidades #comida #historia #doces #leitecondensado",
+   "legenda_instagram": "O leite condensado não nasceu pra ser doce 🥫 Nasceu pra o leite parar de estragar, e o açúcar estava lá pra guardar. E aí: você raspa a lata de colher? Comenta aí 👇\n\n#curiosidades #comida #historia #doces #leitecondensado",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V10-v1.mp4",
+   "capa": "previa/V10-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-06/COMIDA-LOTE-06-V10-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 35
+  }
+ ]
+}

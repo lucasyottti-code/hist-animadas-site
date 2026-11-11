@@ -1,0 +1,227 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-05",
+ "gerado": "2026-10-28T10:26:36",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.53,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come tubarão?",
+   "legenda": "Por que ninguém come tubarão? 🦈 Spoiler: provavelmente você já comeu, e até na merenda. Agora que sabe o nome de balcão: você comeria de novo, sim ou não? 👇",
+   "legenda_tiktok": "Por que ninguém come tubarão? 🦈 Spoiler: provavelmente você já comeu, e até na merenda. Agora que sabe o nome de balcão: você comeria de novo, sim ou não? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "legenda_instagram": "Por que ninguém come tubarão? 🦈 Spoiler: provavelmente você já comeu, e até na merenda. Agora que sabe o nome de balcão: você comeria de novo, sim ou não? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 10,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.97,
+   "revisao": "aprovado",
+   "titulo": "Pular no rio te salva de um enxame de abelhas?",
+   "legenda": "E se 10 mil abelhas africanizadas te perseguissem? 🐝 Você pularia no rio ou continuaria correndo? Comenta o seu time 👇",
+   "legenda_tiktok": "E se 10 mil abelhas africanizadas te perseguissem? 🐝 Você pularia no rio ou continuaria correndo? Comenta o seu time 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "E se 10 mil abelhas africanizadas te perseguissem? 🐝 Você pularia no rio ou continuaria correndo? Comenta o seu time 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 11,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.03,
+   "revisao": "aprovado",
+   "titulo": "Como o beija-flor bebe néctar, se a língua não é canudo?",
+   "legenda": "A língua do beija-flor se abre dentro da flor 🐦🌺 Você também aprendeu que era canudo? Time 'eu sabia' ou time 'aprendi errado'? Comenta aí 👇",
+   "legenda_tiktok": "A língua do beija-flor se abre dentro da flor 🐦🌺 Você também aprendeu que era canudo? Time 'eu sabia' ou time 'aprendi errado'? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #aves #ciencia",
+   "legenda_instagram": "A língua do beija-flor se abre dentro da flor 🐦🌺 Você também aprendeu que era canudo? Time 'eu sabia' ou time 'aprendi errado'? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #aves #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 12,
+   "removido": "2026-10-29"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.06,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come porquinho-da-índia?",
+   "legenda": "Por que ninguém come porquinho-da-índia? 🐹 No Peru são mais de 25 milhões, e ele está até numa Santa Ceia de Cusco. E você: time pet ou time prato?",
+   "legenda_tiktok": "Por que ninguém come porquinho-da-índia? 🐹 No Peru são mais de 25 milhões, e ele está até numa Santa Ceia de Cusco. E você: time pet ou time prato?\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "legenda_instagram": "Por que ninguém come porquinho-da-índia? 🐹 No Peru são mais de 25 milhões, e ele está até numa Santa Ceia de Cusco. E você: time pet ou time prato?\n\n#curiosidades #natureza #vocesabia #animais #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 13,
+   "removido": "2026-10-29"
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.4,
+   "revisao": "aprovado",
+   "titulo": "Uma jangada de formigas pode te alcançar na enchente?",
+   "legenda": "E se 100 mil formigas lava-pés boiassem na sua direção numa enchente? 🐜🌊 Você mergulharia ou tiraria na mão? Comenta o seu time 👇",
+   "legenda_tiktok": "E se 100 mil formigas lava-pés boiassem na sua direção numa enchente? 🐜🌊 Você mergulharia ou tiraria na mão? Comenta o seu time 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "legenda_instagram": "E se 100 mil formigas lava-pés boiassem na sua direção numa enchente? 🐜🌊 Você mergulharia ou tiraria na mão? Comenta o seu time 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 14,
+   "removido": "2026-10-29"
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.0,
+   "revisao": "aprovado",
+   "titulo": "Como a aranha-saltadora acerta o pulo com um olho só?",
+   "legenda": "A aranha da sua parede mede distância pelo borrão 🕷️👀 Você deixa ela morar aí ou não? Time 'fofa, deixa' × time 'aranha é aranha' — comenta 👇",
+   "legenda_tiktok": "A aranha da sua parede mede distância pelo borrão 🕷️👀 Você deixa ela morar aí ou não? Time 'fofa, deixa' × time 'aranha é aranha' — comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "A aranha da sua parede mede distância pelo borrão 🕷️👀 Você deixa ela morar aí ou não? Time 'fofa, deixa' × time 'aranha é aranha' — comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 15,
+   "removido": "2026-10-30"
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.47,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come pombo?",
+   "legenda": "Por que ninguém come pombo? 🕊️ O da praça descende de pombo criado pra virar comida, e no Egito pombo recheado é prato de festa. E você: pombo de criadouro, comeria ou nem morto?",
+   "legenda_tiktok": "Por que ninguém come pombo? 🕊️ O da praça descende de pombo criado pra virar comida, e no Egito pombo recheado é prato de festa. E você: pombo de criadouro, comeria ou nem morto?\n\n#curiosidades #natureza #vocesabia #aves #comida",
+   "legenda_instagram": "Por que ninguém come pombo? 🕊️ O da praça descende de pombo criado pra virar comida, e no Egito pombo recheado é prato de festa. E você: pombo de criadouro, comeria ou nem morto?\n\n#curiosidades #natureza #vocesabia #aves #comida",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 16,
+   "removido": "2026-10-29"
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.0,
+   "revisao": "aprovado",
+   "titulo": "Dá pra sobreviver num lago com 100 poraquês?",
+   "legenda": "E se você caísse num lago com 100 poraquês? ⚡🐟 Esse lago existe, no Pará. Você ficaria parado ou nadaria pra margem? Comenta o seu time 👇",
+   "legenda_tiktok": "E se você caísse num lago com 100 poraquês? ⚡🐟 Esse lago existe, no Pará. Você ficaria parado ou nadaria pra margem? Comenta o seu time 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "legenda_instagram": "E se você caísse num lago com 100 poraquês? ⚡🐟 Esse lago existe, no Pará. Você ficaria parado ou nadaria pra margem? Comenta o seu time 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 17,
+   "removido": "2026-10-30"
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.4,
+   "revisao": "aprovado",
+   "titulo": "Por que você não sente a picada do mosquito?",
+   "legenda": "O mosquito te pica com seis agulhas e você não sente 🦟 Por que ele pica você e não quem tá do lado? Sangue doce ou outra coisa? Comenta aí 👇",
+   "legenda_tiktok": "O mosquito te pica com seis agulhas e você não sente 🦟 Por que ele pica você e não quem tá do lado? Sangue doce ou outra coisa? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "O mosquito te pica com seis agulhas e você não sente 🦟 Por que ele pica você e não quem tá do lado? Sangue doce ou outra coisa? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 18,
+   "removido": "2026-10-30"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-03",
+ "gerado": "2026-10-25T04:00:23",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.47,
+   "revisao": "aprovado",
+   "titulo": "Por que os gatos não têm medo da gente?",
+   "legenda": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇",
+   "legenda_tiktok": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #gatos #animais",
+   "legenda_instagram": "Por que os gatos não têm medo da gente? 🐈 O seu chegou com quantas semanas? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #gatos #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 4,
+   "removido": "2026-10-27"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.87,
+   "revisao": "aprovado",
+   "titulo": "Por que quase ninguém come krill?",
+   "legenda": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇",
+   "legenda_tiktok": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "legenda_instagram": "Por que quase ninguém come krill, um dos bichos mais abundantes do mar? 🦐🐋 Tem gosto de camarão… você comeria? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 5,
+   "removido": "2026-10-27"
+  }
+ ]
+}
