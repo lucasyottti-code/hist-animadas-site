@@ -1,0 +1,60 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-12",
+ "gerado": "2026-11-11T19:28:56",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.13,
+   "revisao": "aprovado",
+   "titulo": "Qual é o único animal que faz a orca fugir?",
+   "legenda": "O único animal no mundo que faz a orca correr 🐋 Não é o tubarão. Na Islândia, a orca se afastou desse bicho em quase todo encontro, e cientistas viram ela ir embora só de ouvir a voz dele. Você tinha chutado qual? Comenta 👇",
+   "legenda_tiktok": "O único animal no mundo que faz a orca correr 🐋 Não é o tubarão. Na Islândia, a orca se afastou desse bicho em quase todo encontro, e cientistas viram ela ir embora só de ouvir a voz dele. Você tinha chutado qual? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "legenda_instagram": "O único animal no mundo que faz a orca correr 🐋 Não é o tubarão. Na Islândia, a orca se afastou desse bicho em quase todo encontro, e cientistas viram ela ir embora só de ouvir a voz dele. Você tinha chutado qual? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 56,
+   "removido": "2026-11-12"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.53,
+   "revisao": "aprovado",
+   "titulo": "Por que a orca morre de medo da jubarte?",
+   "legenda": "Por que a orca morre de medo da jubarte? 🐋 A baleia da Bahia vai direto pra briga. Você já viu jubarte em Abrolhos ou na Praia do Forte? Conta aí 👇",
+   "legenda_tiktok": "Por que a orca morre de medo da jubarte? 🐋 A baleia da Bahia vai direto pra briga. Você já viu jubarte em Abrolhos ou na Praia do Forte? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "legenda_instagram": "Por que a orca morre de medo da jubarte? 🐋 A baleia da Bahia vai direto pra briga. Você já viu jubarte em Abrolhos ou na Praia do Forte? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-12/DESCUBRA-LOTE-12-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 57
+  }
+ ]
+}

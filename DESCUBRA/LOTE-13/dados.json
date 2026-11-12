@@ -1,0 +1,155 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-13",
+ "gerado": "2026-11-12T04:07:30",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.33,
+   "revisao": "aprovado",
+   "titulo": "Como um dragão cuspiria fogo sem se queimar?",
+   "legenda": "Como um dragão cuspiria fogo sem se queimar? 🔥 A resposta tá no boi do pasto e na boca do seu fogão. Manda pro amigo que é fã de dragão 👇",
+   "legenda_tiktok": "Como um dragão cuspiria fogo sem se queimar? 🔥 A resposta tá no boi do pasto e na boca do seu fogão. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "legenda_instagram": "Como um dragão cuspiria fogo sem se queimar? 🔥 A resposta tá no boi do pasto e na boca do seu fogão. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-13/DESCUBRA-LOTE-13-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 58
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.0,
+   "revisao": "aprovado",
+   "titulo": "Por que o dragão dorme em cima de ouro?",
+   "legenda": "Por que o dragão dorme em cima de ouro? 🪙 Não é luxo: é a física da sua panela. Manda pro amigo que é fã de dragão 👇",
+   "legenda_tiktok": "Por que o dragão dorme em cima de ouro? 🪙 Não é luxo: é a física da sua panela. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "legenda_instagram": "Por que o dragão dorme em cima de ouro? 🪙 Não é luxo: é a física da sua panela. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-13/DESCUBRA-LOTE-13-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 59
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.49,
+   "revisao": "aprovado",
+   "titulo": "Como funcionaria um cachorro de três cabeças?",
+   "legenda": "Como funcionaria um cachorro de três cabeças? 🐕 O final tem gente de verdade. Manda pro amigo que ama mitologia 👇",
+   "legenda_tiktok": "Como funcionaria um cachorro de três cabeças? 🐕 O final tem gente de verdade. Manda pro amigo que ama mitologia 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "Como funcionaria um cachorro de três cabeças? 🐕 O final tem gente de verdade. Manda pro amigo que ama mitologia 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-13/DESCUBRA-LOTE-13-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 60
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 64.4,
+   "revisao": "aprovado",
+   "titulo": "Por que jogar ovo na frente do peixe?",
+   "legenda": "Por que jogar ovo na frente do peixe? 🥚🐟 Você acreditou quando viu esse vídeo? Comenta 👇",
+   "legenda_tiktok": "Por que jogar ovo na frente do peixe? 🥚🐟 Você acreditou quando viu esse vídeo? Comenta 👇\n\n#curiosidades #natureza #vocesabia #peixe #brasil",
+   "legenda_instagram": "Por que jogar ovo na frente do peixe? 🥚🐟 Você acreditou quando viu esse vídeo? Comenta 👇\n\n#curiosidades #natureza #vocesabia #peixe #brasil",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-13/DESCUBRA-LOTE-13-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 61
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 64.4,
+   "revisao": "aprovado",
+   "titulo": "O que o gato faz se um esquilo entra na casa dele?",
+   "legenda": "O que o gato faz se um esquilo entra na casa dele? 🐿️🐈 E o seu gato, faria o quê? Comenta 👇",
+   "legenda_tiktok": "O que o gato faz se um esquilo entra na casa dele? 🐿️🐈 E o seu gato, faria o quê? Comenta 👇\n\n#curiosidades #natureza #vocesabia #gatos #animais",
+   "legenda_instagram": "O que o gato faz se um esquilo entra na casa dele? 🐿️🐈 E o seu gato, faria o quê? Comenta 👇\n\n#curiosidades #natureza #vocesabia #gatos #animais",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-13/DESCUBRA-LOTE-13-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 62
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.09,
+   "revisao": "aprovado",
+   "titulo": "Por que coalas brigam no meio da estrada?",
+   "legenda": "Por que coalas brigam no meio da estrada? 🐨 Você já parou o carro pra um bicho passar? Qual? Comenta 👇",
+   "legenda_tiktok": "Por que coalas brigam no meio da estrada? 🐨 Você já parou o carro pra um bicho passar? Qual? Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "Por que coalas brigam no meio da estrada? 🐨 Você já parou o carro pra um bicho passar? Qual? Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-13/DESCUBRA-LOTE-13-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 63
+  }
+ ]
+}
