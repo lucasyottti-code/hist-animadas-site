@@ -359,8 +359,9 @@
   "lote": "LOTE-11",
   "gerado": "2026-11-11T15:29:00",
   "videos": 1,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 1,
+  "formato": "curtos",
+  "fechado": "2026-11-12"
  },
  {
   "canal": "DESCUBRA",
