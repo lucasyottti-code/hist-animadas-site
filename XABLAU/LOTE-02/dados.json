@@ -1,0 +1,115 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-10-23T15:00:32",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.5,
+   "revisao": "aprovado",
+   "titulo": "O corpo humano brilha no escuro? 🤔",
+   "legenda": "O corpo humano brilha no escuro? ✨ Que horas são aí agora?",
+   "legenda_tiktok": "O corpo humano brilha no escuro? ✨ Que horas são aí agora?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "legenda_instagram": "O corpo humano brilha no escuro? ✨ Que horas são aí agora?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 4,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.4,
+   "revisao": "aprovado",
+   "titulo": "Quem foram os primeiros passageiros de balão da história? 🤔",
+   "legenda": "Quem foram os primeiros passageiros de balão da história? 🐑 Você iria no lugar da ovelha?",
+   "legenda_tiktok": "Quem foram os primeiros passageiros de balão da história? 🐑 Você iria no lugar da ovelha?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "Quem foram os primeiros passageiros de balão da história? 🐑 Você iria no lugar da ovelha?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 5,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.1,
+   "revisao": "aprovado",
+   "titulo": "Quanta água na rua leva um carro embora? 🤔",
+   "legenda": "Quanta água na rua leva um carro embora? 🌊 Você atravessaria aquela poça?",
+   "legenda_tiktok": "Quanta água na rua leva um carro embora? 🌊 Você atravessaria aquela poça?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "legenda_instagram": "Quanta água na rua leva um carro embora? 🌊 Você atravessaria aquela poça?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 6,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.67,
+   "revisao": "aprovado",
+   "titulo": "Qual é o material natural mais forte do mundo? 🤔",
+   "legenda": "Qual é o material natural mais forte do mundo? 🦷 Você chutaria teia de aranha?",
+   "legenda_tiktok": "Qual é o material natural mais forte do mundo? 🦷 Você chutaria teia de aranha?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "legenda_instagram": "Qual é o material natural mais forte do mundo? 🦷 Você chutaria teia de aranha?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 7,
+   "removido": "2026-10-28"
+  }
+ ]
+}

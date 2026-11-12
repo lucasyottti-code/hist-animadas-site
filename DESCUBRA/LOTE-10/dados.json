@@ -1,0 +1,86 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-10",
+ "gerado": "2026-11-10T10:00:05",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.33,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come tatu?",
+   "legenda": "Ninguém come tatu? Na sua família, já foi pra panela ou nem pensar? 🍲 Numa cidadezinha do Pará, 6 em cada 10 entrevistados comeram tatu em um ano. E a ciência tem um alerta sobre ele que quase ninguém conhece. (Lembrando: caçar tatu é crime ambiental.) Comenta 👇",
+   "legenda_tiktok": "Ninguém come tatu? Na sua família, já foi pra panela ou nem pensar? 🍲 Numa cidadezinha do Pará, 6 em cada 10 entrevistados comeram tatu em um ano. E a ciência tem um alerta sobre ele que quase ninguém conhece. (Lembrando: caçar tatu é crime ambiental.) Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "Ninguém come tatu? Na sua família, já foi pra panela ou nem pensar? 🍲 Numa cidadezinha do Pará, 6 em cada 10 entrevistados comeram tatu em um ano. E a ciência tem um alerta sobre ele que quase ninguém conhece. (Lembrando: caçar tatu é crime ambiental.) Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 52,
+   "removido": "2026-11-10"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.3,
+   "revisao": "aprovado",
+   "titulo": "Por que o escorpião-amarelo não precisa de macho?",
+   "legenda": "Todo escorpião-amarelo que você viu era fêmea 🦂 Você acredita, ou jura que já viu macho? E na sua cidade: aparece ou você nunca viu um? Comenta 👇",
+   "legenda_tiktok": "Todo escorpião-amarelo que você viu era fêmea 🦂 Você acredita, ou jura que já viu macho? E na sua cidade: aparece ou você nunca viu um? Comenta 👇\n\n#curiosidades #natureza #vocesabia #bichos #brasil",
+   "legenda_instagram": "Todo escorpião-amarelo que você viu era fêmea 🦂 Você acredita, ou jura que já viu macho? E na sua cidade: aparece ou você nunca viu um? Comenta 👇\n\n#curiosidades #natureza #vocesabia #bichos #brasil",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 53,
+   "removido": "2026-11-10"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.79,
+   "revisao": "aprovado",
+   "titulo": "Frango de granja tem hormônio?",
+   "legenda": "Frango de granja tem hormônio ou é genética? 🐔 A sua mãe jura que tem. Na sua casa, é time hormônio ou time genética? 👇",
+   "legenda_tiktok": "Frango de granja tem hormônio ou é genética? 🐔 A sua mãe jura que tem. Na sua casa, é time hormônio ou time genética? 👇\n\n#curiosidades #natureza #vocesabia #comida #ciencia",
+   "legenda_instagram": "Frango de granja tem hormônio ou é genética? 🐔 A sua mãe jura que tem. Na sua casa, é time hormônio ou time genética? 👇\n\n#curiosidades #natureza #vocesabia #comida #ciencia",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 54,
+   "removido": "2026-11-11"
+  }
+ ]
+}
