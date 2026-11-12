@@ -1,0 +1,57 @@
+{
+ "canal": {
+  "id": "COMIDA",
+  "nome": "Descubra Comida",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-10-29T19:23:32",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 64.4,
+   "revisao": "pendente",
+   "titulo": "Por que o feijão carioca tem esse nome?",
+   "legenda": "O feijão carioca não nasceu no Rio, e o nome dele veio de um porco 🐷🫘 Na sua casa é time preto ou time carioca? Comenta aí 👇",
+   "legenda_tiktok": "O feijão carioca não nasceu no Rio, e o nome dele veio de um porco 🐷🫘 Na sua casa é time preto ou time carioca? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #feijao",
+   "legenda_instagram": "O feijão carioca não nasceu no Rio, e o nome dele veio de um porco 🐷🫘 Na sua casa é time preto ou time carioca? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #feijao",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-01/COMIDA-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.9,
+   "revisao": "pendente",
+   "titulo": "O que os indígenas acharam da comida de Cabral?",
+   "legenda": "Em 1500 serviram pão, mel e figo aos tupiniquins na nau de Cabral… e quase nada foi comido 🍯 O que você serviria no primeiro jantar do Brasil? Comenta aí 👇",
+   "legenda_tiktok": "Em 1500 serviram pão, mel e figo aos tupiniquins na nau de Cabral… e quase nada foi comido 🍯 O que você serviria no primeiro jantar do Brasil? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "legenda_instagram": "Em 1500 serviram pão, mel e figo aos tupiniquins na nau de Cabral… e quase nada foi comido 🍯 O que você serviria no primeiro jantar do Brasil? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COMIDA-LOTE-01/COMIDA-LOTE-01-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}

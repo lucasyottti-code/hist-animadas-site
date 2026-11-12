@@ -1,0 +1,34 @@
+{
+ "canal": {
+  "id": "OFFICE",
+  "nome": "Office Clips",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-11-12T00:15:39",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 105.6,
+   "revisao": "aprovado",
+   "titulo": "E se você tivesse nascido na Medellín de Pablo Escobar? (1975)",
+   "legenda": "A vida de um rapaz comum num bairro de Medellín, na época de Pablo Escobar, com a conta de cada ano. Você aguentava um ano no lugar do Jairo?",
+   "legenda_tiktok": "A vida de um rapaz comum num bairro de Medellín, na época de Pablo Escobar, com a conta de cada ano. Você aguentava um ano no lugar do Jairo?\n\n#historia #esevoce #curiosidades #medellin #colombia",
+   "legenda_instagram": "A vida de um rapaz comum num bairro de Medellín, na época de Pablo Escobar, com a conta de cada ano. Você aguentava um ano no lugar do Jairo?\n\n#historia #esevoce #curiosidades #medellin #colombia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-01/OFFICE-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 1
+  }
+ ]
+}
