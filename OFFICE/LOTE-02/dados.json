@@ -22,13 +22,14 @@
    "plataformas": [
     "tiktok"
    ],
-   "previa": "previa/V01-v2.mp4",
-   "capa": "previa/V01-v2.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-02/OFFICE-LOTE-02-V01-v2.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v2"
    },
-   "numero": 2
+   "numero": 2,
+   "removido": "2026-11-13"
   },
   {
    "id": "V02",
