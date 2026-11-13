@@ -1,0 +1,105 @@
+{
+ "canal": {
+  "id": "OFFICE",
+  "nome": "Office Clips",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-11-12T15:54:23",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 106.62,
+   "revisao": "aprovado",
+   "titulo": "E se você acordasse em Hiroshima no dia da bomba atômica? (6 de agosto de 1945)",
+   "legenda": "Um dia comum de uma menina de 14 anos em Hiroshima, hora por hora, até as 8h15 de 6 de agosto de 1945. Você subiria de novo naquele bonde, três dias depois?",
+   "legenda_tiktok": "Um dia comum de uma menina de 14 anos em Hiroshima, hora por hora, até as 8h15 de 6 de agosto de 1945. Você subiria de novo naquele bonde, três dias depois?\n\n#historia #esevoce #curiosidades #hiroshima #segundaguerra",
+   "legenda_instagram": "Um dia comum de uma menina de 14 anos em Hiroshima, hora por hora, até as 8h15 de 6 de agosto de 1945. Você subiria de novo naquele bonde, três dias depois?\n\n#historia #esevoce #curiosidades #hiroshima #segundaguerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v2"
+   },
+   "numero": 2,
+   "removido": "2026-11-13"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 104.09,
+   "revisao": "aprovado",
+   "titulo": "E se você tivesse nascido na Alemanha nazista? (Hamburgo, 1927)",
+   "legenda": "A vida de um garoto comum de Hamburgo na Alemanha nazista, da conta do domingo à noite do incêndio. Você aguentava um ano no lugar do Hans?",
+   "legenda_tiktok": "A vida de um garoto comum de Hamburgo na Alemanha nazista, da conta do domingo à noite do incêndio. Você aguentava um ano no lugar do Hans?\n\n#historia #esevoce #curiosidades #segundaguerra #alemanha",
+   "legenda_instagram": "A vida de um garoto comum de Hamburgo na Alemanha nazista, da conta do domingo à noite do incêndio. Você aguentava um ano no lugar do Hans?\n\n#historia #esevoce #curiosidades #segundaguerra #alemanha",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v2"
+   },
+   "numero": 3,
+   "removido": "2026-11-13"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 108.47,
+   "revisao": "aprovado",
+   "titulo": "E se você tivesse nascido na África das grandes navegações? (Reino do Congo, 1500)",
+   "legenda": "A vida de um tecelão comum no Reino do Congo, na época das caravelas portuguesas: a moeda de concha, a feira, o imposto e a carta de 1526. Você chegava aos quarenta no lugar do Luzolo?",
+   "legenda_tiktok": "A vida de um tecelão comum no Reino do Congo, na época das caravelas portuguesas: a moeda de concha, a feira, o imposto e a carta de 1526. Você chegava aos quarenta no lugar do Luzolo?\n\n#historia #esevoce #curiosidades #africa #historiadobrasil",
+   "legenda_instagram": "A vida de um tecelão comum no Reino do Congo, na época das caravelas portuguesas: a moeda de concha, a feira, o imposto e a carta de 1526. Você chegava aos quarenta no lugar do Luzolo?\n\n#historia #esevoce #curiosidades #africa #historiadobrasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v2.mp4",
+   "capa": "previa/V03-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-02/OFFICE-LOTE-02-V03-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": 4
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 99.77,
+   "revisao": "aprovado",
+   "titulo": "E se você acordasse em Nova York no 11 de setembro? (Torres Gêmeas, 2001)",
+   "legenda": "Um dia comum de um rapaz de 28 anos no andar 81 da Torre Sul, hora por hora, até as 9h03 de 11 de setembro de 2001. Você conhecia esse lado da história?",
+   "legenda_tiktok": "Um dia comum de um rapaz de 28 anos no andar 81 da Torre Sul, hora por hora, até as 9h03 de 11 de setembro de 2001. Você conhecia esse lado da história?\n\n#historia #esevoce #curiosidades #11desetembro #novayork",
+   "legenda_instagram": "Um dia comum de um rapaz de 28 anos no andar 81 da Torre Sul, hora por hora, até as 9h03 de 11 de setembro de 2001. Você conhecia esse lado da história?\n\n#historia #esevoce #curiosidades #11desetembro #novayork",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v2.mp4",
+   "capa": "previa/V04-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-02/OFFICE-LOTE-02-V04-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": 5
+  }
+ ]
+}
