@@ -1,0 +1,252 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-07",
+ "gerado": "2026-10-31T14:16:13",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.65,
+   "revisao": "aprovado",
+   "titulo": "Se cação não existe, o que você comeu?",
+   "legenda": "Cação não existe 🐟 Então o que você comeu a vida inteira? Se a etiqueta dissesse o nome do bicho de verdade: você levava ou largava na bandeja? 👇",
+   "legenda_tiktok": "Cação não existe 🐟 Então o que você comeu a vida inteira? Se a etiqueta dissesse o nome do bicho de verdade: você levava ou largava na bandeja? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "legenda_instagram": "Cação não existe 🐟 Então o que você comeu a vida inteira? Se a etiqueta dissesse o nome do bicho de verdade: você levava ou largava na bandeja? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 25,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.37,
+   "revisao": "aprovado",
+   "titulo": "E se chovesse mil aranhas em cima de você?",
+   "legenda": "E se chovesse mil aranhas em cima de você? 🕷️ Aconteceu em Minas. Time sai correndo ou time fica filmando? 👇",
+   "legenda_tiktok": "E se chovesse mil aranhas em cima de você? 🕷️ Aconteceu em Minas. Time sai correndo ou time fica filmando? 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "E se chovesse mil aranhas em cima de você? 🕷️ Aconteceu em Minas. Time sai correndo ou time fica filmando? 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 26,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.3,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come capivara?",
+   "legenda": "Por que ninguém come capivara? 🦫 Tem lei, tem criadouro e quase ninguém cria. Time bicho de fazenda ou time fofa demais? 👇",
+   "legenda_tiktok": "Por que ninguém come capivara? 🦫 Tem lei, tem criadouro e quase ninguém cria. Time bicho de fazenda ou time fofa demais? 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "Por que ninguém come capivara? 🦫 Tem lei, tem criadouro e quase ninguém cria. Time bicho de fazenda ou time fofa demais? 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 27,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.57,
+   "revisao": "aprovado",
+   "titulo": "Qual cobra caça jararaca e não morre com o veneno?",
+   "legenda": "Qual cobra caça jararaca e não morre? 🐍 A mussurana já nasce resistindo, e a cena dela engolindo jararaca virou símbolo do Butantan. Time jararaca ou time mussurana? 👇",
+   "legenda_tiktok": "Qual cobra caça jararaca e não morre? 🐍 A mussurana já nasce resistindo, e a cena dela engolindo jararaca virou símbolo do Butantan. Time jararaca ou time mussurana? 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "Qual cobra caça jararaca e não morre? 🐍 A mussurana já nasce resistindo, e a cena dela engolindo jararaca virou símbolo do Butantan. Time jararaca ou time mussurana? 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 28,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.8,
+   "revisao": "aprovado",
+   "titulo": "Por que o peixe da merenda nunca tinha espinha?",
+   "legenda": "O peixe da merenda nunca tinha espinha. Por quê? 🍽️ Na sua escola tinha esse peixe? Time 'eu adorava' ou time 'eu deixava no prato'? 👇",
+   "legenda_tiktok": "O peixe da merenda nunca tinha espinha. Por quê? 🍽️ Na sua escola tinha esse peixe? Time 'eu adorava' ou time 'eu deixava no prato'? 👇\n\n#curiosidades #natureza #vocesabia #comida #brasil",
+   "legenda_instagram": "O peixe da merenda nunca tinha espinha. Por quê? 🍽️ Na sua escola tinha esse peixe? Time 'eu adorava' ou time 'eu deixava no prato'? 👇\n\n#curiosidades #natureza #vocesabia #comida #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 29,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.59,
+   "revisao": "aprovado",
+   "titulo": "Por que o pai é quem engravida no cavalo-marinho?",
+   "legenda": "Por que quem engravida no cavalo-marinho é o pai? 🌊 Quase 700 filhotes numa bolsa que funciona parecido com uma placenta. Agora decide: quem levou a melhor, o pai que carrega ou a mãe que sai livre? Time pai ou time mãe 👇",
+   "legenda_tiktok": "Por que quem engravida no cavalo-marinho é o pai? 🌊 Quase 700 filhotes numa bolsa que funciona parecido com uma placenta. Agora decide: quem levou a melhor, o pai que carrega ou a mãe que sai livre? Time pai ou time mãe 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "legenda_instagram": "Por que quem engravida no cavalo-marinho é o pai? 🌊 Quase 700 filhotes numa bolsa que funciona parecido com uma placenta. Agora decide: quem levou a melhor, o pai que carrega ou a mãe que sai livre? Time pai ou time mãe 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 30,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.7,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come peixe-leão?",
+   "legenda": "Por que ninguém come peixe-leão? 🐟 Ele já se espalhou por uns 4 mil km da nossa costa, o veneno fica no espinho, e o Brasil ainda não decidiu se ele é praga ou comida. E você: comeria o peixe que invadiu o seu mar ou nem pensar? 👇",
+   "legenda_tiktok": "Por que ninguém come peixe-leão? 🐟 Ele já se espalhou por uns 4 mil km da nossa costa, o veneno fica no espinho, e o Brasil ainda não decidiu se ele é praga ou comida. E você: comeria o peixe que invadiu o seu mar ou nem pensar? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "legenda_instagram": "Por que ninguém come peixe-leão? 🐟 Ele já se espalhou por uns 4 mil km da nossa costa, o veneno fica no espinho, e o Brasil ainda não decidiu se ele é praga ou comida. E você: comeria o peixe que invadiu o seu mar ou nem pensar? 👇\n\n#curiosidades #natureza #vocesabia #oceano #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 31,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.93,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém tem raposa de estimação?",
+   "legenda": "Por que ninguém tem raposa de estimação? 🦊 Parece cachorro, mas cientistas russos levaram décadas pra chegar perto disso. Você achava que bastava criar desde filhote? Time 'achava' ou time 'sabia que não'? 👇",
+   "legenda_tiktok": "Por que ninguém tem raposa de estimação? 🦊 Parece cachorro, mas cientistas russos levaram décadas pra chegar perto disso. Você achava que bastava criar desde filhote? Time 'achava' ou time 'sabia que não'? 👇\n\n#curiosidades #natureza #vocesabia #animais #bichos",
+   "legenda_instagram": "Por que ninguém tem raposa de estimação? 🦊 Parece cachorro, mas cientistas russos levaram décadas pra chegar perto disso. Você achava que bastava criar desde filhote? Time 'achava' ou time 'sabia que não'? 👇\n\n#curiosidades #natureza #vocesabia #animais #bichos",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 32,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.27,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém nunca achou um esqueleto de megalodon?",
+   "legenda": "Por que ninguém nunca achou um esqueleto de megalodon? 🦈 O maior tubarão que já existiu sobrou quase só em dentes, e a coluna da Bélgica mudou o desenho dele. Time monstro do filme ou time tubarão esguio? 👇",
+   "legenda_tiktok": "Por que ninguém nunca achou um esqueleto de megalodon? 🦈 O maior tubarão que já existiu sobrou quase só em dentes, e a coluna da Bélgica mudou o desenho dele. Time monstro do filme ou time tubarão esguio? 👇\n\n#curiosidades #natureza #vocesabia #oceano #ciencia",
+   "legenda_instagram": "Por que ninguém nunca achou um esqueleto de megalodon? 🦈 O maior tubarão que já existiu sobrou quase só em dentes, e a coluna da Bélgica mudou o desenho dele. Time monstro do filme ou time tubarão esguio? 👇\n\n#curiosidades #natureza #vocesabia #oceano #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 33,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.89,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém come cobra?",
+   "legenda": "Por que ninguém come cobra? 🐍 Na conta da ração, a píton ganha do frango, mas a cobra do seu mato é protegida por lei. Píton de fazenda no prato: você encarava ou nem amarrado? 👇",
+   "legenda_tiktok": "Por que ninguém come cobra? 🐍 Na conta da ração, a píton ganha do frango, mas a cobra do seu mato é protegida por lei. Píton de fazenda no prato: você encarava ou nem amarrado? 👇\n\n#curiosidades #natureza #vocesabia #comida #animais",
+   "legenda_instagram": "Por que ninguém come cobra? 🐍 Na conta da ração, a píton ganha do frango, mas a cobra do seu mato é protegida por lei. Píton de fazenda no prato: você encarava ou nem amarrado? 👇\n\n#curiosidades #natureza #vocesabia #comida #animais",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 34,
+   "removido": "2026-11-04"
+  }
+ ]
+}

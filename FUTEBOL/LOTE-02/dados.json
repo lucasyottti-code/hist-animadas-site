@@ -1,0 +1,241 @@
+{
+ "canal": {
+  "id": "FUTEBOL",
+  "nome": "Descubra Futebol",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-11-14T01:03:01",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.03,
+   "revisao": "pendente",
+   "titulo": "Como as seleções chegaram na Copa de 1930?",
+   "legenda": "Em 1930, ir pra Copa era quinze dias de navio 🚢 Você aguentaria duas semanas de mar pra jogar uma Copa? Comenta aí 👇",
+   "legenda_tiktok": "Em 1930, ir pra Copa era quinze dias de navio 🚢 Você aguentaria duas semanas de mar pra jogar uma Copa? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #brasil",
+   "legenda_instagram": "Em 1930, ir pra Copa era quinze dias de navio 🚢 Você aguentaria duas semanas de mar pra jogar uma Copa? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.9,
+   "revisao": "pendente",
+   "titulo": "Onde ficou a taça da Copa durante a Segunda Guerra?",
+   "legenda": "Na guerra, a taça da Copa ficou numa caixa de sapatos 👟 Você dormiria com a taça da Copa embaixo da cama? Comenta aí 👇",
+   "legenda_tiktok": "Na guerra, a taça da Copa ficou numa caixa de sapatos 👟 Você dormiria com a taça da Copa embaixo da cama? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #tacadacopa",
+   "legenda_instagram": "Na guerra, a taça da Copa ficou numa caixa de sapatos 👟 Você dormiria com a taça da Copa embaixo da cama? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #tacadacopa",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.53,
+   "revisao": "pendente",
+   "titulo": "Qual foi o jogo de Copa com mais gols da história?",
+   "legenda": "Em 1954, um jogo de Copa teve doze gols ⚽ Você jogaria noventa minutos num calor de quarenta graus? Comenta aí 👇",
+   "legenda_tiktok": "Em 1954, um jogo de Copa teve doze gols ⚽ Você jogaria noventa minutos num calor de quarenta graus? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #recorde",
+   "legenda_instagram": "Em 1954, um jogo de Copa teve doze gols ⚽ Você jogaria noventa minutos num calor de quarenta graus? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #recorde",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.8,
+   "revisao": "pendente",
+   "titulo": "Por que o cartão do futebol é amarelo e vermelho?",
+   "legenda": "O cartão amarelo e o vermelho nasceram de um semáforo 🚦 Você voltaria pro tempo em que o juiz expulsava só no grito? Comenta aí 👇",
+   "legenda_tiktok": "O cartão amarelo e o vermelho nasceram de um semáforo 🚦 Você voltaria pro tempo em que o juiz expulsava só no grito? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #regras",
+   "legenda_instagram": "O cartão amarelo e o vermelho nasceram de um semáforo 🚦 Você voltaria pro tempo em que o juiz expulsava só no grito? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #regras",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.02,
+   "revisao": "pendente",
+   "titulo": "Por que um jogador chutou a bola antes da falta na Copa de 1974?",
+   "legenda": "Em 1974, um jogador chutou a bola antes da falta, de propósito ⚽ Você teria coragem de fazer isso numa Copa? Comenta aí 👇",
+   "legenda_tiktok": "Em 1974, um jogador chutou a bola antes da falta, de propósito ⚽ Você teria coragem de fazer isso numa Copa? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #futebolbrasileiro",
+   "legenda_instagram": "Em 1974, um jogador chutou a bola antes da falta, de propósito ⚽ Você teria coragem de fazer isso numa Copa? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo #futebolbrasileiro",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.95,
+   "revisao": "pendente",
+   "titulo": "Um príncipe já anulou um gol numa Copa do Mundo?",
+   "legenda": "Em 1982 um príncipe desceu da tribuna e um gol de Copa foi anulado 👑 E aí: o gol valia ou não valia? Comenta aí 👇",
+   "legenda_tiktok": "Em 1982 um príncipe desceu da tribuna e um gol de Copa foi anulado 👑 E aí: o gol valia ou não valia? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo",
+   "legenda_instagram": "Em 1982 um príncipe desceu da tribuna e um gol de Copa foi anulado 👑 E aí: o gol valia ou não valia? Comenta aí 👇\n\n#curiosidades #futebol #historia #copadomundo",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.63,
+   "revisao": "pendente",
+   "titulo": "E se jogo de Copa durasse só 80 minutos?",
+   "legenda": "Em 1991 a primeira Copa feminina teve jogos de 80 minutos ⏱️ O motivo: 'proteger as jogadoras'. Você jogaria 80 ou 90? Comenta aí 👇",
+   "legenda_tiktok": "Em 1991 a primeira Copa feminina teve jogos de 80 minutos ⏱️ O motivo: 'proteger as jogadoras'. Você jogaria 80 ou 90? Comenta aí 👇\n\n#curiosidades #futebol #historia #futebolfeminino #copadomundo",
+   "legenda_instagram": "Em 1991 a primeira Copa feminina teve jogos de 80 minutos ⏱️ O motivo: 'proteger as jogadoras'. Você jogaria 80 ou 90? Comenta aí 👇\n\n#curiosidades #futebol #historia #futebolfeminino #copadomundo",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V07-v1.mp4",
+   "capa": "previa/V07-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V07-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 75.33,
+   "revisao": "pendente",
+   "titulo": "Por que um time fez 149 gols contra de propósito?",
+   "legenda": "Em 2002 um time fez 149 gols contra de propósito 🥅 Protesto justo ou vergonha? Comenta aí 👇",
+   "legenda_tiktok": "Em 2002 um time fez 149 gols contra de propósito 🥅 Protesto justo ou vergonha? Comenta aí 👇\n\n#curiosidades #futebol #historia #recorde",
+   "legenda_instagram": "Em 2002 um time fez 149 gols contra de propósito 🥅 Protesto justo ou vergonha? Comenta aí 👇\n\n#curiosidades #futebol #historia #recorde",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V08-v1.mp4",
+   "capa": "previa/V08-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V08-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 67.0,
+   "revisao": "pendente",
+   "titulo": "Por que o juiz faz uma linha com spray antes da falta?",
+   "legenda": "O spray do juiz estreou na Copa de 2014, mas foi criado no Brasil 14 anos antes 🧴 Você já roubou um passinho na barreira da pelada? Comenta aí 👇",
+   "legenda_tiktok": "O spray do juiz estreou na Copa de 2014, mas foi criado no Brasil 14 anos antes 🧴 Você já roubou um passinho na barreira da pelada? Comenta aí 👇\n\n#curiosidades #futebol #historia #futebolbrasileiro #regras",
+   "legenda_instagram": "O spray do juiz estreou na Copa de 2014, mas foi criado no Brasil 14 anos antes 🧴 Você já roubou um passinho na barreira da pelada? Comenta aí 👇\n\n#curiosidades #futebol #historia #futebolbrasileiro #regras",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V09-v1.mp4",
+   "capa": "previa/V09-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V09-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.87,
+   "revisao": "pendente",
+   "titulo": "A torcida que você ouvia na TV em 2020 era falsa?",
+   "legenda": "Em 2020 a torcida que você ouvia na TV não estava no estádio 📺 Você assistiria com torcida falsa ou no silêncio? Comenta aí 👇",
+   "legenda_tiktok": "Em 2020 a torcida que você ouvia na TV não estava no estádio 📺 Você assistiria com torcida falsa ou no silêncio? Comenta aí 👇\n\n#curiosidades #futebol #historia #pandemia",
+   "legenda_instagram": "Em 2020 a torcida que você ouvia na TV não estava no estádio 📺 Você assistiria com torcida falsa ou no silêncio? Comenta aí 👇\n\n#curiosidades #futebol #historia #pandemia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V10-v1.mp4",
+   "capa": "previa/V10-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FUTEBOL-LOTE-02/FUTEBOL-LOTE-02-V10-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}

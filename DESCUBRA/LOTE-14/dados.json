@@ -1,0 +1,161 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-14",
+ "gerado": "2026-11-14T02:02:31",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.27,
+   "revisao": "aprovado",
+   "titulo": "Como um pterossauro gigante saía do chão?",
+   "legenda": "Como um bicho da altura de uma girafa saía do chão? 🦒 A resposta tá nos braços, não nas pernas. Manda pro amigo que ama bicho pré-histórico 👇",
+   "legenda_tiktok": "Como um bicho da altura de uma girafa saía do chão? 🦒 A resposta tá nos braços, não nas pernas. Manda pro amigo que ama bicho pré-histórico 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "legenda_instagram": "Como um bicho da altura de uma girafa saía do chão? 🦒 A resposta tá nos braços, não nas pernas. Manda pro amigo que ama bicho pré-histórico 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-14/DESCUBRA-LOTE-14-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 64
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 76.47,
+   "revisao": "aprovado",
+   "titulo": "Um dragão do tamanho de um T. rex conseguiria voar?",
+   "legenda": "Um dragão do tamanho de um T. rex conseguiria voar? 🐉 A física transforma ele num balão. E balão com fogo na boca… Manda pro amigo que ama dragão 👇",
+   "legenda_tiktok": "Um dragão do tamanho de um T. rex conseguiria voar? 🐉 A física transforma ele num balão. E balão com fogo na boca… Manda pro amigo que ama dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "legenda_instagram": "Um dragão do tamanho de um T. rex conseguiria voar? 🐉 A física transforma ele num balão. E balão com fogo na boca… Manda pro amigo que ama dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-14/DESCUBRA-LOTE-14-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 65
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 76.77,
+   "revisao": "pendente",
+   "titulo": "Uma raposa de nove caudas conseguiria caçar?",
+   "legenda": "Uma raposa de nove caudas conseguiria caçar? 🦊 Cada cauda resolve um problema e cria outro. Manda pro amigo que ama anime 👇",
+   "legenda_tiktok": "Uma raposa de nove caudas conseguiria caçar? 🦊 Cada cauda resolve um problema e cria outro. Manda pro amigo que ama anime 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "Uma raposa de nove caudas conseguiria caçar? 🦊 Cada cauda resolve um problema e cria outro. Manda pro amigo que ama anime 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v2.mp4",
+   "capa": "previa/V03-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-14/DESCUBRA-LOTE-14-V03-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 76.27,
+   "revisao": "aprovado",
+   "titulo": "Dá pra escapar de um T. rex ficando parado?",
+   "legenda": "Dá pra escapar de um T. rex ficando parado? 🦖 Qual seria o seu plano? Manda pro amigo que jura que é só ficar parado 👇",
+   "legenda_tiktok": "Dá pra escapar de um T. rex ficando parado? 🦖 Qual seria o seu plano? Manda pro amigo que jura que é só ficar parado 👇\n\n#curiosidades #natureza #vocesabia #dinossauros #ciencia",
+   "legenda_instagram": "Dá pra escapar de um T. rex ficando parado? 🦖 Qual seria o seu plano? Manda pro amigo que jura que é só ficar parado 👇\n\n#curiosidades #natureza #vocesabia #dinossauros #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-14/DESCUBRA-LOTE-14-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 66
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.43,
+   "revisao": "aprovado",
+   "titulo": "Como a enguia foi parar pra fora da garça?",
+   "legenda": "Como a enguia foi parar pra fora da garça? 📸 A foto é real e ninguém sabe o fim. Você acha que ela escapou? Comenta 👇",
+   "legenda_tiktok": "Como a enguia foi parar pra fora da garça? 📸 A foto é real e ninguém sabe o fim. Você acha que ela escapou? Comenta 👇\n\n#curiosidades #natureza #vocesabia #aves #animais",
+   "legenda_instagram": "Como a enguia foi parar pra fora da garça? 📸 A foto é real e ninguém sabe o fim. Você acha que ela escapou? Comenta 👇\n\n#curiosidades #natureza #vocesabia #aves #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-14/DESCUBRA-LOTE-14-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 67
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.67,
+   "revisao": "aprovado",
+   "titulo": "Saco de moscas vira comida de galinha?",
+   "legenda": "Saco de moscas vira comida de galinha? 🪰🐔 Você daria isso pra sua galinha? Manda pra quem cria galinha no quintal 👇",
+   "legenda_tiktok": "Saco de moscas vira comida de galinha? 🪰🐔 Você daria isso pra sua galinha? Manda pra quem cria galinha no quintal 👇\n\n#curiosidades #natureza #vocesabia #galinha #ciencia",
+   "legenda_instagram": "Saco de moscas vira comida de galinha? 🪰🐔 Você daria isso pra sua galinha? Manda pra quem cria galinha no quintal 👇\n\n#curiosidades #natureza #vocesabia #galinha #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-14/DESCUBRA-LOTE-14-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 68
+  }
+ ]
+}
