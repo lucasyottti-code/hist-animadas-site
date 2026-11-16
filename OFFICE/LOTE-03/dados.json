@@ -1,0 +1,104 @@
+{
+ "canal": {
+  "id": "OFFICE",
+  "nome": "Office Clips",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-03",
+ "gerado": "2026-11-14T18:52:34",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 79.9,
+   "revisao": "aprovado",
+   "titulo": "E se você acordasse no Titanic? (terceira classe, 14 de abril de 1912)",
+   "legenda": "O último domingo do Titanic visto da terceira classe, hora por hora, até as 23h40. Com o seu salário de hoje, você ia de primeira ou de terceira?",
+   "legenda_tiktok": "O último domingo do Titanic visto da terceira classe, hora por hora, até as 23h40. Com o seu salário de hoje, você ia de primeira ou de terceira?\n\n#historia #esevoce #curiosidades #titanic #1912",
+   "legenda_instagram": "O último domingo do Titanic visto da terceira classe, hora por hora, até as 23h40. Com o seu salário de hoje, você ia de primeira ou de terceira?\n\n#historia #esevoce #curiosidades #titanic #1912",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 6,
+   "removido": "2026-11-16"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 85.4,
+   "revisao": "aprovado",
+   "titulo": "E se você fosse pra Segunda Guerra pelo Brasil? (pracinha da FEB, Itália, 1944–45)",
+   "legenda": "A vida de um pracinha comum na Segunda Guerra, do exame dos dentes à pensão que levou 43 anos pra sair. Seu avô foi? E você: ia, ou arrumava um padrinho?",
+   "legenda_tiktok": "A vida de um pracinha comum na Segunda Guerra, do exame dos dentes à pensão que levou 43 anos pra sair. Seu avô foi? E você: ia, ou arrumava um padrinho?\n\n#historia #esevoce #curiosidades #segundaguerra #pracinhas",
+   "legenda_instagram": "A vida de um pracinha comum na Segunda Guerra, do exame dos dentes à pensão que levou 43 anos pra sair. Seu avô foi? E você: ia, ou arrumava um padrinho?\n\n#historia #esevoce #curiosidades #segundaguerra #pracinhas",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-03/OFFICE-LOTE-03-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 7
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 89.17,
+   "revisao": "aprovado",
+   "titulo": "E se você nascesse na Peste Negra? (Florença, 1348)",
+   "legenda": "A vida de um rapaz comum em Florença no ano da Peste Negra: a paga, o remédio e a conta de quem ficou. Você aguentava esse ano em Florença?",
+   "legenda_tiktok": "A vida de um rapaz comum em Florença no ano da Peste Negra: a paga, o remédio e a conta de quem ficou. Você aguentava esse ano em Florença?\n\n#historia #esevoce #curiosidades #pestenegra #idademedia",
+   "legenda_instagram": "A vida de um rapaz comum em Florença no ano da Peste Negra: a paga, o remédio e a conta de quem ficou. Você aguentava esse ano em Florença?\n\n#historia #esevoce #curiosidades #pestenegra #idademedia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-03/OFFICE-LOTE-03-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 8
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 91.1,
+   "revisao": "aprovado",
+   "titulo": "E se você acordasse em Chernobyl? (Pripyat, 26 de abril de 1986)",
+   "legenda": "O sábado de Chernobyl visto de Pripyat, a 3 km do reator: 36 horas até tirarem a cidade dali. Numa sacola pra três dias, você levava documento ou lembrança?",
+   "legenda_tiktok": "O sábado de Chernobyl visto de Pripyat, a 3 km do reator: 36 horas até tirarem a cidade dali. Numa sacola pra três dias, você levava documento ou lembrança?\n\n#historia #esevoce #curiosidades #chernobyl #1986",
+   "legenda_instagram": "O sábado de Chernobyl visto de Pripyat, a 3 km do reator: 36 horas até tirarem a cidade dali. Numa sacola pra três dias, você levava documento ou lembrança?\n\n#historia #esevoce #curiosidades #chernobyl #1986",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-03/OFFICE-LOTE-03-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 9
+  }
+ ]
+}
