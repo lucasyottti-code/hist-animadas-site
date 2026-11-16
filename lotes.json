@@ -397,15 +397,6 @@
   "fechado": "2026-11-15"
  },
  {
-  "canal": "MILITAR",
-  "nome": "Descubra Militar",
-  "lote": "LOTE-08",
-  "gerado": "2026-11-14T14:34:46",
-  "videos": 4,
-  "postados": 0,
-  "formato": "curtos"
- },
- {
   "canal": "OFFICE",
   "nome": "Office Clips",
   "lote": "LOTE-03",
@@ -456,6 +447,15 @@
   "lote": "LOTE-02",
   "gerado": "2026-11-16T13:06:56",
   "videos": 10,
+  "postados": 0,
+  "formato": "curtos"
+ },
+ {
+  "canal": "MILITAR",
+  "nome": "Descubra Militar",
+  "lote": "LOTE-08",
+  "gerado": "2026-11-16T13:28:58",
+  "videos": 4,
   "postados": 0,
   "formato": "curtos"
  }
