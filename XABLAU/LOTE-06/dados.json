@@ -50,13 +50,14 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V02-v1.mp4",
-   "capa": "previa/V02-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-06/XABLAU-LOTE-06-V02-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 25
+   "numero": 25,
+   "removido": "2026-11-17"
   },
   {
    "id": "V03",
@@ -75,13 +76,14 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V03-v1.mp4",
-   "capa": "previa/V03-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-06/XABLAU-LOTE-06-V03-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 26
+   "numero": 26,
+   "removido": "2026-11-17"
   },
   {
    "id": "V04",
@@ -100,13 +102,14 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V04-v1.mp4",
-   "capa": "previa/V04-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-06/XABLAU-LOTE-06-V04-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 27
+   "numero": 27,
+   "removido": "2026-11-17"
   },
   {
    "id": "V05",
@@ -125,13 +128,14 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V05-v1.mp4",
-   "capa": "previa/V05-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-06/XABLAU-LOTE-06-V05-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 28
+   "numero": 28,
+   "removido": "2026-11-17"
   },
   {
    "id": "V06",
@@ -150,13 +154,14 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V06-v1.mp4",
-   "capa": "previa/V06-v1.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-06/XABLAU-LOTE-06-V06-v1.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v1"
    },
-   "numero": 29
+   "numero": 29,
+   "removido": "2026-11-17"
   }
  ]
 }

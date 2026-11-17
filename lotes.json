@@ -113,8 +113,9 @@
   "lote": "LOTE-05",
   "gerado": "2026-10-28T16:42:40",
   "videos": 4,
-  "postados": 3,
-  "formato": "curtos"
+  "postados": 4,
+  "formato": "curtos",
+  "fechado": "2026-11-17"
  },
  {
   "canal": "XABLAU",
@@ -122,8 +123,9 @@
   "lote": "LOTE-06",
   "gerado": "2026-10-28T16:45:06",
   "videos": 6,
-  "postados": 1,
-  "formato": "curtos"
+  "postados": 6,
+  "formato": "curtos",
+  "fechado": "2026-11-17"
  },
  {
   "canal": "DESCUBRA",
@@ -170,8 +172,9 @@
   "lote": "LOTE-07",
   "gerado": "2026-10-29T20:35:06",
   "videos": 4,
-  "postados": 0,
-  "formato": "curtos"
+  "postados": 4,
+  "formato": "curtos",
+  "fechado": "2026-11-17"
  },
  {
   "canal": "COMIDA",
