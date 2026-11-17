@@ -1,0 +1,103 @@
+{
+ "canal": {
+  "id": "OFFICE",
+  "nome": "Office Clips",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-04",
+ "gerado": "2026-11-17T02:48:40",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.57,
+   "revisao": "pendente",
+   "titulo": "Qual a diferença entre psicopata e sociopata? (e mais 2 que todo mundo confunde)",
+   "legenda": "Psicopata ou sociopata? Narcisista ou egoísta? Manipulação ou persuasão? Qual dos dois você conhece?",
+   "legenda_tiktok": "Psicopata ou sociopata? Narcisista ou egoísta? Manipulação ou persuasão? Qual dos dois você conhece?\n\n#curiosidades #qualadiferenca #psicologia #comportamento",
+   "legenda_instagram": "Psicopata ou sociopata? Narcisista ou egoísta? Manipulação ou persuasão? Qual dos dois você conhece?\n\n#curiosidades #qualadiferenca #psicologia #comportamento",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-04/OFFICE-LOTE-04-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.07,
+   "revisao": "pendente",
+   "titulo": "Qual a diferença entre samurai e ninja? (e mais 2 que todo mundo confunde)",
+   "legenda": "Samurai ou ninja? Gladiador ou legionário? Pirata ou corsário? Qual dos dois você seria?",
+   "legenda_tiktok": "Samurai ou ninja? Gladiador ou legionário? Pirata ou corsário? Qual dos dois você seria?\n\n#historia #curiosidades #qualadiferenca #samurai #ninja",
+   "legenda_instagram": "Samurai ou ninja? Gladiador ou legionário? Pirata ou corsário? Qual dos dois você seria?\n\n#historia #curiosidades #qualadiferenca #samurai #ninja",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-04/OFFICE-LOTE-04-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 92.8,
+   "revisao": "pendente",
+   "titulo": "E se você acordasse em Pearl Harbor? (domingo, 7 de dezembro de 1941)",
+   "legenda": "O domingo de Pearl Harbor visto da cozinha de um couraçado, hora por hora, com os quatro avisos que ninguém ouviu. Se o seu chefe mandasse esquecer, você esquecia ou avisava todo mundo?",
+   "legenda_tiktok": "O domingo de Pearl Harbor visto da cozinha de um couraçado, hora por hora, com os quatro avisos que ninguém ouviu. Se o seu chefe mandasse esquecer, você esquecia ou avisava todo mundo?\n\n#historia #esevoce #curiosidades #pearlharbor #segundaguerra",
+   "legenda_instagram": "O domingo de Pearl Harbor visto da cozinha de um couraçado, hora por hora, com os quatro avisos que ninguém ouviu. Se o seu chefe mandasse esquecer, você esquecia ou avisava todo mundo?\n\n#historia #esevoce #curiosidades #pearlharbor #segundaguerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-04/OFFICE-LOTE-04-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 90.53,
+   "revisao": "pendente",
+   "titulo": "E se você acordasse em Serra Pelada? (o garimpo, 1983)",
+   "legenda": "Um dia inteiro no garimpo de Serra Pelada em 1983, com a conta do saco de quarenta quilos. Você descia o buraco pela raspadinha ou ficava em casa?",
+   "legenda_tiktok": "Um dia inteiro no garimpo de Serra Pelada em 1983, com a conta do saco de quarenta quilos. Você descia o buraco pela raspadinha ou ficava em casa?\n\n#historia #esevoce #curiosidades #serrapelada #brasil",
+   "legenda_instagram": "Um dia inteiro no garimpo de Serra Pelada em 1983, com a conta do saco de quarenta quilos. Você descia o buraco pela raspadinha ou ficava em casa?\n\n#historia #esevoce #curiosidades #serrapelada #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-04/OFFICE-LOTE-04-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
