@@ -1,0 +1,86 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-10",
+ "gerado": "2026-11-04T18:05:23",
+ "videos": [
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.73,
+   "revisao": "pendente",
+   "titulo": "Einstein errou a tabuada do 9 de propósito?",
+   "legenda": "A aula de matemática do Einstein… 🧮 Lenda ou não, você já acertou nove e só lembraram do um? Manda pra quem tem medo de errar na frente dos outros. Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "A aula de matemática do Einstein… 🧮 Lenda ou não, você já acertou nove e só lembraram do um? Manda pra quem tem medo de errar na frente dos outros. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #licaodevida #professorxablau #einstein",
+   "legenda_instagram": "A aula de matemática do Einstein… 🧮 Lenda ou não, você já acertou nove e só lembraram do um? Manda pra quem tem medo de errar na frente dos outros. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #licaodevida #professorxablau #einstein",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-10/XABLAU-LOTE-10-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.87,
+   "revisao": "pendente",
+   "titulo": "Como um buraco na praia vira um bunker?",
+   "legenda": "Como um buraco na praia vira um bunker? 😳 Foi assim que a Normandia estava esperando o Dia D, em 1944. E aí, qual parte você faria primeiro: o túnel ou a janela de lado? Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "Como um buraco na praia vira um bunker? 😳 Foi assim que a Normandia estava esperando o Dia D, em 1944. E aí, qual parte você faria primeiro: o túnel ou a janela de lado? Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "Como um buraco na praia vira um bunker? 😳 Foi assim que a Normandia estava esperando o Dia D, em 1944. E aí, qual parte você faria primeiro: o túnel ou a janela de lado? Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-10/XABLAU-LOTE-10-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.63,
+   "revisao": "pendente",
+   "titulo": "Por que ganhar 1 milhão é mais fácil que 100 mil?",
+   "legenda": "Por que ganhar 1 milhão pode ser mais fácil que 100 mil? 💰 Não é mais trabalho: é o veículo. Não é garantia, é raciocínio. E você, hoje, vai a pé ou de moto? Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "Por que ganhar 1 milhão pode ser mais fácil que 100 mil? 💰 Não é mais trabalho: é o veículo. Não é garantia, é raciocínio. E você, hoje, vai a pé ou de moto? Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #dinheiro",
+   "legenda_instagram": "Por que ganhar 1 milhão pode ser mais fácil que 100 mil? 💰 Não é mais trabalho: é o veículo. Não é garantia, é raciocínio. E você, hoje, vai a pé ou de moto? Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #vocesabia #professorxablau #dinheiro",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-10/XABLAU-LOTE-10-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}

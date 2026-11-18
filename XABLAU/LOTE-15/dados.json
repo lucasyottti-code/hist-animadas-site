@@ -1,0 +1,112 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "longo+cortes"
+ },
+ "lote": "LOTE-15",
+ "gerado": "2026-11-17T20:52:52",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 493.03,
+   "revisao": "pendente",
+   "titulo": "E se você nascesse como o Einstein? A vida inteira, animada",
+   "legenda": "E se você nascesse como o Einstein? 🧭 Uma bússola aos cinco anos, um emprego de terceira classe, um eclipse fotografado no Ceará… e uma carta que ele chamou de o grande erro da vida. Você assinaria de novo? Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "E se você nascesse como o Einstein? 🧭 Uma bússola aos cinco anos, um emprego de terceira classe, um eclipse fotografado no Ceará… e uma carta que ele chamou de o grande erro da vida. Você assinaria de novo? Professor Xablau ensinou, agora vai pesquisar!\n\n#professorxablau #einstein #historia",
+   "legenda_instagram": "E se você nascesse como o Einstein? 🧭 Uma bússola aos cinco anos, um emprego de terceira classe, um eclipse fotografado no Ceará… e uma carta que ele chamou de o grande erro da vida. Você assinaria de novo? Professor Xablau ensinou, agora vai pesquisar!\n\n#professorxablau #einstein #historia",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-15/XABLAU-LOTE-15-V01-v1.mp4",
+   "v": {
+    "video": "v1",
+    "titulo": "14d8211d",
+    "thumbs": "439ea495",
+    "descricao": "cde4ad5f"
+   },
+   "numero": null,
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F19",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Se você nascesse como o Einstein, ia virar a física do avesso.",
+     "ideia": "O fim contado no começo (a física do avesso num escritório de patentes, o eclipse fotografado no Ceará, a presidência recusada) e o bebê de cabeça grande que demora a falar, até a bússola do pai e a pergunta: que força invisível é essa? As frases de 'guarda isso' (F09 e F18) saem do corte."
+    },
+    {
+     "n": 2,
+     "de": "F47",
+     "ate": "F66",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Aos dezesseis anos, numa escola na Suíça, você se faz uma pergunta maluca.",
+     "ideia": "Aos 16, a pergunta de correr ao lado de um raio de luz; nenhuma vaga de professor, um emprego de terceira classe numa repartição de patentes; e em 1905, quatro artigos num ano só e a equação mais famosa do mundo — a pergunta de adolescente vira a relatividade. No corte, F56 diz 'o seu pai' em vez de 'o homem da bússola' (a bússola fica fora do corte)."
+    },
+    {
+     "n": 3,
+     "de": "F76",
+     "ate": "F91",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Agora, a promessa mais doida da sua vida.",
+     "ideia": "No divórcio, você promete à Mileva o dinheiro de um Nobel que ainda não ganhou; meses depois, um eclipse fotografado em Sobral, no Ceará, mostra a luz curvando, e você fica famoso da noite pro dia; o Nobel chega mesmo — só que não pela relatividade."
+    },
+    {
+     "n": 4,
+     "de": "F112",
+     "ate": "F129",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Em mil novecentos e cinquenta e dois, Israel te oferece a presidência do país.",
+     "ideia": "Você recusa um país inteiro, chama de grande erro a carta de 1939 que avisava da bomba, morre em Princeton e um patologista fica com o seu cérebro — que nem era maior que o normal. E a pergunta: você assinaria aquela carta de novo? A F120 (cabeça grande) sai do corte: a semente dela fica fora."
+    }
+   ],
+   "embalagem_pendente": false,
+   "titulos": [
+    "E se você nascesse como o Einstein? A vida inteira, animada",
+    "Você nasceu Einstein: a vida inteira em 8 minutos",
+    "O bebê de cabeça esquisita que virou o Einstein",
+    "Uma bússola aos 5 anos e uma carta que ele nunca perdoou",
+    "Einstein em animação, do bebê de Ulm ao velho de Princeton"
+   ],
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "titulo_escolhido": "E se você nascesse como o Einstein? A vida inteira, animada",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V01-1-11dbc469.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 GÊNIO"
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V01-2-c1f5c45c.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 MUDOU O UNIVERSO"
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V01-3-258c4c33.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 A CARTA"
+    }
+   ],
+   "thumbs_escolhidas": [],
+   "descricao": "Você nasce em Ulm, em 1879, com uma cabeça tão grande e angulosa que sua mãe se assusta. Demora a falar, fica brabo à toa e, aos 5 anos, uma bússola do seu pai faz você achar que existe algo escondido por trás das coisas. Daqui a pouco você vai virar o Einstein: um funcionário de terceira classe num escritório de patentes, um eclipse fotografado em Sobral, no Ceará, e uma carta que você chamou de o grande erro da sua vida. Você assinaria aquela carta de novo? Conta aqui embaixo. E quem nasce no próximo episódio?\n\n0:00 Prólogo · O bebê que falava baixinho\n1:35 I · O garoto que odiava decoreba\n2:50 II · O funcionário de terceira classe\n3:26 III · O ano milagroso\n4:13 IV · A noite da fama\n5:39 V · O exílio\n6:15 VI · A carta\n6:50 VII · O velho de Princeton\n\nHistória real contada em animação: desenho, animação, voz e música são do canal, e os fatos vêm de biografias e arquivos.\n\n#professorxablau #einstein #historia\n\n#professorxablau #einstein #historia",
+   "tags": "einstein,\"albert einstein\",\"e se você nascesse como\",\"vida do einstein\",\"história do einstein\",\"teoria da relatividade\",\"eclipse de sobral\",\"carta de einstein a roosevelt\",\"biografia animada\",\"professor xablau\"",
+   "comentario": "Quem nasce no próximo episódio?"
+  }
+ ]
+}
