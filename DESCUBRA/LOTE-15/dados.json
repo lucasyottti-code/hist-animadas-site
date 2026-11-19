@@ -1,0 +1,86 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-15",
+ "gerado": "2026-11-16T10:28:30",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 71.83,
+   "revisao": "aprovado",
+   "titulo": "Como um dragão de gelo sobreviveria ao frio?",
+   "legenda": "Como um dragão de gelo sobreviveria ao frio? ❄️ A resposta tá no radiador do carro e no pinguim do zoológico. Manda pro amigo que é fã de dragão 👇",
+   "legenda_tiktok": "Como um dragão de gelo sobreviveria ao frio? ❄️ A resposta tá no radiador do carro e no pinguim do zoológico. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "legenda_instagram": "Como um dragão de gelo sobreviveria ao frio? ❄️ A resposta tá no radiador do carro e no pinguim do zoológico. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-15/DESCUBRA-LOTE-15-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 69
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.47,
+   "revisao": "aprovado",
+   "titulo": "Como um vampiro sobreviveria só bebendo sangue?",
+   "legenda": "Como um vampiro sobreviveria só bebendo sangue? 🦇 Esse bicho existe, e mora aqui no Brasil. Manda pro amigo que dorme de janela aberta 👇",
+   "legenda_tiktok": "Como um vampiro sobreviveria só bebendo sangue? 🦇 Esse bicho existe, e mora aqui no Brasil. Manda pro amigo que dorme de janela aberta 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "Como um vampiro sobreviveria só bebendo sangue? 🦇 Esse bicho existe, e mora aqui no Brasil. Manda pro amigo que dorme de janela aberta 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-15/DESCUBRA-LOTE-15-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 70
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.9,
+   "revisao": "aprovado",
+   "titulo": "Um dragão poderia viver mil anos?",
+   "legenda": "Um dragão poderia viver mil anos? 🐉 O segredo tá no elefante do zoológico e num tubarão mais lento que você. Manda pro amigo que dorme até meio-dia 👇",
+   "legenda_tiktok": "Um dragão poderia viver mil anos? 🐉 O segredo tá no elefante do zoológico e num tubarão mais lento que você. Manda pro amigo que dorme até meio-dia 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "Um dragão poderia viver mil anos? 🐉 O segredo tá no elefante do zoológico e num tubarão mais lento que você. Manda pro amigo que dorme até meio-dia 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-15/DESCUBRA-LOTE-15-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 71
+  }
+ ]
+}
