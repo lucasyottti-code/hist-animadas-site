@@ -1,0 +1,105 @@
+{
+ "canal": {
+  "id": "MILITAR",
+  "nome": "Descubra Militar",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-08",
+ "gerado": "2026-11-16T13:28:58",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 65.93,
+   "revisao": "aprovado",
+   "titulo": "Esconda um tanque de um avião espião 🪖",
+   "legenda": "Esconda um tanque de um avião espião 🪖 Rede, sombra, rastro… e no fim o tanque virou caminhão. Você teria pensado nisso? Qual missão vem depois? Comenta 👇",
+   "legenda_tiktok": "Esconda um tanque de um avião espião 🪖 Rede, sombra, rastro… e no fim o tanque virou caminhão. Você teria pensado nisso? Qual missão vem depois? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "legenda_instagram": "Esconda um tanque de um avião espião 🪖 Rede, sombra, rastro… e no fim o tanque virou caminhão. Você teria pensado nisso? Qual missão vem depois? Comenta 👇\n\n#curiosidades #historia #militar #segundaguerra #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 51,
+   "removido": "2026-11-17"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.9,
+   "revisao": "aprovado",
+   "titulo": "Essa armadura aguenta um mosquete?",
+   "legenda": "Essa armadura aguenta um mosquete? 🛡️ Espada, flecha, besta… e o tiro. O amassado no peito era a garantia. Você vestiria? Qual teste vem depois? Comenta 👇",
+   "legenda_tiktok": "Essa armadura aguenta um mosquete? 🛡️ Espada, flecha, besta… e o tiro. O amassado no peito era a garantia. Você vestiria? Qual teste vem depois? Comenta 👇\n\n#curiosidades #historia #militar #idademedia #armadura",
+   "legenda_instagram": "Essa armadura aguenta um mosquete? 🛡️ Espada, flecha, besta… e o tiro. O amassado no peito era a garantia. Você vestiria? Qual teste vem depois? Comenta 👇\n\n#curiosidades #historia #militar #idademedia #armadura",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-08/MILITAR-LOTE-08-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 52
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.0,
+   "revisao": "aprovado",
+   "titulo": "3 coisas que exércitos fizeram com animais: 1 é mentira",
+   "legenda": "Duas são reais, uma é mentira 🐪🦜🐴 Camelo no exército, papagaio da senha ou máscara de gás pra cavalo: qual te enganou? Comenta 👇",
+   "legenda_tiktok": "Duas são reais, uma é mentira 🐪🦜🐴 Camelo no exército, papagaio da senha ou máscara de gás pra cavalo: qual te enganou? Comenta 👇\n\n#curiosidades #historia #militar #exercito",
+   "legenda_instagram": "Duas são reais, uma é mentira 🐪🦜🐴 Camelo no exército, papagaio da senha ou máscara de gás pra cavalo: qual te enganou? Comenta 👇\n\n#curiosidades #historia #militar #exercito",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 53,
+   "removido": "2026-11-16"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.0,
+   "revisao": "aprovado",
+   "titulo": "Tudo que um pracinha da FEB levava nas costas",
+   "legenda": "Quase 37 kg nas costas, subindo morro no inverno 🎒 E a peça mais estranha era uma galocha. Você aguentaria ou largava a mochila no 1º dia? Comenta 👇",
+   "legenda_tiktok": "Quase 37 kg nas costas, subindo morro no inverno 🎒 E a peça mais estranha era uma galocha. Você aguentaria ou largava a mochila no 1º dia? Comenta 👇\n\n#curiosidades #historia #militar #brasil #segundaguerra",
+   "legenda_instagram": "Quase 37 kg nas costas, subindo morro no inverno 🎒 E a peça mais estranha era uma galocha. Você aguentaria ou largava a mochila no 1º dia? Comenta 👇\n\n#curiosidades #historia #militar #brasil #segundaguerra",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/MILITAR-LOTE-08/MILITAR-LOTE-08-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 54
+  }
+ ]
+}
