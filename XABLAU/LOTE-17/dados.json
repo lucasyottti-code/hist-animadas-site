@@ -1,0 +1,114 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "longo+cortes"
+ },
+ "lote": "LOTE-17",
+ "gerado": "2026-11-19T04:25:04",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 500.07,
+   "revisao": "pendente",
+   "titulo": "E se você nascesse como SATORU GOJO? (Jujutsu Kaisen)",
+   "legenda": "E se você nascesse como SATORU GOJO? 🕶️ (tem spoiler do mangá) Um bebê com preço na cabeça, um homem que ninguém percebe, um minuto de lembrança e uma data marcada: 24 de dezembro. Você deixaria o Geto ir embora de novo? Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "E se você nascesse como SATORU GOJO? 🕶️ (tem spoiler do mangá) Um bebê com preço na cabeça, um homem que ninguém percebe, um minuto de lembrança e uma data marcada: 24 de dezembro. Você deixaria o Geto ir embora de novo? Professor Xablau ensinou, agora vai pesquisar!\n\n#professorxablau #jujutsukaisen #gojo",
+   "legenda_instagram": "E se você nascesse como SATORU GOJO? 🕶️ (tem spoiler do mangá) Um bebê com preço na cabeça, um homem que ninguém percebe, um minuto de lembrança e uma data marcada: 24 de dezembro. Você deixaria o Geto ir embora de novo? Professor Xablau ensinou, agora vai pesquisar!\n\n#professorxablau #jujutsukaisen #gojo",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-17/XABLAU-LOTE-17-V01-v1.mp4",
+   "v": {
+    "video": "v1",
+    "titulo": "d70376f3",
+    "thumbs": "a18f68a5",
+    "descricao": "d1ad171c"
+   },
+   "numero": null,
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F19",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Tem spoiler do mangá: e se você nascesse como o Satoru Gojo?",
+     "ideia": "O fim contado no começo (a lança aos 16, a caixa de Shibuya, o Rei das Maldições) e a volta ao berço: o bebê dos Seis Olhos com mais de cem milhões de recompensa na cabeça, que nenhum caçador consegue buscar, e o homem silencioso que só você percebe. A frase de 'guarda' (F20) fica fora: essa semente paga fora do corte (~73 s pela estimativa)."
+    },
+    {
+     "n": 2,
+     "de": "F41",
+     "ate": "F61",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Aos dezesseis anos, você tem os Seis Olhos, o Ilimitado e um ponto fraco.",
+     "ideia": "Aos 16, você ainda não sabe curar o próprio corpo. Aí o homem que te espiava na infância volta: o Toji, sem energia nenhuma, some do seu radar e te atravessa com a lança. Na beira da morte você aprende a se curar, descobre o Roxo e acaba com ele; mas, para a Riko, chega tarde, e quem te segura diante da seita é o Geto. A semente CURAR SOZINHO nasce e paga dentro do corte; a do homem silencioso chega explicada na própria frase (F47). A F62 (o Geto daqui a um ano) fica fora (~71 s)."
+    },
+    {
+     "n": 3,
+     "de": "F92",
+     "ate": "F111",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Trinta e um de outubro de dois mil e dezoito: armam uma armadilha só pra você.",
+     "ideia": "Shibuya, noite de Halloween: você entra sozinho, tira a venda, enfrenta três inimigos e abre o Vazio Infinito por menos de um segundo. Aí a caixa se abre, e a regra dela é um minuto dentro da sua cabeça: basta aparecer o rosto do Geto. O feiticeiro mais forte do mundo, preso por uma lembrança: o corte termina nessa frase (~70 s)."
+    },
+    {
+     "n": 4,
+     "de": "F114",
+     "ate": "F134",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Daqui pra frente é só mangá: o anime ainda não mostrou.",
+     "ideia": "Abre com o aviso de spoiler do mangá na fala e o carimbo na tela (este corte revela a morte). Você sai da caixa e escolhe a data da luta contra o Sukuna, 24 de dezembro, o dia em que acabou com o Geto. Shinjuku, o corte no próprio espaço, a venda no chão e o aeroporto. E a pergunta: você deixaria o Geto ir embora de novo? Sem a F124 (o Mahoraga) e sem a F130 (o bebê do fecho, que pede o começo do episódio): ~69 s."
+    }
+   ],
+   "embalagem_pendente": false,
+   "titulos": [
+    "E se você nascesse como SATORU GOJO? (Jujutsu Kaisen)",
+    "Você nasceu Gojo: a vida inteira em 8 minutos (Jujutsu Kaisen)",
+    "O bebê com preço na cabeça que virou o mais forte (Gojo)"
+   ],
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "titulo_escolhido": "E se você nascesse como SATORU GOJO? (Jujutsu Kaisen)",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V01-1-509a6aef.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 INTOCÁVEL"
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V01-2-ce0e12ef.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 SELADO"
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V01-3-abcafdac.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 O MAIS FORTE"
+    }
+   ],
+   "thumbs_escolhidas": [
+    1,
+    2,
+    3
+   ],
+   "descricao": "Aviso: este episódio tem spoiler do mangá de Jujutsu Kaisen, inclusive o fim do Gojo. Você nasce em 7 de dezembro de 1989 com os Seis Olhos e o Ilimitado, e há um preço na sua cabeça: um bebê com recompensa que nenhum caçador consegue buscar. Daqui a pouco você vai virar o Satoru Gojo: levar uma lança no pescoço aos 16 anos, ser selado numa caixa em Shibuya com o rosto do seu melhor amigo e enfrentar o Rei das Maldições no dia 24 de dezembro. Você deixaria o Geto ir embora de novo? Conta aqui embaixo. E quem nasce no próximo episódio?\n\n0:00 Prólogo · O bebê com preço na cabeça\n1:16 I · O melhor amigo\n2:39 II · O assassino invisível\n3:57 III · O amigo que vai embora\n5:06 IV · O professor\n5:42 V · A noite de Shibuya\n6:56 VI · 24 de dezembro\n\nObra de fã: desenho, animação, voz e música do canal. Satoru Gojo e Jujutsu Kaisen pertencem aos seus donos.\n\n#professorxablau #jujutsukaisen #gojo\n\n#professorxablau #jujutsukaisen #gojo",
+   "tags": "gojo,\"satoru gojo\",\"jujutsu kaisen\",\"e se você nascesse como\",\"vida do gojo\",\"história do gojo\",\"seis olhos\",\"vazio infinito\",\"gojo vs sukuna\",shibuya,\"spoiler jujutsu kaisen\",\"biografia animada\",\"professor xablau\"",
+   "comentario": "Quem nasce no próximo episódio?"
+  }
+ ]
+}

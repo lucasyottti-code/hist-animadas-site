@@ -1,0 +1,36 @@
+{
+ "canal": {
+  "id": "NINA",
+  "nome": "Nina Sobrevive",
+  "formato": "serie"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-11-05T09:07:42",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 85.63,
+   "revisao": "aprovado",
+   "titulo": "Ela naufragou numa ilha deserta — dia 1 na ilha",
+   "legenda": "Ilha deserta, um cachorro e um litro de água — e quem decide o que a Nina faz é você 🏝️ O barco dela partiu no meio, a maré tá subindo e só dá tempo de uma coisa antes do escuro. Comenta UMA palavra: BARCO (salvar as tábuas pra jangada) ou MORRO (subir e ver se tem terra perto). A que mais aparecer vira o dia 2 👇",
+   "legenda_tiktok": "Ilha deserta, um cachorro e um litro de água — e quem decide o que a Nina faz é você 🏝️ O barco dela partiu no meio, a maré tá subindo e só dá tempo de uma coisa antes do escuro. Comenta UMA palavra: BARCO (salvar as tábuas pra jangada) ou MORRO (subir e ver se tem terra perto). A que mais aparecer vira o dia 2 👇\n\n#sobrevivencia #ilhadeserta #ninasobrevive #naufrago #vocedecide",
+   "legenda_instagram": "Ilha deserta, um cachorro e um litro de água — e quem decide o que a Nina faz é você 🏝️ O barco dela partiu no meio, a maré tá subindo e só dá tempo de uma coisa antes do escuro. Comenta UMA palavra: BARCO (salvar as tábuas pra jangada) ou MORRO (subir e ver se tem terra perto). A que mais aparecer vira o dia 2 👇\n\n#sobrevivencia #ilhadeserta #ninasobrevive #naufrago #vocedecide",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v2.mp4",
+   "capa": "previa/V01-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/NINA-LOTE-01/NINA-LOTE-01-V01-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": 1
+  }
+ ]
+}
