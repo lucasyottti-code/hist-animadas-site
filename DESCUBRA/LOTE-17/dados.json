@@ -24,13 +24,15 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V02-v2.mp4",
-   "capa": "previa/V02-v2.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-17/DESCUBRA-LOTE-17-V02-v2.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v2"
    },
-   "numero": null
+   "numero": null,
+   "removido": "2026-11-22",
+   "excluido": true
   },
   {
    "id": "V03",
@@ -49,13 +51,15 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V03-v2.mp4",
-   "capa": "previa/V03-v2.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-17/DESCUBRA-LOTE-17-V03-v2.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v2"
    },
-   "numero": null
+   "numero": null,
+   "removido": "2026-11-22",
+   "excluido": true
   },
   {
    "id": "V04",
