@@ -1,0 +1,251 @@
+{
+ "canal": {
+  "id": "COMIDA",
+  "nome": "Descubra Comida",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-04",
+ "gerado": "2026-11-04T16:08:50",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.4,
+   "revisao": "aprovado",
+   "titulo": "A feijoada nasceu mesmo na senzala?",
+   "legenda": "O registro mais antigo da feijoada é um anúncio de restaurante de 1827, não a senzala 🍲 Você conhecia a versão da sobra? Na sua casa, feijoada é de quarta, de sábado ou de quinta, como em 1827? Comenta aí 👇",
+   "legenda_tiktok": "O registro mais antigo da feijoada é um anúncio de restaurante de 1827, não a senzala 🍲 Você conhecia a versão da sobra? Na sua casa, feijoada é de quarta, de sábado ou de quinta, como em 1827? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #feijoada",
+   "legenda_instagram": "O registro mais antigo da feijoada é um anúncio de restaurante de 1827, não a senzala 🍲 Você conhecia a versão da sobra? Na sua casa, feijoada é de quarta, de sábado ou de quinta, como em 1827? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #feijoada",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 6,
+   "removido": "2026-11-06"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.23,
+   "revisao": "aprovado",
+   "titulo": "O que se comia num banquete romano?",
+   "legenda": "Num banquete romano, até a sobremesa de pera levava molho de peixe 🐟 Você comeria ou passava direto pra fruta? Comenta aí 👇",
+   "legenda_tiktok": "Num banquete romano, até a sobremesa de pera levava molho de peixe 🐟 Você comeria ou passava direto pra fruta? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #roma",
+   "legenda_instagram": "Num banquete romano, até a sobremesa de pera levava molho de peixe 🐟 Você comeria ou passava direto pra fruta? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #roma",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 7,
+   "removido": "2026-11-06"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.97,
+   "revisao": "aprovado",
+   "titulo": "Por que o brigadeiro tem esse nome?",
+   "legenda": "O brigadeiro tem nome de candidato que perdeu duas eleições 🍫 E aí, na sua cidade é brigadeiro ou negrinho? Comenta aí 👇",
+   "legenda_tiktok": "O brigadeiro tem nome de candidato que perdeu duas eleições 🍫 E aí, na sua cidade é brigadeiro ou negrinho? Comenta aí 👇\n\n#curiosidades #comida #historia #doces #comidabrasileira",
+   "legenda_instagram": "O brigadeiro tem nome de candidato que perdeu duas eleições 🍫 E aí, na sua cidade é brigadeiro ou negrinho? Comenta aí 👇\n\n#curiosidades #comida #historia #doces #comidabrasileira",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 8,
+   "removido": "2026-11-04"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.77,
+   "revisao": "aprovado",
+   "titulo": "Por que a pipoca pula da panela?",
+   "legenda": "A pipoca pula porque cria uma perninha de amido que funciona como mola 🍿 E aí, time pipoca salgada ou time pipoca doce? Comenta aí 👇",
+   "legenda_tiktok": "A pipoca pula porque cria uma perninha de amido que funciona como mola 🍿 E aí, time pipoca salgada ou time pipoca doce? Comenta aí 👇\n\n#curiosidades #comida #ciencia #culinaria #pipoca",
+   "legenda_instagram": "A pipoca pula porque cria uma perninha de amido que funciona como mola 🍿 E aí, time pipoca salgada ou time pipoca doce? Comenta aí 👇\n\n#curiosidades #comida #ciencia #culinaria #pipoca",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 9,
+   "removido": "2026-11-09"
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 64.8,
+   "revisao": "aprovado",
+   "titulo": "Por que no Pará se come açaí com peixe?",
+   "legenda": "No Pará, açaí é almoço: vem com farinha e peixe frito, e muita gente toma sem açúcar 🐟💜 E você, time açaí com peixe ou time açaí com granola? Comenta aí 👇",
+   "legenda_tiktok": "No Pará, açaí é almoço: vem com farinha e peixe frito, e muita gente toma sem açúcar 🐟💜 E você, time açaí com peixe ou time açaí com granola? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #acai",
+   "legenda_instagram": "No Pará, açaí é almoço: vem com farinha e peixe frito, e muita gente toma sem açúcar 🐟💜 E você, time açaí com peixe ou time açaí com granola? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #acai",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 10,
+   "removido": "2026-11-05"
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.25,
+   "revisao": "aprovado",
+   "titulo": "Como era o primeiro sushi da história?",
+   "legenda": "O primeiro sushi era peixe guardado meses num pote de arroz, e o arroz ia pro lixo 🍣 Você provaria o sushi de um ano no pote ou passa? Comenta aí 👇",
+   "legenda_tiktok": "O primeiro sushi era peixe guardado meses num pote de arroz, e o arroz ia pro lixo 🍣 Você provaria o sushi de um ano no pote ou passa? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #japao",
+   "legenda_instagram": "O primeiro sushi era peixe guardado meses num pote de arroz, e o arroz ia pro lixo 🍣 Você provaria o sushi de um ano no pote ou passa? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #japao",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 11,
+   "removido": "2026-11-07"
+  },
+  {
+   "id": "V07",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.67,
+   "revisao": "aprovado",
+   "titulo": "Quem descobriu como fazer a baunilha dar vagem?",
+   "legenda": "Quase toda baunilha do mundo é polinizada à mão com o truque que um menino de 12 anos criou em 1841 🌼 Você conhecia o nome Edmond Albius? Comenta aí 👇",
+   "legenda_tiktok": "Quase toda baunilha do mundo é polinizada à mão com o truque que um menino de 12 anos criou em 1841 🌼 Você conhecia o nome Edmond Albius? Comenta aí 👇\n\n#curiosidades #comida #historia #baunilha #gastronomia",
+   "legenda_instagram": "Quase toda baunilha do mundo é polinizada à mão com o truque que um menino de 12 anos criou em 1841 🌼 Você conhecia o nome Edmond Albius? Comenta aí 👇\n\n#curiosidades #comida #historia #baunilha #gastronomia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 12,
+   "removido": "2026-11-08"
+  },
+  {
+   "id": "V08",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.73,
+   "revisao": "aprovado",
+   "titulo": "Por que o pão francês tem esse nome?",
+   "legenda": "O pão francês não existe na França: ele foi inventado aqui 🥖 Na sua cidade ele chama pão francês, cacetinho, pão de sal ou outro nome? Comenta aí 👇",
+   "legenda_tiktok": "O pão francês não existe na França: ele foi inventado aqui 🥖 Na sua cidade ele chama pão francês, cacetinho, pão de sal ou outro nome? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "legenda_instagram": "O pão francês não existe na França: ele foi inventado aqui 🥖 Na sua cidade ele chama pão francês, cacetinho, pão de sal ou outro nome? Comenta aí 👇\n\n#curiosidades #comida #historia #comidabrasileira #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 13,
+   "removido": "2026-11-06"
+  },
+  {
+   "id": "V09",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.93,
+   "revisao": "aprovado",
+   "titulo": "Por que quase ninguém planta castanha-do-pará?",
+   "legenda": "Quase toda castanha-do-pará vem da floresta, não de fazenda 🌰 E aí: castanha-do-pará ou castanha-do-brasil, como você chama? Comenta aí 👇",
+   "legenda_tiktok": "Quase toda castanha-do-pará vem da floresta, não de fazenda 🌰 E aí: castanha-do-pará ou castanha-do-brasil, como você chama? Comenta aí 👇\n\n#curiosidades #comida #amazonia #comidabrasileira #brasil",
+   "legenda_instagram": "Quase toda castanha-do-pará vem da floresta, não de fazenda 🌰 E aí: castanha-do-pará ou castanha-do-brasil, como você chama? Comenta aí 👇\n\n#curiosidades #comida #amazonia #comidabrasileira #brasil",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 14,
+   "removido": "2026-11-05"
+  },
+  {
+   "id": "V10",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.27,
+   "revisao": "aprovado",
+   "titulo": "O que os romanos comiam na rua em Pompeia?",
+   "legenda": "Pompeia tinha mais de 80 balcões de comida de rua, e o cardápio vinha pintado no balcão 🏺 Você pediria o pato ou o caracol? Comenta aí 👇",
+   "legenda_tiktok": "Pompeia tinha mais de 80 balcões de comida de rua, e o cardápio vinha pintado no balcão 🏺 Você pediria o pato ou o caracol? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #roma",
+   "legenda_instagram": "Pompeia tinha mais de 80 balcões de comida de rua, e o cardápio vinha pintado no balcão 🏺 Você pediria o pato ou o caracol? Comenta aí 👇\n\n#curiosidades #comida #historia #gastronomia #roma",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 15,
+   "removido": "2026-11-11"
+  }
+ ]
+}
