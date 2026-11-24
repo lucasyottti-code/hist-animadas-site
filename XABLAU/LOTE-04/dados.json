@@ -1,0 +1,167 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-04",
+ "gerado": "2026-10-23T15:01:19",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.39,
+   "revisao": "aprovado",
+   "titulo": "Como funciona o sprinkler do teto do shopping? 🤔",
+   "legenda": "Como funciona o chuveirinho do teto do shopping? 💧 Você achava que era a fumaça que ligava?",
+   "legenda_tiktok": "Como funciona o chuveirinho do teto do shopping? 💧 Você achava que era a fumaça que ligava?\n\n#curiosidades #vocesabia #professorxablau #ciencia",
+   "legenda_instagram": "Como funciona o chuveirinho do teto do shopping? 💧 Você achava que era a fumaça que ligava?\n\n#curiosidades #vocesabia #professorxablau #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 14,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.9,
+   "revisao": "aprovado",
+   "titulo": "Por que o urubu faz xixi nas próprias pernas? 🤔",
+   "legenda": "Por que o urubu faz xixi nas próprias pernas? 💦 Você teria coragem de ter esse ar-condicionado?",
+   "legenda_tiktok": "Por que o urubu faz xixi nas próprias pernas? 💦 Você teria coragem de ter esse ar-condicionado?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "legenda_instagram": "Por que o urubu faz xixi nas próprias pernas? 💦 Você teria coragem de ter esse ar-condicionado?\n\n#curiosidades #vocesabia #professorxablau #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 15,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.87,
+   "revisao": "aprovado",
+   "titulo": "Ratos já foram processados num tribunal? 🤔",
+   "legenda": "Ratos já foram processados num tribunal? 🐀 Você aceitaria essa desculpa dos gatos?",
+   "legenda_tiktok": "Ratos já foram processados num tribunal? 🐀 Você aceitaria essa desculpa dos gatos?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "Ratos já foram processados num tribunal? 🐀 Você aceitaria essa desculpa dos gatos?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 16,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.3,
+   "revisao": "aprovado",
+   "titulo": "O intestino esticado cobre uma quadra de tênis? 🤔",
+   "legenda": "O seu intestino esticado cobre uma quadra de tênis? 🏸 Você também caiu nessa?",
+   "legenda_tiktok": "O seu intestino esticado cobre uma quadra de tênis? 🏸 Você também caiu nessa?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "legenda_instagram": "O seu intestino esticado cobre uma quadra de tênis? 🏸 Você também caiu nessa?\n\n#curiosidades #vocesabia #professorxablau #corpohumano",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 17,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.67,
+   "revisao": "aprovado",
+   "titulo": "O que fazer se você se perder na mata? 🤔",
+   "legenda": "O que fazer se você se perder na mata? 🌲 Você sabia que andar é o erro?",
+   "legenda_tiktok": "O que fazer se você se perder na mata? 🌲 Você sabia que andar é o erro?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "legenda_instagram": "O que fazer se você se perder na mata? 🌲 Você sabia que andar é o erro?\n\n#curiosidades #vocesabia #professorxablau #sobrevivencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 18,
+   "removido": "2026-10-28"
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.2,
+   "revisao": "aprovado",
+   "titulo": "O Brasil já importou gelo dos Estados Unidos? 🤔",
+   "legenda": "O Brasil já importou gelo dos Estados Unidos? 🧊 Você sabia dessa?",
+   "legenda_tiktok": "O Brasil já importou gelo dos Estados Unidos? 🧊 Você sabia dessa?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "legenda_instagram": "O Brasil já importou gelo dos Estados Unidos? 🧊 Você sabia dessa?\n\n#curiosidades #vocesabia #professorxablau #historia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 19,
+   "removido": "2026-10-28"
+  }
+ ]
+}
