@@ -1,0 +1,86 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-19",
+ "gerado": "2026-11-25T12:08:41",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.72,
+   "revisao": "pendente",
+   "titulo": "O Clivar do Sukuna corta o Saitama? ⚔️",
+   "legenda": "O Sukuna corta mesmo o Saitama, ou leva um soco antes? ⚔️ Comenta de que lado você tá 👇 Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "O Sukuna corta mesmo o Saitama, ou leva um soco antes? ⚔️ Comenta de que lado você tá 👇 Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #onepunchman #jujutsukaisen",
+   "legenda_instagram": "O Sukuna corta mesmo o Saitama, ou leva um soco antes? ⚔️ Comenta de que lado você tá 👇 Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #onepunchman #jujutsukaisen",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-19/XABLAU-LOTE-19-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.47,
+   "revisao": "pendente",
+   "titulo": "O Mahoraga consegue se adaptar ao Saitama? 👊",
+   "legenda": "A roda do Mahoraga alcança o Saitama, ou um Soco Sério apaga ela antes? 👊 Comenta de que lado você tá 👇 Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "A roda do Mahoraga alcança o Saitama, ou um Soco Sério apaga ela antes? 👊 Comenta de que lado você tá 👇 Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #onepunchman #jujutsukaisen",
+   "legenda_instagram": "A roda do Mahoraga alcança o Saitama, ou um Soco Sério apaga ela antes? 👊 Comenta de que lado você tá 👇 Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #onepunchman #jujutsukaisen",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-19/XABLAU-LOTE-19-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.37,
+   "revisao": "pendente",
+   "titulo": "O Obito consegue vencer o Kashimo? 👻",
+   "legenda": "O Obito consegue vencer o Kashimo? 👻 Vitória limpa do Kashimo, ou o Obito foi roubado? Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "O Obito consegue vencer o Kashimo? 👻 Vitória limpa do Kashimo, ou o Obito foi roubado? Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #naruto #jujutsukaisen #obito",
+   "legenda_instagram": "O Obito consegue vencer o Kashimo? 👻 Vitória limpa do Kashimo, ou o Obito foi roubado? Paródia feita por fã, luta inventada. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #naruto #jujutsukaisen",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-19/XABLAU-LOTE-19-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}

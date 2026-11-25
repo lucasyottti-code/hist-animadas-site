@@ -1,0 +1,90 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-17",
+ "gerado": "2026-11-18T21:26:39",
+ "videos": [
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 77.17,
+   "revisao": "pendente",
+   "titulo": "O que acontece se der açúcar pra formiga todo dia?",
+   "legenda": "O que acontece se der açúcar pra formiga todo dia? 🐜 Tem fila de formiga no açucareiro da sua casa também? Comenta 👇",
+   "legenda_tiktok": "O que acontece se der açúcar pra formiga todo dia? 🐜 Tem fila de formiga no açucareiro da sua casa também? Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "O que acontece se der açúcar pra formiga todo dia? 🐜 Tem fila de formiga no açucareiro da sua casa também? Comenta 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v2"
+   },
+   "numero": null,
+   "removido": "2026-11-22",
+   "excluido": true
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 73.13,
+   "revisao": "pendente",
+   "titulo": "Como o peixe-lua sobrevive sem se defender?",
+   "legenda": "Como o peixe-lua sobrevive sem se defender? 🐟 Uma tonelada, cérebro minúsculo e um segredo de 300 milhões. Você já viu um no litoral? Comenta 👇",
+   "legenda_tiktok": "Como o peixe-lua sobrevive sem se defender? 🐟 Uma tonelada, cérebro minúsculo e um segredo de 300 milhões. Você já viu um no litoral? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "legenda_instagram": "Como o peixe-lua sobrevive sem se defender? 🐟 Uma tonelada, cérebro minúsculo e um segredo de 300 milhões. Você já viu um no litoral? Comenta 👇\n\n#curiosidades #natureza #vocesabia #oceano #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v2"
+   },
+   "numero": null,
+   "removido": "2026-11-22",
+   "excluido": true
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.46,
+   "revisao": "aprovado",
+   "titulo": "Como funcionaria um dragão de gelo de verdade?",
+   "legenda": "Como funcionaria um dragão de gelo de verdade? 🧊 A resposta passa pelo botijão da sua cozinha. Manda pro amigo que é fã de dragão 👇",
+   "legenda_tiktok": "Como funcionaria um dragão de gelo de verdade? 🧊 A resposta passa pelo botijão da sua cozinha. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia",
+   "legenda_instagram": "Como funcionaria um dragão de gelo de verdade? 🧊 A resposta passa pelo botijão da sua cozinha. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-17/DESCUBRA-LOTE-17-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 77
+  }
+ ]
+}
