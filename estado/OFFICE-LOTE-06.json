@@ -1,13 +1,19 @@
 {
  "videos": {
   "V01": {
-   "postado": {}
+   "postado": {
+    "tiktok": "2026-11-26"
+   }
   },
   "V02": {
-   "postado": {}
+   "postado": {
+    "tiktok": "2026-11-26"
+   }
   },
   "V03": {
-   "postado": {}
+   "postado": {
+    "tiktok": "2026-11-26"
+   }
   },
   "V04": {
    "postado": {}
@@ -19,5 +25,5 @@
    "postado": {}
   }
  },
- "atualizado": "2026-11-23T16:15:36.915957+00:00"
+ "atualizado": "2026-11-26T15:16:20.583825+00:00"
 }
