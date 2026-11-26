@@ -24,13 +24,14 @@
     "instagram",
     "shorts"
    ],
-   "previa": "previa/V01-v2.mp4",
-   "capa": "previa/V01-v2.jpg",
-   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-19/XABLAU-LOTE-19-V01-v2.mp4",
+   "previa": null,
+   "capa": null,
+   "download": null,
    "v": {
     "video": "v2"
    },
-   "numero": 74
+   "numero": 74,
+   "removido": "2026-11-26"
   },
   {
    "id": "V02",
