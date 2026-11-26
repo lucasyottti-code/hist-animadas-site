@@ -1,0 +1,36 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-11",
+ "gerado": "2026-11-11T15:29:00",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v3",
+   "duracao": 73.7,
+   "revisao": "aprovado",
+   "titulo": "Quais bichos a natureza mais sacaneou?",
+   "legenda": "Os bichos que a natureza mais sacaneou 😬 Um deles morre justo quando consegue o que queria. Qual é o pior? Comenta 👇",
+   "legenda_tiktok": "Os bichos que a natureza mais sacaneou 😬 Um deles morre justo quando consegue o que queria. Qual é o pior? Comenta 👇\n\n#curiosidades #natureza #vocesabia #bichos #animais",
+   "legenda_instagram": "Os bichos que a natureza mais sacaneou 😬 Um deles morre justo quando consegue o que queria. Qual é o pior? Comenta 👇\n\n#curiosidades #natureza #vocesabia #bichos #animais",
+   "plataformas": [
+    "tiktok",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v3"
+   },
+   "numero": 55,
+   "removido": "2026-11-12"
+  }
+ ]
+}
