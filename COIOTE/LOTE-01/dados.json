@@ -1,0 +1,34 @@
+{
+ "canal": {
+  "id": "COIOTE",
+  "nome": "Coiote Clip",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-11-26T10:56:32",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 95.47,
+   "revisao": "aprovado",
+   "titulo": "O assalto ao avião do dinheiro no aeroporto de Caxias do Sul",
+   "legenda": "O assalto ao avião do dinheiro no aeroporto de Caxias do Sul, minuto a minuto ✈️ Farda e viatura da Polícia Federal, tudo falso: você teria desconfiado? Comenta 👇",
+   "legenda_tiktok": "O assalto ao avião do dinheiro no aeroporto de Caxias do Sul, minuto a minuto ✈️ Farda e viatura da Polícia Federal, tudo falso: você teria desconfiado? Comenta 👇\n\n#curiosidades #historias #vocesabia #brasil #caxiasdosul",
+   "legenda_instagram": "O assalto ao avião do dinheiro no aeroporto de Caxias do Sul, minuto a minuto ✈️ Farda e viatura da Polícia Federal, tudo falso: você teria desconfiado? Comenta 👇\n\n#curiosidades #historias #vocesabia #brasil #caxiasdosul",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COIOTE-LOTE-01/COIOTE-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 1
+  }
+ ]
+}

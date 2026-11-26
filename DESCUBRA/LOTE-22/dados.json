@@ -1,0 +1,86 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-22",
+ "gerado": "2026-11-24T10:54:05",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 64.8,
+   "revisao": "aprovado",
+   "titulo": "Por que uma cidade do Ceará soltou peixe-beta nas caixas d'água?",
+   "legenda": "Um peixe-beta contra o mosquito da dengue 🐟 Canindé, no Ceará, pôs um em cada caixa d'água de cimento e mediu: de 7 em cada 10 com larva para 1 em 500. Foi programa de saúde, com agente conferindo: não é dica pra fazer em casa. Você já teve um beta? Conta aí 👇",
+   "legenda_tiktok": "Um peixe-beta contra o mosquito da dengue 🐟 Canindé, no Ceará, pôs um em cada caixa d'água de cimento e mediu: de 7 em cada 10 com larva para 1 em 500. Foi programa de saúde, com agente conferindo: não é dica pra fazer em casa. Você já teve um beta? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "Um peixe-beta contra o mosquito da dengue 🐟 Canindé, no Ceará, pôs um em cada caixa d'água de cimento e mediu: de 7 em cada 10 com larva para 1 em 500. Foi programa de saúde, com agente conferindo: não é dica pra fazer em casa. Você já teve um beta? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-22/DESCUBRA-LOTE-22-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 89
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.59,
+   "revisao": "aprovado",
+   "titulo": "Saint Peter e tilápia são o mesmo peixe?",
+   "legenda": "Saint Peter e tilápia são o mesmo peixe? 🐟 São: muda a cor da pele e o nome no cardápio. E ela nem é daqui: é a tilápia-do-nilo. Você sente diferença no gosto? Comenta aí 👇",
+   "legenda_tiktok": "Saint Peter e tilápia são o mesmo peixe? 🐟 São: muda a cor da pele e o nome no cardápio. E ela nem é daqui: é a tilápia-do-nilo. Você sente diferença no gosto? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #comida #brasil",
+   "legenda_instagram": "Saint Peter e tilápia são o mesmo peixe? 🐟 São: muda a cor da pele e o nome no cardápio. E ela nem é daqui: é a tilápia-do-nilo. Você sente diferença no gosto? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #comida #brasil",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-22/DESCUBRA-LOTE-22-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 90
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 67.23,
+   "revisao": "aprovado",
+   "titulo": "Qual a diferença entre a abelha comum e a jataí do muro?",
+   "legenda": "Qual a diferença entre a abelha comum e a jataí do muro? 🐝 Uma ferroa. A outra não ferroa e é a única das duas com soldado na porta. Tinha um canudinho de cera no muro da sua avó? Conta aí 👇",
+   "legenda_tiktok": "Qual a diferença entre a abelha comum e a jataí do muro? 🐝 Uma ferroa. A outra não ferroa e é a única das duas com soldado na porta. Tinha um canudinho de cera no muro da sua avó? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #abelhas #brasil",
+   "legenda_instagram": "Qual a diferença entre a abelha comum e a jataí do muro? 🐝 Uma ferroa. A outra não ferroa e é a única das duas com soldado na porta. Tinha um canudinho de cera no muro da sua avó? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #abelhas #brasil",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-22/DESCUBRA-LOTE-22-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 91
+  }
+ ]
+}

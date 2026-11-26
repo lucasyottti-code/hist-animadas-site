@@ -1,0 +1,112 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "longo+cortes"
+ },
+ "lote": "LOTE-20",
+ "gerado": "2026-11-25T15:42:06",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "longo",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 507.27,
+   "revisao": "pendente",
+   "titulo": "E se você nascesse como TOJI FUSHIGURO? (Jujutsu Kaisen)",
+   "legenda": "E se você nascesse como TOJI FUSHIGURO? 🗡️ (spoiler do anime até Shibuya) Um bebê de energia zero, uma regra de mercenário, um filho com nome de bênção e um sobrenome que para tudo. Você venderia o seu filho pra família que te rejeitou? Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "E se você nascesse como TOJI FUSHIGURO? 🗡️ (spoiler do anime até Shibuya) Um bebê de energia zero, uma regra de mercenário, um filho com nome de bênção e um sobrenome que para tudo. Você venderia o seu filho pra família que te rejeitou? Professor Xablau ensinou, agora vai pesquisar!\n\n#professorxablau #jujutsukaisen #toji",
+   "legenda_instagram": "E se você nascesse como TOJI FUSHIGURO? 🗡️ (spoiler do anime até Shibuya) Um bebê de energia zero, uma regra de mercenário, um filho com nome de bênção e um sobrenome que para tudo. Você venderia o seu filho pra família que te rejeitou? Professor Xablau ensinou, agora vai pesquisar!\n\n#professorxablau #jujutsukaisen #toji",
+   "plataformas": [
+    "youtube"
+   ],
+   "previa": "previa/V01-v2.mp4",
+   "capa": "previa/V01-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-20/XABLAU-LOTE-20-V01-v2.mp4",
+   "v": {
+    "video": "v2",
+    "titulo": "71e70100",
+    "thumbs": "38513e31",
+    "descricao": "a917db2f"
+   },
+   "numero": null,
+   "cortes_plano": [
+    {
+     "n": 1,
+     "de": "F01",
+     "ate": "F18",
+     "inicio": null,
+     "fim": null,
+     "gancho": "E se você nascesse como o Toji Fushiguro, sem poder nenhum?",
+     "ideia": "O fim contado no começo (sem poder nenhum, você atravessa pelas costas o mais forte dos feiticeiros, morre, volta doze anos depois no corpo de outro e acaba com um monstro que três feiticeiros não venciam) e a volta ao berço: o bebê de energia zero que o clã Zenin rejeita, e o menino dos Seis Olhos, o único que te percebe pelas costas. A frase de 'guarda' (F19) fica fora: essa semente paga fora do corte."
+    },
+    {
+     "n": 2,
+     "de": "F57",
+     "ate": "F71",
+     "inicio": null,
+     "fim": null,
+     "gancho": "O garoto mais forte dos feiticeiros está há dias sem dormir. Era o seu plano.",
+     "ideia": "O dia em que o mais forte caiu: o prazo do prêmio acaba, o garoto desliga o escudo dentro da escola e uma katana comum o atravessa pelas costas. É o menino que te viu no clã (a semente chega explicada na própria frase, F61). Sem energia, você some do radar dele, e a lança que desliga qualquer técnica faz o resto. A Riko é contada por ausência. Termina em aberto: o garoto que ficou no chão ainda vai se levantar."
+    },
+    {
+     "n": 3,
+     "de": "F74",
+     "ate": "F91",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Você deixou pra morto o garoto mais forte dos feiticeiros. E não lembra o nome do próprio filho.",
+     "ideia": "Uma palavra, 'bênção', te devolve o nome do filho que você tinha esquecido: Megumi. A seita paga, e na saída o garoto está de pé, curado. A sua regra sempre foi não trabalhar de graça e ir embora; desta vez, você fica. A luz roxa, a lança no chão e as últimas palavras, que são sobre o seu filho. As duas sementes (o nome esquecido e a regra) chegam explicadas na própria frase e pagam dentro do corte."
+    },
+    {
+     "n": 4,
+     "de": "F107",
+     "ate": "F122",
+     "inicio": null,
+     "fim": null,
+     "gancho": "Doze anos depois de morrer, você caça um garoto pelas ruas de Shibuya. Sem saber quem ele é.",
+     "ideia": "De volta em Shibuya, você persegue um garoto sem dizer uma palavra, até lembrar do acerto de vender o seu filho ao clã que te rejeitou. Você pergunta o nome dele: Fushiguro, o sobrenome que você pegou da sua mulher. Ele não virou Zenin, e você fica feliz. NO CORTE, A F115 SAI (revisor: o corte vai para TikTok/Instagram/Shorts, com público de 13–17 anos, e lá a frase da escolha viraria o clímax do vídeo; as F116–F117 já contam o fim por ausência: ele nunca fica sabendo quem você era, o rosto volta a ser o do rapaz). Na tela do corte, nada sobre como (nem o bastão caído, que é a cena da F115). Fecha com o bebê de energia zero e a pergunta: você venderia o seu filho pra família que te rejeitou?"
+    }
+   ],
+   "embalagem_pendente": false,
+   "titulos": [
+    "E se você nascesse como TOJI FUSHIGURO? (Jujutsu Kaisen)",
+    "Você nasceu Toji: a vida inteira sem poder nenhum em 8 minutos",
+    "O bebê sem poder nenhum que derrubou o mais forte (Toji)"
+   ],
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "titulo_escolhido": "E se você nascesse como TOJI FUSHIGURO? (Jujutsu Kaisen)",
+   "thumbs": [
+    {
+     "n": 1,
+     "arquivo": "thumbs/V01-1-2b1aaa86.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 SEM PODER"
+    },
+    {
+     "n": 2,
+     "arquivo": "thumbs/V01-2-94ca5236.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 MATADOR DE FEITICEIROS"
+    },
+    {
+     "n": 3,
+     "arquivo": "thumbs/V01-3-77eca30b.jpg",
+     "modelo": "C",
+     "texto": "IDADE 0 VENCEU O GOJO"
+    }
+   ],
+   "thumbs_escolhidas": [
+    2
+   ],
+   "descricao": "Aviso: este episódio tem spoiler do anime de Jujutsu Kaisen até o fim de Shibuya. Você nasce no clã Zenin sem uma gota de energia amaldiçoada, o zero que a família nunca perdoa, e mesmo assim vai atravessar pelas costas o mais forte dos feiticeiros, morrer e voltar doze anos depois e enfrentar um monstro que três feiticeiros juntos não venciam. Você aceitaria virar o Toji, mesmo sabendo o preço? Conta aqui embaixo. E quem nasce no próximo episódio?\n\n0:00 Prólogo · O bebê de energia zero\n1:21 I · O Matador de Feiticeiros\n2:06 II · Fushiguro\n2:54 III · O contrato\n3:39 IV · O dia em que o mais forte caiu\n4:55 V · Não trabalho de graça\n6:15 VI · O fantasma de Shibuya\n7:17 VII · O sobrenome\n\nObra de fã: desenho, animação, voz e música do canal. Toji Fushiguro e Jujutsu Kaisen pertencem aos seus donos.\n\n#professorxablau #jujutsukaisen #toji\n\n#professorxablau #jujutsukaisen #toji",
+   "tags": "toji,\"toji fushiguro\",\"jujutsu kaisen\",\"e se você nascesse como\",\"vida do toji\",\"história do toji\",\"restrição celestial\",\"matador de feiticeiros\",\"clã zenin\",\"toji vs gojo\",shibuya,\"spoiler jujutsu kaisen\",\"biografia animada\",\"professor xablau\"",
+   "comentario": "Quem nasce no próximo episódio?"
+  }
+ ]
+}
