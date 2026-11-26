@@ -1,0 +1,80 @@
+{
+ "canal": {
+  "id": "OFFICE",
+  "nome": "Office Clips",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-07",
+ "gerado": "2026-11-26T14:25:11",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 84.77,
+   "revisao": "aprovado",
+   "titulo": "No Japão as garotas se declaram com uma BORRACHA",
+   "legenda": "No Japão, a garota gasta a borracha inteira de propósito por causa de um garoto. Você já fez uma loucura dessas por alguém?",
+   "legenda_tiktok": "No Japão, a garota gasta a borracha inteira de propósito por causa de um garoto. Você já fez uma loucura dessas por alguém?\n\n#curiosidades #japao #esevoce #toquio #escola",
+   "legenda_instagram": "No Japão, a garota gasta a borracha inteira de propósito por causa de um garoto. Você já fez uma loucura dessas por alguém?\n\n#curiosidades #japao #esevoce #toquio #escola",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-07/OFFICE-LOTE-07-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 23
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 84.45,
+   "revisao": "aprovado",
+   "titulo": "Como se declarar pro crush no Japão",
+   "legenda": "No Japão, a garota pede um botão do seu uniforme na formatura, e não é qualquer um. Você sabia qual era?",
+   "legenda_tiktok": "No Japão, a garota pede um botão do seu uniforme na formatura, e não é qualquer um. Você sabia qual era?\n\n#curiosidades #japao #esevoce #toquio #formatura",
+   "legenda_instagram": "No Japão, a garota pede um botão do seu uniforme na formatura, e não é qualquer um. Você sabia qual era?\n\n#curiosidades #japao #esevoce #toquio #formatura",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-07/OFFICE-LOTE-07-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 24
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 87.37,
+   "revisao": "aprovado",
+   "titulo": "Por que no Japão todos os alunos têm cabelo PRETO",
+   "legenda": "No Japão, a aluna de cabelo castanho natural é mandada pintar de preto, e a escola some com a carteira dela. Regra é regra ou isso passou do limite?",
+   "legenda_tiktok": "No Japão, a aluna de cabelo castanho natural é mandada pintar de preto, e a escola some com a carteira dela. Regra é regra ou isso passou do limite?\n\n#curiosidades #japao #esevoce #osaka #escola",
+   "legenda_instagram": "No Japão, a aluna de cabelo castanho natural é mandada pintar de preto, e a escola some com a carteira dela. Regra é regra ou isso passou do limite?\n\n#curiosidades #japao #esevoce #osaka #escola",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-07/OFFICE-LOTE-07-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 25
+  }
+ ]
+}

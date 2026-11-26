@@ -1,0 +1,114 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-16",
+ "gerado": "2026-11-17T15:48:36",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 76.0,
+   "revisao": "aprovado",
+   "titulo": "Sapo ou perereca: qual a diferença?",
+   "legenda": "Sapo ou perereca? Jacaré ou crocodilo? Polvo ou lula? 🐸 Quantas dessas você sabia de verdade? Manda pra quem sempre confunde 👇",
+   "legenda_tiktok": "Sapo ou perereca? Jacaré ou crocodilo? Polvo ou lula? 🐸 Quantas dessas você sabia de verdade? Manda pra quem sempre confunde 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "legenda_instagram": "Sapo ou perereca? Jacaré ou crocodilo? Polvo ou lula? 🐸 Quantas dessas você sabia de verdade? Manda pra quem sempre confunde 👇\n\n#curiosidades #natureza #vocesabia #animais #brasil",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v2"
+   },
+   "numero": 76,
+   "removido": "2026-11-23"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.13,
+   "revisao": "aprovado",
+   "titulo": "Barbeiro ou maria-fedida: qual a diferença?",
+   "legenda": "Barbeiro ou maria-fedida? Coral ou falsa-coral? 🪲 Uma dessas quase ninguém separa a olho nu. Tinha alguma dessas na casa da sua avó? Manda pra quem sempre confunde 👇",
+   "legenda_tiktok": "Barbeiro ou maria-fedida? Coral ou falsa-coral? 🪲 Uma dessas quase ninguém separa a olho nu. Tinha alguma dessas na casa da sua avó? Manda pra quem sempre confunde 👇\n\n#curiosidades #natureza #vocesabia #bichos #brasil",
+   "legenda_instagram": "Barbeiro ou maria-fedida? Coral ou falsa-coral? 🪲 Uma dessas quase ninguém separa a olho nu. Tinha alguma dessas na casa da sua avó? Manda pra quem sempre confunde 👇\n\n#curiosidades #natureza #vocesabia #bichos #brasil",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 73,
+   "removido": "2026-11-24"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.76,
+   "revisao": "aprovado",
+   "titulo": "Por que um dragão não conseguiria cuspir raio?",
+   "legenda": "Por que um dragão não conseguiria cuspir raio? ⚡ A resposta tá na maçaneta da sua porta e nas pilhas do controle remoto. Manda pro amigo que é fã de dragão 👇",
+   "legenda_tiktok": "Por que um dragão não conseguiria cuspir raio? ⚡ A resposta tá na maçaneta da sua porta e nas pilhas do controle remoto. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "legenda_instagram": "Por que um dragão não conseguiria cuspir raio? ⚡ A resposta tá na maçaneta da sua porta e nas pilhas do controle remoto. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 74,
+   "removido": "2026-11-25"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.43,
+   "revisao": "aprovado",
+   "titulo": "Como um dragão chocaria o ovo sem cozinhar o filhote?",
+   "legenda": "Como um dragão chocaria o ovo sem cozinhar o filhote? 🥚🔥 A resposta tá no monte de grama cortada do seu quintal. Manda pro amigo que é fã de dragão 👇",
+   "legenda_tiktok": "Como um dragão chocaria o ovo sem cozinhar o filhote? 🥚🔥 A resposta tá no monte de grama cortada do seu quintal. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "legenda_instagram": "Como um dragão chocaria o ovo sem cozinhar o filhote? 🥚🔥 A resposta tá no monte de grama cortada do seu quintal. Manda pro amigo que é fã de dragão 👇\n\n#curiosidades #natureza #vocesabia #ciencia #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-16/DESCUBRA-LOTE-16-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 75
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "canal": {
+  "id": "XABLAU",
+  "nome": "Professor Xablau",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-21",
+ "gerado": "2026-11-26T16:54:30",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 78.57,
+   "revisao": "pendente",
+   "titulo": "Por que o cérebro do Gojo sangrou contra o Sukuna? 🧠",
+   "legenda": "Por que o cérebro do Gojo sangrou na luta contra o Sukuna? 🧠 E sem o Mahoraga, o Sukuna vencia? Comenta 👇 Obra de fã. Professor Xablau ensinou, agora vai pesquisar!",
+   "legenda_tiktok": "Por que o cérebro do Gojo sangrou na luta contra o Sukuna? 🧠 E sem o Mahoraga, o Sukuna vencia? Comenta 👇 Obra de fã. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #jujutsukaisen #gojo",
+   "legenda_instagram": "Por que o cérebro do Gojo sangrou na luta contra o Sukuna? 🧠 E sem o Mahoraga, o Sukuna vencia? Comenta 👇 Obra de fã. Professor Xablau ensinou, agora vai pesquisar!\n\n#curiosidades #anime #professorxablau #jujutsukaisen #gojo",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v2.mp4",
+   "capa": "previa/V01-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/XABLAU-LOTE-21/XABLAU-LOTE-21-V01-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": null
+  }
+ ]
+}

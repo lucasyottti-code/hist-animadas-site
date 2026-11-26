@@ -1,0 +1,48 @@
+{
+ "videos": {
+  "V01": {
+   "versao": "v1",
+   "partes": {
+    "video": {
+     "acao": "pendente",
+     "pedido": "",
+     "v": "v1"
+    }
+   },
+   "acao": "pendente",
+   "pedido": "",
+   "quando": "2026-10-23T17:13:48.144Z",
+   "postado": {
+    "tiktok": "2026-10-28",
+    "youtube": "2026-10-28",
+    "instagram": "2026-10-28"
+   },
+   "concluido": "2026-10-28"
+  },
+  "V02": {
+   "postado": {
+    "tiktok": "2026-10-28",
+    "youtube": "2026-10-28",
+    "instagram": "2026-10-28"
+   },
+   "concluido": "2026-10-28"
+  },
+  "V03": {
+   "postado": {
+    "tiktok": "2026-10-28",
+    "youtube": "2026-10-28",
+    "instagram": "2026-10-28"
+   },
+   "concluido": "2026-10-28"
+  },
+  "V04": {
+   "postado": {
+    "tiktok": "2026-10-28",
+    "youtube": "2026-10-28",
+    "instagram": "2026-10-28"
+   },
+   "concluido": "2026-10-28"
+  }
+ },
+ "atualizado": "2026-10-28T19:14:05.508569+00:00"
+}
