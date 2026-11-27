@@ -1,0 +1,88 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-18",
+ "gerado": "2026-11-19T13:55:43",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 67.27,
+   "revisao": "aprovado",
+   "titulo": "O jacaré na loja do trailer do GTA 6 acontece de verdade?",
+   "legenda": "O jacaré entrando na loja no trailer do GTA 6 acontece de verdade? 🐊 Já apareceu jacaré perto da sua casa? Comenta aí e manda pro amigo que tá jogando GTA 6 👇",
+   "legenda_tiktok": "O jacaré entrando na loja no trailer do GTA 6 acontece de verdade? 🐊 Já apareceu jacaré perto da sua casa? Comenta aí e manda pro amigo que tá jogando GTA 6 👇\n\n#curiosidades #natureza #vocesabia #gta6 #animais",
+   "legenda_instagram": "O jacaré entrando na loja no trailer do GTA 6 acontece de verdade? 🐊 Já apareceu jacaré perto da sua casa? Comenta aí e manda pro amigo que tá jogando GTA 6 👇\n\n#curiosidades #natureza #vocesabia #gta6 #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v2.mp4",
+   "capa": "previa/V01-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-18/DESCUBRA-LOTE-18-V01-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": 79
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 67.27,
+   "revisao": "pendente",
+   "titulo": "Por que a iguana do GTA 6 cai das árvores na vida real?",
+   "legenda": "Na vida real, a iguana do GTA 6 cai das árvores quando esfria. Por quê? 🦎 E ela é a mesma que vive solta no Brasil. Tem iguana perto da sua casa? Comenta aí e manda pro amigo que tá jogando GTA 6 👇",
+   "legenda_tiktok": "Na vida real, a iguana do GTA 6 cai das árvores quando esfria. Por quê? 🦎 E ela é a mesma que vive solta no Brasil. Tem iguana perto da sua casa? Comenta aí e manda pro amigo que tá jogando GTA 6 👇\n\n#curiosidades #natureza #vocesabia #gta6 #animais",
+   "legenda_instagram": "Na vida real, a iguana do GTA 6 cai das árvores quando esfria. Por quê? 🦎 E ela é a mesma que vive solta no Brasil. Tem iguana perto da sua casa? Comenta aí e manda pro amigo que tá jogando GTA 6 👇\n\n#curiosidades #natureza #vocesabia #gta6 #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": null,
+   "removido": "2026-11-19",
+   "excluido": true
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 76.0,
+   "revisao": "aprovado",
+   "titulo": "Para onde o cachorro do jet ski do GTA 6 te leva?",
+   "legenda": "Para onde o cachorro do jet ski do GTA 6 te leva? 🐶 Quem fez o jogo não explicou. Qual é a sua teoria? Comenta aí e manda pro amigo que tá jogando GTA 6 👇",
+   "legenda_tiktok": "Para onde o cachorro do jet ski do GTA 6 te leva? 🐶 Quem fez o jogo não explicou. Qual é a sua teoria? Comenta aí e manda pro amigo que tá jogando GTA 6 👇\n\n#curiosidades #natureza #vocesabia #gta6 #animais",
+   "legenda_instagram": "Para onde o cachorro do jet ski do GTA 6 te leva? 🐶 Quem fez o jogo não explicou. Qual é a sua teoria? Comenta aí e manda pro amigo que tá jogando GTA 6 👇\n\n#curiosidades #natureza #vocesabia #gta6 #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-18/DESCUBRA-LOTE-18-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 78
+  }
+ ]
+}

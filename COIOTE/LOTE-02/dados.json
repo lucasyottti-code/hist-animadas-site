@@ -1,0 +1,127 @@
+{
+ "canal": {
+  "id": "COIOTE",
+  "nome": "Coiote Clip",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-11-26T17:55:07",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.77,
+   "revisao": "aprovado",
+   "titulo": "A rua onde tudo que alguém esquece vira pipa",
+   "legenda": "Na rua do seu Zé, tudo que alguém esquece vira pipa e sai pela janela 🪁 Quem te ensinou uma coisa que você faz até hoje? Escreve o nome 👇",
+   "legenda_tiktok": "Na rua do seu Zé, tudo que alguém esquece vira pipa e sai pela janela 🪁 Quem te ensinou uma coisa que você faz até hoje? Escreve o nome 👇\n\n#historias #conto #animacao #avo #familia",
+   "legenda_instagram": "Na rua do seu Zé, tudo que alguém esquece vira pipa e sai pela janela 🪁 Quem te ensinou uma coisa que você faz até hoje? Escreve o nome 👇\n\n#historias #conto #animacao #avo #familia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COIOTE-LOTE-02/COIOTE-LOTE-02-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 2
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.13,
+   "revisao": "aprovado",
+   "titulo": "Cada \"depois eu ligo\" encolhe a sua cadeira na mesa da sua mãe",
+   "legenda": "Cada \"depois eu ligo, mãe\" tira um palmo da cadeira do Léo na mesa dela 📞 Faz quanto tempo que você não liga pra casa sem precisar de nada? Comenta 👇",
+   "legenda_tiktok": "Cada \"depois eu ligo, mãe\" tira um palmo da cadeira do Léo na mesa dela 📞 Faz quanto tempo que você não liga pra casa sem precisar de nada? Comenta 👇\n\n#historias #conto #animacao #mae #saudade",
+   "legenda_instagram": "Cada \"depois eu ligo, mãe\" tira um palmo da cadeira do Léo na mesa dela 📞 Faz quanto tempo que você não liga pra casa sem precisar de nada? Comenta 👇\n\n#historias #conto #animacao #mae #saudade",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COIOTE-LOTE-02/COIOTE-LOTE-02-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 3
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 73.97,
+   "revisao": "aprovado",
+   "titulo": "Quem deve dinheiro fica com a cara de quem emprestou",
+   "legenda": "Quem deve dinheiro vai ficando com a cara de quem emprestou 💸 Quem tava andando por aí com a sua cara hoje? Comenta só a inicial 👇",
+   "legenda_tiktok": "Quem deve dinheiro vai ficando com a cara de quem emprestou 💸 Quem tava andando por aí com a sua cara hoje? Comenta só a inicial 👇\n\n#historias #conto #animacao #dinheiro #mae",
+   "legenda_instagram": "Quem deve dinheiro vai ficando com a cara de quem emprestou 💸 Quem tava andando por aí com a sua cara hoje? Comenta só a inicial 👇\n\n#historias #conto #animacao #dinheiro #mae",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COIOTE-LOTE-02/COIOTE-LOTE-02-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 4
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 70.93,
+   "revisao": "aprovado",
+   "titulo": "O rio que nasce quando dois amigos param de se falar",
+   "legenda": "Dois amigos param de se falar e nasce um rio entre eles 🛶 Marca aqui o amigo que sumiu por uma bobagem 👇",
+   "legenda_tiktok": "Dois amigos param de se falar e nasce um rio entre eles 🛶 Marca aqui o amigo que sumiu por uma bobagem 👇\n\n#historias #conto #animacao #amizade #amigos",
+   "legenda_instagram": "Dois amigos param de se falar e nasce um rio entre eles 🛶 Marca aqui o amigo que sumiu por uma bobagem 👇\n\n#historias #conto #animacao #amizade #amigos",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/COIOTE-LOTE-02/COIOTE-LOTE-02-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 5
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 69.8,
+   "revisao": "aprovado",
+   "titulo": "2h40 da manhã, um áudio da sua mãe: se eu bater no seu quarto, não abre",
+   "legenda": "2h40 da manhã, um áudio da sua mãe no grupo da família: se eu bater no seu quarto hoje, não abre 🚪 Você abria? Comenta 👇",
+   "legenda_tiktok": "2h40 da manhã, um áudio da sua mãe no grupo da família: se eu bater no seu quarto hoje, não abre 🚪 Você abria? Comenta 👇\n\n#historias #terror #suspense #conto #madrugada",
+   "legenda_instagram": "2h40 da manhã, um áudio da sua mãe no grupo da família: se eu bater no seu quarto hoje, não abre 🚪 Você abria? Comenta 👇\n\n#historias #terror #suspense #conto #madrugada",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 6,
+   "removido": "2026-11-26"
+  }
+ ]
+}

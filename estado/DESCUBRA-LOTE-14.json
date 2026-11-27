@@ -1,0 +1,53 @@
+{
+ "videos": {
+  "V01": {
+   "postado": {
+    "tiktok": "2026-11-14",
+    "youtube": "2026-11-14",
+    "facebook": "2026-11-16",
+    "instagram": "2026-11-16"
+   }
+  },
+  "V02": {
+   "postado": {
+    "tiktok": "2026-11-15",
+    "youtube": "2026-11-15",
+    "facebook": "2026-11-18",
+    "instagram": "2026-11-18"
+   }
+  },
+  "V03": {
+   "postado": {
+    "facebook": "2026-11-16",
+    "youtube": "2026-11-16",
+    "tiktok": "2026-11-17",
+    "instagram": "2026-11-18"
+   }
+  },
+  "V04": {
+   "postado": {
+    "tiktok": "2026-11-15",
+    "youtube": "2026-11-17",
+    "facebook": "2026-11-18",
+    "instagram": "2026-11-18"
+   }
+  },
+  "V05": {
+   "postado": {
+    "tiktok": "2026-11-14",
+    "youtube": "2026-11-18",
+    "facebook": "2026-11-19",
+    "instagram": "2026-11-19"
+   }
+  },
+  "V06": {
+   "postado": {
+    "tiktok": "2026-11-15",
+    "facebook": "2026-11-19",
+    "instagram": "2026-11-19",
+    "youtube": "2026-11-19"
+   }
+  }
+ },
+ "atualizado": "2026-11-19T23:39:19.222984+00:00"
+}

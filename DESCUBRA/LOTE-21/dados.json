@@ -1,0 +1,61 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-21",
+ "gerado": "2026-11-23T08:27:52",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 64.19,
+   "revisao": "aprovado",
+   "titulo": "O pé virado do Curupira funcionaria de verdade?",
+   "legenda": "O pé virado do Curupira funcionaria de verdade? 👣 Na mata brasileira tem um gato que gira o tornozelo quase meia-volta: o maracajá, hoje Vulnerável no Brasil. Quem te contou do Curupira? Conta aí 👇",
+   "legenda_tiktok": "O pé virado do Curupira funcionaria de verdade? 👣 Na mata brasileira tem um gato que gira o tornozelo quase meia-volta: o maracajá, hoje Vulnerável no Brasil. Quem te contou do Curupira? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #folclore #animais",
+   "legenda_instagram": "O pé virado do Curupira funcionaria de verdade? 👣 Na mata brasileira tem um gato que gira o tornozelo quase meia-volta: o maracajá, hoje Vulnerável no Brasil. Quem te contou do Curupira? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #folclore #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-21/DESCUBRA-LOTE-21-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 87
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 68.47,
+   "revisao": "aprovado",
+   "titulo": "A escama de um dragão aguentaria uma espada?",
+   "legenda": "A escama de um dragão aguentaria uma espada? 🐉 A resposta passa pelo tatu da estrada e por um peixe da Amazônia que aguenta mordida de piranha. Você já comeu pirarucu? Quem da sua família já pescou um? Conta aí 👇",
+   "legenda_tiktok": "A escama de um dragão aguentaria uma espada? 🐉 A resposta passa pelo tatu da estrada e por um peixe da Amazônia que aguenta mordida de piranha. Você já comeu pirarucu? Quem da sua família já pescou um? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "legenda_instagram": "A escama de um dragão aguentaria uma espada? 🐉 A resposta passa pelo tatu da estrada e por um peixe da Amazônia que aguenta mordida de piranha. Você já comeu pirarucu? Quem da sua família já pescou um? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-21/DESCUBRA-LOTE-21-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 88
+  }
+ ]
+}
