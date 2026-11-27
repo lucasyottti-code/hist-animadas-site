@@ -1,0 +1,80 @@
+{
+ "canal": {
+  "id": "FEIJAO",
+  "nome": "Feijão Clip",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-11-27T11:34:56",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 143.33,
+   "revisao": "aprovado",
+   "titulo": "A mãe assina tudo na minha agenda há seis anos",
+   "legenda": "A minha mãe assina a minha agenda há seis anos. Ontem eu escrevi lá, de caneta vermelha: mãe, você lê isso? Ela assinou. Aí eu resolvi testar: seu filho comeu o globo…",
+   "legenda_tiktok": "A minha mãe assina a minha agenda há seis anos. Ontem eu escrevi lá, de caneta vermelha: mãe, você lê isso? Ela assinou. Aí eu resolvi testar: seu filho comeu o globo…\n\n#historia #familia #storytime #animacao #feijaoclip",
+   "legenda_instagram": "A minha mãe assina a minha agenda há seis anos. Ontem eu escrevi lá, de caneta vermelha: mãe, você lê isso? Ela assinou. Aí eu resolvi testar: seu filho comeu o globo…\n\n#historia #familia #storytime #animacao #feijaoclip",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FEIJAO-LOTE-01/FEIJAO-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 1
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 171.3,
+   "revisao": "aprovado",
+   "titulo": "Papai passou da nossa casa. Pela terceira vez",
+   "legenda": "O papai passou da nossa casa. Pela terceira vez. A gente voltava do treino, ali a nossa janela, ali a mãe na cozinha, e ele não freia. Aí ele falou: olha no retrovisor da direita.",
+   "legenda_tiktok": "O papai passou da nossa casa. Pela terceira vez. A gente voltava do treino, ali a nossa janela, ali a mãe na cozinha, e ele não freia. Aí ele falou: olha no retrovisor da direita.\n\n#historia #familia #storytime #animacao #feijaoclip",
+   "legenda_instagram": "O papai passou da nossa casa. Pela terceira vez. A gente voltava do treino, ali a nossa janela, ali a mãe na cozinha, e ele não freia. Aí ele falou: olha no retrovisor da direita.\n\n#historia #familia #storytime #animacao #feijaoclip",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FEIJAO-LOTE-01/FEIJAO-LOTE-01-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 2
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 152.8,
+   "revisao": "aprovado",
+   "titulo": "Meu pai entrou no grupo dos pais pela primeira vez. Em uma hora quase foi expulso. Em uma semana virou o chefe",
+   "legenda": "Meu pai entrou pela primeira vez no grupo dos pais. Em uma hora quase foi expulso. Em uma semana virou o chefe de lá. Manda no grupo dos pais da sua sala.",
+   "legenda_tiktok": "Meu pai entrou pela primeira vez no grupo dos pais. Em uma hora quase foi expulso. Em uma semana virou o chefe de lá. Manda no grupo dos pais da sua sala.\n\n#historia #familia #storytime #animacao #feijaoclip",
+   "legenda_instagram": "Meu pai entrou pela primeira vez no grupo dos pais. Em uma hora quase foi expulso. Em uma semana virou o chefe de lá. Manda no grupo dos pais da sua sala.\n\n#historia #familia #storytime #animacao #feijaoclip",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FEIJAO-LOTE-01/FEIJAO-LOTE-01-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 3
+  }
+ ]
+}

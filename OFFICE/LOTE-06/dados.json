@@ -1,0 +1,152 @@
+{
+ "canal": {
+  "id": "OFFICE",
+  "nome": "Office Clips",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-06",
+ "gerado": "2026-11-23T13:14:48",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 81.17,
+   "revisao": "aprovado",
+   "titulo": "Por que no Japão NÃO existe caixão",
+   "legenda": "No Japão ninguém é enterrado em caixão: cinco gerações num túmulo onde mal cabe um. Você dividia o seu túmulo com a família inteira ou prefere o seu lugar só seu?",
+   "legenda_tiktok": "No Japão ninguém é enterrado em caixão: cinco gerações num túmulo onde mal cabe um. Você dividia o seu túmulo com a família inteira ou prefere o seu lugar só seu?\n\n#curiosidades #japao #esevoce #toquio #cemiterio",
+   "legenda_instagram": "No Japão ninguém é enterrado em caixão: cinco gerações num túmulo onde mal cabe um. Você dividia o seu túmulo com a família inteira ou prefere o seu lugar só seu?\n\n#curiosidades #japao #esevoce #toquio #cemiterio",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 17,
+   "removido": "2026-11-26"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 82.49,
+   "revisao": "aprovado",
+   "titulo": "Por que as escolas do Japão estão FECHANDO",
+   "legenda": "No Japão, escola fecha porque não tem criança: a turma de trinta virou uma fileira. Isso é um problema só deles ou a gente está indo pelo mesmo caminho?",
+   "legenda_tiktok": "No Japão, escola fecha porque não tem criança: a turma de trinta virou uma fileira. Isso é um problema só deles ou a gente está indo pelo mesmo caminho?\n\n#curiosidades #japao #esevoce #escola #demografia",
+   "legenda_instagram": "No Japão, escola fecha porque não tem criança: a turma de trinta virou uma fileira. Isso é um problema só deles ou a gente está indo pelo mesmo caminho?\n\n#curiosidades #japao #esevoce #escola #demografia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 18,
+   "removido": "2026-11-26"
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 102.37,
+   "revisao": "aprovado",
+   "titulo": "A multa do Japão pra quem está ACIMA DO PESO",
+   "legenda": "No Japão, fita métrica na barriga uma vez por ano, e se passar do limite a empresa paga multa de milhões. Isso é cuidado com a saúde ou invasão demais?",
+   "legenda_tiktok": "No Japão, fita métrica na barriga uma vez por ano, e se passar do limite a empresa paga multa de milhões. Isso é cuidado com a saúde ou invasão demais?\n\n#curiosidades #japao #esevoce #trabalho #saude",
+   "legenda_instagram": "No Japão, fita métrica na barriga uma vez por ano, e se passar do limite a empresa paga multa de milhões. Isso é cuidado com a saúde ou invasão demais?\n\n#curiosidades #japao #esevoce #trabalho #saude",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v1"
+   },
+   "numero": 19,
+   "removido": "2026-11-26"
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 85.9,
+   "revisao": "aprovado",
+   "titulo": "Por que você NÃO pode dar nome ao seu filho no Japão",
+   "legenda": "No Japão, o governo pode recusar o nome que você escolheu pro seu filho. Regra que protege a criança ou o Estado se metendo onde não devia?",
+   "legenda_tiktok": "No Japão, o governo pode recusar o nome que você escolheu pro seu filho. Regra que protege a criança ou o Estado se metendo onde não devia?\n\n#curiosidades #japao #esevoce #nomes #toquio",
+   "legenda_instagram": "No Japão, o governo pode recusar o nome que você escolheu pro seu filho. Regra que protege a criança ou o Estado se metendo onde não devia?\n\n#curiosidades #japao #esevoce #nomes #toquio",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-06/OFFICE-LOTE-06-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 20
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 80.0,
+   "revisao": "aprovado",
+   "titulo": "Os hotéis no Japão são DE GRAÇA",
+   "legenda": "No Japão, hotel de graça: a cápsula do tamanho da cama, sem banheiro e sem janela. Você dormia numa dessas pra economizar ou prefere pagar o quarto inteiro?",
+   "legenda_tiktok": "No Japão, hotel de graça: a cápsula do tamanho da cama, sem banheiro e sem janela. Você dormia numa dessas pra economizar ou prefere pagar o quarto inteiro?\n\n#curiosidades #japao #esevoce #viagem #toquio",
+   "legenda_instagram": "No Japão, hotel de graça: a cápsula do tamanho da cama, sem banheiro e sem janela. Você dormia numa dessas pra economizar ou prefere pagar o quarto inteiro?\n\n#curiosidades #japao #esevoce #viagem #toquio",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-06/OFFICE-LOTE-06-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 21
+  },
+  {
+   "id": "V06",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 74.8,
+   "revisao": "aprovado",
+   "titulo": "Por que a gravidez no Japão dura 10 MESES",
+   "legenda": "No Japão a gravidez dura dez meses, e as duas amigas estão com as mesmas 36 semanas. Contar por mês ou contar por semana: qual faz mais sentido?",
+   "legenda_tiktok": "No Japão a gravidez dura dez meses, e as duas amigas estão com as mesmas 36 semanas. Contar por mês ou contar por semana: qual faz mais sentido?\n\n#curiosidades #japao #esevoce #gravidez #toquio",
+   "legenda_instagram": "No Japão a gravidez dura dez meses, e as duas amigas estão com as mesmas 36 semanas. Contar por mês ou contar por semana: qual faz mais sentido?\n\n#curiosidades #japao #esevoce #gravidez #toquio",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V06-v1.mp4",
+   "capa": "previa/V06-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-06/OFFICE-LOTE-06-V06-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 22
+  }
+ ]
+}

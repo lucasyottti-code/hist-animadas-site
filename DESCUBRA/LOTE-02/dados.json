@@ -1,0 +1,59 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-02",
+ "gerado": "2026-10-24T23:30:28",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v3",
+   "duracao": 74.9,
+   "revisao": "aprovado",
+   "titulo": "Por que os predadores não pegavam a gente dormindo?",
+   "legenda": "Por que os predadores não pegavam a gente dormindo? 🦁😴 Na sua casa, quem acorda antes do sol? Comenta aí 👇",
+   "legenda_tiktok": "Por que os predadores não pegavam a gente dormindo? 🦁😴 Na sua casa, quem acorda antes do sol? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "legenda_instagram": "Por que os predadores não pegavam a gente dormindo? 🦁😴 Na sua casa, quem acorda antes do sol? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #ciencia",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v3"
+   },
+   "numero": 2,
+   "removido": "2026-10-27"
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v3",
+   "duracao": 67.9,
+   "revisao": "aprovado",
+   "titulo": "Por que ninguém cria coelho como cria galinha?",
+   "legenda": "Por que ninguém cria coelho como cria galinha, se coelho é famoso por se multiplicar? 🐇🐔 Você já comeu coelho? Comenta aí 👇",
+   "legenda_tiktok": "Por que ninguém cria coelho como cria galinha, se coelho é famoso por se multiplicar? 🐇🐔 Você já comeu coelho? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #coelho",
+   "legenda_instagram": "Por que ninguém cria coelho como cria galinha, se coelho é famoso por se multiplicar? 🐇🐔 Você já comeu coelho? Comenta aí 👇\n\n#curiosidades #natureza #vocesabia #animais #coelho",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": null,
+   "capa": null,
+   "download": null,
+   "v": {
+    "video": "v3"
+   },
+   "numero": 3,
+   "removido": "2026-10-27"
+  }
+ ]
+}

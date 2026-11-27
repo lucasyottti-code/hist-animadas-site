@@ -1,0 +1,65 @@
+{
+ "videos": {
+  "V01": {
+   "versao": "v1",
+   "partes": {
+    "video": {
+     "acao": "aprovado",
+     "pedido": "",
+     "v": "v1"
+    },
+    "titulo": {
+     "acao": "aprovado",
+     "pedido": "",
+     "v": "efd378fb"
+    },
+    "thumbs": {
+     "acao": "aprovado",
+     "pedido": "",
+     "v": "383b0209"
+    },
+    "descricao": {
+     "acao": "aprovado",
+     "pedido": "",
+     "v": "6cef61e3"
+    }
+   },
+   "acao": "aprovado",
+   "pedido": "",
+   "titulo": 1,
+   "titulos_teste": [
+    2,
+    3
+   ],
+   "thumbs": [
+    1,
+    2,
+    3
+   ],
+   "quando": "2026-10-23T21:10:52.492Z",
+   "postado": {
+    "youtube": "2026-10-27"
+   },
+   "concluido": "2026-10-27"
+  },
+  "V02": {
+   "postado": {
+    "youtube": "2026-10-27"
+   },
+   "concluido": "2026-10-27"
+  },
+  "V03": {
+   "postado": {
+    "youtube": "2026-10-27"
+   },
+   "concluido": "2026-10-27"
+  },
+  "V04": {
+   "postado": {
+    "youtube": "2026-10-27"
+   },
+   "concluido": "2026-10-27"
+  }
+ },
+ "atualizado": "2026-10-27T14:29:00.154243+00:00"
+}

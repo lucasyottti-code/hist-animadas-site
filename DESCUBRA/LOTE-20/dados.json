@@ -1,0 +1,86 @@
+{
+ "canal": {
+  "id": "DESCUBRA",
+  "nome": "Descubra Natureza",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-20",
+ "gerado": "2026-11-20T06:20:35",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 66.63,
+   "revisao": "aprovado",
+   "titulo": "A mula sem cabeça poderia existir de verdade?",
+   "legenda": "A mula sem cabeça poderia existir de verdade? 🔥 Um galo viveu cerca de 18 meses sem cabeça, e dá pra explicar como. Quem te contou essa lenda quando você era criança? Conta aí 👇",
+   "legenda_tiktok": "A mula sem cabeça poderia existir de verdade? 🔥 Um galo viveu cerca de 18 meses sem cabeça, e dá pra explicar como. Quem te contou essa lenda quando você era criança? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "legenda_instagram": "A mula sem cabeça poderia existir de verdade? 🔥 Um galo viveu cerca de 18 meses sem cabeça, e dá pra explicar como. Quem te contou essa lenda quando você era criança? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-20/DESCUBRA-LOTE-20-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 84
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 67.25,
+   "revisao": "aprovado",
+   "titulo": "O Minotauro poderia existir de verdade?",
+   "legenda": "O Minotauro poderia existir de verdade? 🐂 Com cabeça de touro, o monstro que comia gente ia querer era capim. Já correu de boi? Conta aí e manda pro amigo que é fã de mitologia 👇",
+   "legenda_tiktok": "O Minotauro poderia existir de verdade? 🐂 Com cabeça de touro, o monstro que comia gente ia querer era capim. Já correu de boi? Conta aí e manda pro amigo que é fã de mitologia 👇\n\n#curiosidades #natureza #vocesabia #mitologia #animais",
+   "legenda_instagram": "O Minotauro poderia existir de verdade? 🐂 Com cabeça de touro, o monstro que comia gente ia querer era capim. Já correu de boi? Conta aí e manda pro amigo que é fã de mitologia 👇\n\n#curiosidades #natureza #vocesabia #mitologia #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-20/DESCUBRA-LOTE-20-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 85
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 63.29,
+   "revisao": "aprovado",
+   "titulo": "Por que o boto da lenda nunca tira o chapéu?",
+   "legenda": "Por que o boto da lenda nunca tira o chapéu? 🎩 O boto-cor-de-rosa de verdade respira pelo alto da cabeça, e hoje está Em Perigo de extinção. Na festa da sua cidade tinha moço de chapéu que ninguém conhecia? Conta aí 👇",
+   "legenda_tiktok": "Por que o boto da lenda nunca tira o chapéu? 🎩 O boto-cor-de-rosa de verdade respira pelo alto da cabeça, e hoje está Em Perigo de extinção. Na festa da sua cidade tinha moço de chapéu que ninguém conhecia? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "legenda_instagram": "Por que o boto da lenda nunca tira o chapéu? 🎩 O boto-cor-de-rosa de verdade respira pelo alto da cabeça, e hoje está Em Perigo de extinção. Na festa da sua cidade tinha moço de chapéu que ninguém conhecia? Conta aí 👇\n\n#curiosidades #natureza #vocesabia #brasil #animais",
+   "plataformas": [
+    "tiktok",
+    "instagram",
+    "shorts"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/DESCUBRA-LOTE-20/DESCUBRA-LOTE-20-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": 86
+  }
+ ]
+}
