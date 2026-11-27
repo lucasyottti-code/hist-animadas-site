@@ -1,0 +1,80 @@
+{
+ "canal": {
+  "id": "OFFICE",
+  "nome": "Office Clips",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-08",
+ "gerado": "2026-11-26T21:52:06",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 99.9,
+   "revisao": "aprovado",
+   "titulo": "Testemunha: um assassino te viu e o seu amigo é um idiota",
+   "legenda": "Um assassino te viu às 3 da manhã. Você tem um minuto. E o seu amigo é o Nico. Qual amigo seu abria a porta?",
+   "legenda_tiktok": "Um assassino te viu às 3 da manhã. Você tem um minuto. E o seu amigo é o Nico. Qual amigo seu abria a porta?\n\n#ficcao #esevoce #suspense #humor #terror",
+   "legenda_instagram": "Um assassino te viu às 3 da manhã. Você tem um minuto. E o seu amigo é o Nico. Qual amigo seu abria a porta?\n\n#ficcao #esevoce #suspense #humor #terror",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v2.mp4",
+   "capa": "previa/V01-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-08/OFFICE-LOTE-08-V01-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": 26
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 127.87,
+   "revisao": "aprovado",
+   "titulo": "Caíram 70 MILHÕES na sua conta. O que você faz?",
+   "legenda": "Caem 70 milhões na sua conta às 3 da manhã. Quarenta minutos depois, alguém abre a sua porta. Você devolvia ou abria?",
+   "legenda_tiktok": "Caem 70 milhões na sua conta às 3 da manhã. Quarenta minutos depois, alguém abre a sua porta. Você devolvia ou abria?\n\n#ficcao #esevoce #suspense #humor #dinheiro",
+   "legenda_instagram": "Caem 70 milhões na sua conta às 3 da manhã. Quarenta minutos depois, alguém abre a sua porta. Você devolvia ou abria?\n\n#ficcao #esevoce #suspense #humor #dinheiro",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v2.mp4",
+   "capa": "previa/V02-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-08/OFFICE-LOTE-08-V02-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": 27
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v2",
+   "duracao": 95.3,
+   "revisao": "aprovado",
+   "titulo": "1 MILHÃO cada vez que você diz SIM. Você aguentava?",
+   "legenda": "Cada 'sim' vale 1 milhão. Um 'não' zera tudo. Em qual pergunta você travava?",
+   "legenda_tiktok": "Cada 'sim' vale 1 milhão. Um 'não' zera tudo. Em qual pergunta você travava?\n\n#ficcao #esevoce #suspense #humor #milhao",
+   "legenda_instagram": "Cada 'sim' vale 1 milhão. Um 'não' zera tudo. Em qual pergunta você travava?\n\n#ficcao #esevoce #suspense #humor #milhao",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v2.mp4",
+   "capa": "previa/V03-v2.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/OFFICE-LOTE-08/OFFICE-LOTE-08-V03-v2.mp4",
+   "v": {
+    "video": "v2"
+   },
+   "numero": 28
+  }
+ ]
+}

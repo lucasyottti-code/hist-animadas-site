@@ -1,0 +1,126 @@
+{
+ "canal": {
+  "id": "FILMES",
+  "nome": "Office Filmes",
+  "formato": "curtos"
+ },
+ "lote": "LOTE-01",
+ "gerado": "2026-11-26T22:06:28",
+ "videos": [
+  {
+   "id": "V01",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.67,
+   "revisao": "pendente",
+   "titulo": "Quem segurou o jogador 456 na batatinha frita? Round 6 – Parte 1",
+   "legenda": "Ele aceitou levar tapa de um desconhecido no metrô por dinheiro. Acordou num dormitório com mais 455 pessoas, na frente de uma boneca gigante. Você teria ligado pro número do cartão? Parte 2 já no perfil.",
+   "legenda_tiktok": "Ele aceitou levar tapa de um desconhecido no metrô por dinheiro. Acordou num dormitório com mais 455 pessoas, na frente de uma boneca gigante. Você teria ligado pro número do cartão? Parte 2 já no perfil.\n\n#series #filmes #resumodeserie #round6 #squidgame",
+   "legenda_instagram": "Ele aceitou levar tapa de um desconhecido no metrô por dinheiro. Acordou num dormitório com mais 455 pessoas, na frente de uma boneca gigante. Você teria ligado pro número do cartão? Parte 2 já no perfil.\n\n#series #filmes #resumodeserie #round6 #squidgame",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V01-v1.mp4",
+   "capa": "previa/V01-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FILMES-LOTE-01/FILMES-LOTE-01-V01-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V02",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.53,
+   "revisao": "pendente",
+   "titulo": "Por que eles voltaram pro jogo depois de votar pra sair? Round 6 – Parte 2",
+   "legenda": "201 jogadores votaram pra acabar com o jogo e voltaram pra casa de mãos vazias. Lá fora era pior, e quase todos pediram pra entrar de novo. Você apertava o verde ou o vermelho? A parte 1 tá no perfil.",
+   "legenda_tiktok": "201 jogadores votaram pra acabar com o jogo e voltaram pra casa de mãos vazias. Lá fora era pior, e quase todos pediram pra entrar de novo. Você apertava o verde ou o vermelho? A parte 1 tá no perfil.\n\n#series #filmes #resumodeserie #round6 #squidgame",
+   "legenda_instagram": "201 jogadores votaram pra acabar com o jogo e voltaram pra casa de mãos vazias. Lá fora era pior, e quase todos pediram pra entrar de novo. Você apertava o verde ou o vermelho? A parte 1 tá no perfil.\n\n#series #filmes #resumodeserie #round6 #squidgame",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V02-v1.mp4",
+   "capa": "previa/V02-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FILMES-LOTE-01/FILMES-LOTE-01-V02-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V03",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.57,
+   "revisao": "pendente",
+   "titulo": "Quem era o desconhecido no bar da inspetora? La Casa de Papel",
+   "legenda": "Oito assaltantes com nomes de cidades se trancam na Casa da Moeda da Espanha com 67 reféns. Do lado de fora, o Professor chega perto demais da inspetora que comanda o caso. Ela descobre quem é o homem do bar?",
+   "legenda_tiktok": "Oito assaltantes com nomes de cidades se trancam na Casa da Moeda da Espanha com 67 reféns. Do lado de fora, o Professor chega perto demais da inspetora que comanda o caso. Ela descobre quem é o homem do bar?\n\n#series #filmes #resumodeserie #lacasadepapel #professor",
+   "legenda_instagram": "Oito assaltantes com nomes de cidades se trancam na Casa da Moeda da Espanha com 67 reféns. Do lado de fora, o Professor chega perto demais da inspetora que comanda o caso. Ela descobre quem é o homem do bar?\n\n#series #filmes #resumodeserie #lacasadepapel #professor",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V03-v1.mp4",
+   "capa": "previa/V03-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FILMES-LOTE-01/FILMES-LOTE-01-V03-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V04",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.6,
+   "revisao": "pendente",
+   "titulo": "O que o menino via que ninguém mais via? O Sexto Sentido",
+   "legenda": "Um menino conta a um psicólogo o segredo que não contava a ninguém: ele vê quem já se foi, o tempo inteiro. Malcolm tenta ajudar Cole a entender o que essas visitas querem dele. Ele vai ter coragem de contar o segredo pra própria mãe?",
+   "legenda_tiktok": "Um menino conta a um psicólogo o segredo que não contava a ninguém: ele vê quem já se foi, o tempo inteiro. Malcolm tenta ajudar Cole a entender o que essas visitas querem dele. Ele vai ter coragem de contar o segredo pra própria mãe?\n\n#series #filmes #resumodeserie #osextosentido #colesear",
+   "legenda_instagram": "Um menino conta a um psicólogo o segredo que não contava a ninguém: ele vê quem já se foi, o tempo inteiro. Malcolm tenta ajudar Cole a entender o que essas visitas querem dele. Ele vai ter coragem de contar o segredo pra própria mãe?\n\n#series #filmes #resumodeserie #osextosentido #colesear",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V04-v1.mp4",
+   "capa": "previa/V04-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FILMES-LOTE-01/FILMES-LOTE-01-V04-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  },
+  {
+   "id": "V05",
+   "tipo": "curto",
+   "corte": null,
+   "de": null,
+   "versao": "v1",
+   "duracao": 72.9,
+   "revisao": "pendente",
+   "titulo": "Por que a aluna do FBI contou seus segredos ao Dr. Lecter? O Silêncio dos Inocentes",
+   "legenda": "Uma aluna do FBI precisa da ajuda do Dr. Hannibal Lecter, preso atrás de uma parede de vidro, para encontrar outro vilão. Só que cada pista dele custa uma lembrança dela. Você chegaria perto daquele vidro?",
+   "legenda_tiktok": "Uma aluna do FBI precisa da ajuda do Dr. Hannibal Lecter, preso atrás de uma parede de vidro, para encontrar outro vilão. Só que cada pista dele custa uma lembrança dela. Você chegaria perto daquele vidro?\n\n#series #filmes #resumodeserie #osilenciodosinocentes #hanniballecter",
+   "legenda_instagram": "Uma aluna do FBI precisa da ajuda do Dr. Hannibal Lecter, preso atrás de uma parede de vidro, para encontrar outro vilão. Só que cada pista dele custa uma lembrança dela. Você chegaria perto daquele vidro?\n\n#series #filmes #resumodeserie #osilenciodosinocentes #hanniballecter",
+   "plataformas": [
+    "tiktok"
+   ],
+   "previa": "previa/V05-v1.mp4",
+   "capa": "previa/V05-v1.jpg",
+   "download": "https://github.com/lucasyottti-code/hist-animadas-site/releases/download/FILMES-LOTE-01/FILMES-LOTE-01-V05-v1.mp4",
+   "v": {
+    "video": "v1"
+   },
+   "numero": null
+  }
+ ]
+}
